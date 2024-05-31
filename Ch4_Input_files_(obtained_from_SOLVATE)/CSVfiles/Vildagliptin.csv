@@ -1,0 +1,1583 @@
+Prot Water Number,Prot in Range,Closest Prot Atom,Distance,ProtHB,ProtHB Atoms,ProtHF,ProtHF Atoms,Lig in Range,Closest Lig Atom,Distance,LigHB,LigHB Atoms,LigHF,LigHF Atoms,Networked,NetworkCount,Fate,Match LigWat Number
+1,True, O   VAL  169,2.8426630120364265,True, O   VAL  169 | O   PHE  170 | OG  SER  171 | NE  ARG  320 | NH2 ARG  320,False,,False, C14 LIG    1,7.113216853154414,False,,False,,True,7,Matched,2
+2,True, O   GLU  167,2.5588960510345036,True, NE2 HIS   88 | O   GLU  167 | OG  SER  171,False,,True, O02 LIG    1,2.833143836800387,True, O02 LIG    1,False,,True,4,Matched,1
+3,True, CB  SER  592,2.520995438313998,True, OH  TYR  509 | OG  SER  592 | N   TYR  593,False,,True, N02 LIG    1,0.9429957582089108,True, N02 LIG    1,False,,True,4,Absolute Displacement,0
+4,True, O   GLU  167,2.422344731866217,True, O   GLU  167 | OG  SER  171,False,,False, C14 LIG    1,3.698931332155276,False,,False,,True,10,Matched,4
+5,True, OE1 GLU  168,2.371749354379591,True, OE2 GLU  167 | O   GLU  167 | OE1 GLU  168,False,,True, N03 LIG    1,1.6828315423713676,True, N03 LIG    1,False,,True,8,Contact SWB,-1
+6,True, NE2 HIS  702,2.4217654717168604,True, OG  SER  592 | NE2 HIS  702,False,,False, C06 LIG    1,3.539317589592658,False,,False,,True,8,Matched,47
+7,True, O   SER  171,2.421860028985987,True, ND1 HIS   88 | NE2 HIS   88 | O   SER  171,False,,False, O02 LIG    1,5.618663542160182,False,,False,,True,9,Matched,6
+8,True, NE2 HIS  702,2.6476633094107678,True, NH2 ARG   87 | OG  SER  592 | ND2 ASN  672 | NE2 HIS  702,False,,True, O01 LIG    1,2.2492767726538294,True, N01 LIG    1 | O01 LIG    1,False,,True,8,Matched,13
+9,True, NZ  LYS   84,2.5891098856556867,True, NZ  LYS   84 | OD2 ASP  701,False,,False, O01 LIG    1,9.432008375738432,False,,False,,True,8,Matched,7
+10,True, NH2 ARG  631,2.525944179905799,True, OE1 GLU  168 | O   GLU  168 | NH1 ARG  631 | NH2 ARG  631,False,,False, C13 LIG    1,4.336786137221895,False,,False,,True,2,Matched,23
+11,True, CA  PHE  170,2.4710900428758182,True, O   VAL  169 | O   PHE  170 | NH1 ARG  320 | NH2 ARG  320,False,,False, O02 LIG    1,9.92378904451319,False,,False,,True,3,Matched,8
+12,True, O   ARG   87,2.8206660560938475,True, O   ARG   87 | ND1 HIS   88,False,,False, O02 LIG    1,8.806166986833718,False,,False,,True,4,Matched,10
+13,True, OH  TYR  628,2.559126608825751,True, OH  TYR  509 | OH  TYR  628,False,,False, N02 LIG    1,3.862231220421689,False,,False,,True,5,Matched,14
+14,True, OE2 GLU  168,2.3572867878134853,True, OE2 GLU  167 | OE1 GLU  168 | OE2 GLU  168 | OH  TYR  624,False,,True, N03 LIG    1,1.6863786644760426,True, N01 LIG    1 | O01 LIG    1 | N03 LIG    1,False,,True,6,Contact SWB,-1
+15,True, OD1 ASP  671,2.4213271154472267,True, OD1 ASP  671 | OD2 ASP  701 | N   HIS  702,False,,False, O01 LIG    1,8.68642129993705,False,,False,,True,5,Matched,12
+16,True, ND1 HIS   88,2.7531590945675486,True, ND1 HIS   88 | O   SER  171,False,,False, O02 LIG    1,8.45197367482886,False,,False,,True,5,Matched,11
+17,True, OD1 ASP  507,2.5586893129100248,True, OD1 ASP  507 | O   VAL  508 | NZ  LYS  516,False,,False, N02 LIG    1,9.032200230287193,False,,False,,True,6,Matched,15
+18,True, CE  LYS   84,2.4214435777031826,True, NZ  LYS   84 | O   TRP   86 | O   ARG   87,False,,False, O02 LIG    1,9.989706001679933,False,,False,,True,4,Matched,16
+19,True, CE2 TYR  547,2.6828831506422333,True, O   CYS  513 | OH  TYR  547,False,,False, C11 LIG    1,7.642095654988886,False,,False,,True,6,Matched,17
+20,True, OH  TYR  418,2.843004396760577,True, NH2 ARG  391 | OH  TYR  418,False,,False, C11 LIG    1,10.303423169024946,False,,False,,True,5,Matched,18
+21,True, C   SER  592,2.5822610247610513,True, OG  SER  592 | O   SER  592 | N   TYR  593 | O   ALA  616 | N   VAL  618,False,,True, C04 LIG    1,3.3109969797630456,False,,True, C04 LIG    1,True,3,Matched,64
+22,True, O   CYS  513,2.3707673863118655,True, SG  CYS  513 | O   CYS  513 | OH  TYR  547,False,,False, C11 LIG    1,6.515435211864208,False,,False,,True,5,Matched,19
+23,True, OH  TYR  547,2.9322259462735834,True, NH2 ARG  391 | OH  TYR  547,False,,False, C11 LIG    1,10.067544338119403,False,,False,,True,4,Matched,20
+24,True, O   GLU  168,2.622188780389387,True, O   GLU  168 | O   PHE  319 | NH2 ARG  631,False,,False, C13 LIG    1,7.676156394967467,False,,False,,True,6,Matched,21
+25,True, CB  SER  171,2.6157987307895034,True, O   PHE  170 | O   SER  171,False,,False, O02 LIG    1,7.258306551806697,False,,False,,True,7,Matched,22
+26,True, CD2 HIS   88,2.708783490794347,True, NE2 HIS   88 | O   GLU  166 | N   GLU  167 | OE1 GLU  167,False,,False, O02 LIG    1,5.579913440188836,False,,False,,True,2,Matched,24
+27,True, OH  TYR  628,2.7375182191174585,True, O   PRO  512 | OH  TYR  628 | OH  TYR  632,False,,False, C11 LIG    1,5.166305449738721,False,,False,,True,4,Matched,25
+28,True, O   GLU  166,2.373478038659725,True, O   TYR  165 | O   GLU  166 | N   GLU  167 | O   GLU  167 | N   GLU  168 | N   VAL  169 | N   PHE  170 | N   SER  171,False,,False, C17 LIG    1,6.369504925816448,False,,False,,True,3,Matched,36
+29,True, N   PHE  319,2.6101994176690804,True, N   ARG  318 | N   PHE  319 | N   ARG  320 | O   ARG  320,False,,False, C12 LIG    1,8.989999499443815,False,,False,,True,3,Matched,26
+30,True, O   VAL  508,2.5885521049420666,True, O   VAL  508 | N   TRP  591 | O   TRP  591 | N   GLY  594,False,,False, N02 LIG    1,6.2328372351602415,False,,False,,True,2,Matched,28
+31,True, N   ARG   87,3.000283986558602,True, N   ARG   87 | OD2 ASP  671,False,,False, O01 LIG    1,7.556715688710275,False,,False,,True,4,Matched,27
+32,True, CD  ARG  320,2.5815644481592943,True, O   VAL  169 | NE  ARG  320,False,,False, C14 LIG    1,7.025912182770287,False,,False,,True,6,Matched,29
+33,True, O   PHE  319,2.710192613081218,True, OE1 GLN  282 | O   PHE  319 | NE  ARG  631 | NH2 ARG  631,False,,False, C13 LIG    1,9.651333793833883,False,,False,,True,3,Matched,30
+34,True, CB  TYR  509,2.8549292460584734,True, NZ  LYS  516,False,,False, N02 LIG    1,7.5990100671074226,False,,False,,True,5,Matched,31
+35,True, OD1 ASP  541,2.6362568160177426,True, OG  SER  514 | O   SER  514 | N   GLN  515 | N   LYS  516 | OD1 ASP  541,False,,False, C11 LIG    1,10.409196174537206,False,,False,,True,2,Matched,32
+36,True, CZ2 TRP  591,2.4653379078738924,True, NE1 TRP  591 | O   HIS  702 | O   GLY  703,False,,False, C06 LIG    1,8.584978974930568,False,,False,,True,4,Matched,33
+37,True, CE2 TYR  628,2.964857163507205,True, OE1 GLU  168,False,,True, C13 LIG    1,1.6190796768534947,True, N03 LIG    1,False,,True,7,Contact SWB,-1
+38,True, NE2 GLN  677,2.5889293153734427,True, O   TYR  623 | O   ASN  672 | N   HIS  674 | NE2 GLN  677,False,,False, C04 LIG    1,6.663173793321018,False,,False,,True,3,Matched,34
+39,True, C   PHE  319,2.6222053695315304,True, O   VAL  316 | O   GLY  317 | N   PHE  319 | O   PHE  319 | N   ARG  320,False,,False, C12 LIG    1,9.78937735507218,False,,False,,True,1,Matched,37
+40,True, O   GLN  515,3.186672559269309,True, O   GLN  515,False,,False, C11 LIG    1,8.528641978650532,False,,False,,True,5,Matched,38
+41,True, OH  TYR  632,2.6670228720429083,True, O   ARG  318 | O   PRO  512 | OH  TYR  632,False,,False, C12 LIG    1,7.171270738160711,False,,False,,True,2,Matched,39
+42,True, NE2 HIS   88,2.8433311449776686,True, NE2 HIS   88,False,,True, O02 LIG    1,2.4898114386434975,True, O02 LIG    1,False,,True,8,Matched,9
+43,True, OH  TYR  509,2.9581592249234983,True, OH  TYR  509,False,,True, N02 LIG    1,3.239522958708586,True, N02 LIG    1,False,,True,11,Matched,105
+44,True, CG1 VAL  627,2.467653743943831,True, OE1 GLN  282 | NE2 GLN  282 | NH2 ARG  631,False,,False, C13 LIG    1,9.375018346648712,False,,False,,True,4,Matched,40
+45,True, OH  TYR  509,2.6473481070686593,True, OH  TYR  509,False,,True, C09 LIG    1,1.8046520440239968,True, N01 LIG    1 | O01 LIG    1 | N02 LIG    1 | N03 LIG    1,False,,True,8,Contact SWB,-1
+46,True, CG1 VAL  169,2.615381234160712,True, O   VAL  169 | O   CYS  263,False,,False, C14 LIG    1,10.271440210603377,False,,False,,True,3,Matched,41
+47,True, CD1 PHE  319,2.431207724568184,True, NH1 ARG  631 | OH  TYR  632,False,,False, C13 LIG    1,3.7791592980450037,False,,False,,True,4,Matched,42
+48,True, NZ  LYS  516,3.000088998679874,True, NZ  LYS  516,False,,False, N02 LIG    1,9.243949967411119,False,,False,,True,7,Indirect Displacement,0
+49,True, OG  SER  592,2.8426556245876835,True, OG  SER  592,False,,True, N01 LIG    1,1.3073167175554665,True, N01 LIG    1 | O01 LIG    1 | N02 LIG    1,False,,True,9,Contact SWB,-1
+50,True, OH  TYR  624,2.371334223596493,True, OE2 GLU  168 | OH  TYR  624,False,,True, C02 LIG    1,1.5411735788028535,True, N01 LIG    1 | O01 LIG    1 | N03 LIG    1,False,,True,7,Contact SWB,-1
+51,True, O   TYR  623,2.3393967171046515,True, OH  TYR  218 | NZ  LYS  220 | O   TYR  623 | NE2 HIS  674,False,,False, C04 LIG    1,8.488707852199886,False,,False,,True,2,Matched,43
+52,True, NZ  LYS  220,2.488716536691151,True, NZ  LYS  220 | O   TYR  623 | N   HIS  674 | OE1 GLN  676,False,,False, C04 LIG    1,9.184354958297288,False,,False,,True,3,Matched,46
+53,True, CZ  PHE  319,2.5574888074046362,True, O   PRO  512 | O   CYS  513 | N   SER  514,False,,False, C11 LIG    1,4.903071384346755,False,,False,,True,5,Matched,49
+54,True, CD2 HIS  666,2.442386333076728,True, NE2 HIS  666 | N   GLY  667 | OD2 ASP  670,False,,False, C06 LIG    1,9.52572774122796,False,,False,,True,2,Matched,48
+55,True, NH2 ARG   87,2.608973744597669,True, NE  ARG   87 | NH2 ARG   87 | OE2 GLU  167,False,,True, C17 LIG    1,1.5286598706056274,True, O01 LIG    1 | N03 LIG    1 | O02 LIG    1,False,,True,8,Contact SWB,-1
+56,True, OG  SER  171,2.6478642336796696,True, OG  SER  171,False,,True, C14 LIG    1,2.499673778715933,True, O02 LIG    1,False,,True,9,Matched,5
+57,True, NH2 ARG  320,3.0225740685713585,True, NE  ARG  320 | NH2 ARG  320,False,,False, C14 LIG    1,7.7275733577883265,False,,False,,True,8,Matched,52
+58,True, ND2 ASN  672,2.6094991856676306,True, NH2 ARG   87 | ND2 ASN  672,False,,False, O01 LIG    1,5.024731336101465,False,,False,,True,4,Matched,50
+59,True, OG  SER  171,2.5589738177636763,True, OG  SER  171,False,,False, O02 LIG    1,6.084523070874163,False,,False,,True,8,Indirect Displacement,0
+60,True, CG  ARG  320,2.617278930492503,True, NE  ARG  320,False,,False, C14 LIG    1,7.277472706922369,False,,False,,True,8,Matched,55
+61,True, CD  GLU  166,2.5308943083424102,True, O   TRP  163 | OE1 GLU  166 | OE2 GLU  166,False,,False, C17 LIG    1,8.982010799370041,False,,False,,True,1,Matched,56
+62,True, OH  TYR  218,2.489629289673466,True, OH  TYR  218 | OH  TYR  624 | OD2 ASP  625 | OD1 ASN  672 | O   ASN  672,False,,False, C01 LIG    1,5.5098582558900695,False,,False,,True,2,Matched,70
+63,True, OH  TYR  509,3.1159663027702975,True, OH  TYR  509,False,,True, C11 LIG    1,2.372907499250661,False,,True, C10 LIG    1 | C11 LIG    1,True,11,Secondary Displaced,0
+64,True, O   HIS  702,2.6734191590545597,True, O   ASP  701 | O   HIS  702,False,,False, C06 LIG    1,9.218504325540014,False,,False,,True,1,Matched,57
+65,True, NH2 ARG   87,2.8198492867527563,True, NH1 ARG   87 | NH2 ARG   87,False,,False, O01 LIG    1,4.388328725152669,False,,False,,True,10,Matched,59
+66,True, O   ARG   87,2.370946224611603,True, O   ARG   87,False,,False, O02 LIG    1,8.936114032396858,False,,False,,True,6,Matched,58
+67,True, N   TYR  593,2.6657406100369196,True, OG  SER  592 | N   TYR  593,False,,True, C03 LIG    1,1.669177042736929,True, N01 LIG    1 | N02 LIG    1,False,,True,7,Contact SWB,-1
+68,True, O   ALA  510,2.589162219715091,True, O   ALA  510 | OH  TYR  593,False,,False, C03 LIG    1,8.453979299714428,False,,False,,True,2,Matched,60
+69,True, OH  TYR  547,2.3777115047877455,True, OH  TYR  547,False,,False, C11 LIG    1,9.479080335138002,False,,False,,True,7,Matched,61
+70,True, OH  TYR  632,2.4282819029099594,True, O   ARG  318 | O   PHE  319 | NE  ARG  631 | NH1 ARG  631 | OH  TYR  632,False,,False, C13 LIG    1,6.9032076602113035,False,,False,,True,3,Matched,62
+71,True, CG1 VAL  618,2.5219282305410697,True, O   ARG  620 | N   TYR  624 | OE1 GLN  677 | NE2 GLN  677,False,,False, C04 LIG    1,6.091147182592126,False,,False,,False,0,Matched,63
+72,True, OH  TYR  547,3.0002441567312497,True, OH  TYR  547,False,,False, C11 LIG    1,5.993016352388838,False,,False,,True,10,Matched,67
+73,True, O   ARG  318,2.296025043417428,True, NE1 TRP  315 | O   GLY  317 | O   ARG  318,False,,False, C12 LIG    1,10.019499438594725,False,,False,,True,1,Matched,68
+74,True, CA  SER  514,2.5415015246896857,True, N   GLN  515,False,,False, C11 LIG    1,6.310413932540402,False,,False,,True,5,Matched,66
+75,True, O   TYR  165,2.346833185379823,True, O   TYR  165 | N   GLU  166 | O   GLU  166 | N   PHE  170 | N   SER  171 | N   ALA  172 | O   ALA  172,False,,False, O02 LIG    1,8.64198426288778,False,,False,,True,1,Matched,65
+76,True, CD  ARG  318,2.8452715160420117,True, OH  TYR  547,False,,False, C12 LIG    1,8.421198786396152,False,,False,,True,6,Matched,69
+77,True, O   SER  648,2.842712261204081,True, O   SER  619 | N   ARG  620 | N   TRP  621 | O   SER  648,False,,False, C03 LIG    1,9.550639455031272,False,,False,,True,2,Matched,71
+78,True, CG  ARG   87,2.6688209006975354,True, O   ARG   87,False,,False, O02 LIG    1,7.3466434512639855,False,,False,,True,7,Matched,73
+79,True, ND1 HIS   88,2.5590212972931665,True, ND1 HIS   88,False,,False, O02 LIG    1,7.142035424163061,False,,False,,True,9,Matched,74
+80,True, N   SER  678,2.508521676206924,True, O   PRO  617 | O   GLN  677 | N   SER  678 | OG  SER  678,False,,False, C04 LIG    1,9.568169887705796,False,,False,,True,1,Matched,75
+81,True, O   GLN  515,2.843357346518369,True, O   GLN  515,False,,False, C11 LIG    1,9.526409659467728,False,,False,,True,5,Matched,77
+82,True, CB  ALA  172,2.8653587907974147,True, O   SER  171,False,,False, O02 LIG    1,9.534850759188632,False,,False,,True,4,Matched,79
+83,True, O   TYR  596,2.446006745697977,True, O   GLY  595 | N   TYR  596 | O   TYR  596 | OG  SER  599 | O   VAL  618,False,,False, C04 LIG    1,9.910425924247654,False,,False,,True,1,Matched,78
+84,True, CB  TRP  591,2.607136551851477,True, N   TRP  591 | O   TRP  591,False,,False, N02 LIG    1,6.5178383686618035,False,,False,,True,8,Matched,76
+85,True, OD2 ASP  625,2.3075991853005995,True, OE2 GLU  168 | OD2 ASP  625,False,,False, N03 LIG    1,4.855175177066219,False,,False,,True,3,Indirect Displacement,0
+86,True, O   PRO  219,2.5258188771168797,True, O   PRO  219 | N   SER  626 | OG  SER  626,False,,False, C07 LIG    1,9.991202780446406,False,,False,,True,1,Matched,80
+87,True, CD2 LEU  560,2.4155274786265664,True, OH  TYR  593,False,,False, C03 LIG    1,7.070645373655788,False,,False,,True,3,Matched,82
+88,True, NH2 ARG  522,3.0000751657250233,True, NH2 ARG  522,False,,False, C15 LIG    1,10.725737690247698,False,,False,,True,4,Matched,81
+89,True, NH1 ARG  631,2.309771633733521,True, O   TYR  628 | NE  ARG  631 | NH1 ARG  631 | OH  TYR  632,False,,False, C13 LIG    1,7.067296583560083,False,,False,,False,0,Matched,83
+90,True, CB  PRO  617,2.492615092628626,True, O   GLY  595 | OG  SER  599,False,,False, C04 LIG    1,10.216562533455171,False,,False,,True,2,Matched,85
+91,True, OE1 GLN  676,2.371453773532178,True, OE1 GLN  676 | N   GLN  677,False,,False, C04 LIG    1,10.46764051732767,False,,False,,True,1,Matched,86
+92,True, CE1 TYR  593,2.4469160181747136,True, O   TYR  509 | O   ALA  510 | N   GLY  511,False,,False, N02 LIG    1,8.182699004607215,False,,False,,True,1,Matched,89
+93,True, O   GLY  594,2.4304300031064465,True, O   TYR  509 | O   TYR  593 | O   GLY  594 | N   VAL  597 | N   THR  598,False,,False, N02 LIG    1,8.436330778247136,False,,False,,False,0,Matched,91
+94,True, O   THR  629,2.4217328506670595,True, O   TYR  628 | O   THR  629,False,,False, C03 LIG    1,7.413033657012489,False,,False,,True,3,Matched,90
+95,True, OE1 GLU  564,2.3715920812821096,True, OE1 GLU  564 | OH  TYR  593,False,,False, C03 LIG    1,9.305914785769325,False,,False,,True,2,Matched,92
+96,True, O   VAL  164,2.370940319788755,True, O   VAL  164 | N   GLU  168 | O   GLU  168 | N   VAL  169,False,,False, N03 LIG    1,7.94828623037696,False,,False,,True,2,Matched,94
+97,True, CG  TYR  593,2.4918806151178248,True, O   TYR  593,False,,False, C03 LIG    1,4.62347207193901,False,,False,,True,3,Matched,93
+98,True, NH1 ARG   87,2.7099983394828855,True, NH1 ARG   87,False,,False, C15 LIG    1,5.298855253731698,False,,False,,True,11,Matched,88
+99,True, NH1 ARG   87,2.709998154980924,True, NH1 ARG   87,False,,False, C15 LIG    1,5.500585605187871,False,,False,,True,9,Matched,164
+100,True, OG1 THR  629,2.4211868990228695,True, N   THR  629 | OG1 THR  629,False,,False, C03 LIG    1,5.235511245332207,False,,False,,True,4,Matched,95
+101,True, OH  TYR  547,2.843088989110262,True, OH  TYR  547,False,,False, C14 LIG    1,7.071258091740106,False,,False,,True,9,Matched,135
+102,True, CD  ARG  318,2.5178746990269403,True, NH1 ARG  318,False,,False, C12 LIG    1,10.060255662755296,False,,False,,True,4,Matched,99
+103,True, NH2 ARG  320,2.4780792965520697,True, O   PHE  170 | NH2 ARG  320,False,,False, O02 LIG    1,9.14610567400137,False,,False,,True,6,Matched,97
+104,True, OD2 ASP  671,3.116229131498522,True, OD1 ASP  671 | OD2 ASP  671,False,,False, O01 LIG    1,7.149125401054316,False,,False,,True,8,Matched,100
+105,True, CG  ARG  320,2.6342175308808438,True, NE  ARG  320 | O   PRO  321,False,,False, C14 LIG    1,10.441590779186852,False,,False,,True,1,Matched,103
+106,True, CA  GLY  703,2.549825092040624,True, O   GLY  703,False,,False, O01 LIG    1,9.96988570646625,False,,False,,True,5,Matched,102
+107,True, OE1 GLU  167,2.344925585173227,True, NE  ARG   87 | OE1 GLU  167 | OE2 GLU  167 | O   GLU  167,False,,True, C17 LIG    1,2.878207949401851,True, O02 LIG    1,False,,True,5,Matched,110
+108,True, OG  SER  171,3.186871349772379,True, OG  SER  171,False,,False, C14 LIG    1,4.338940077945299,False,,False,,True,10,Matched,35
+109,True, OE2 GLU  167,2.64732204312207,True, NH2 ARG   87 | OE2 GLU  167,False,,True, O01 LIG    1,0.984692845510721,True, N01 LIG    1 | O01 LIG    1 | N03 LIG    1,False,,True,8,Absolute Displacement,0
+110,True, CD  LYS  516,2.8693206513040677,True, NZ  LYS  516,False,,False, C10 LIG    1,9.430073064404114,False,,False,,True,6,Matched,143
+111,True, CD1 PHE  170,2.4698133532718627,True, O   VAL  169 | N   PHE  170 | O   CYS  263 | NH1 ARG  320,False,,False, C14 LIG    1,10.80126710159507,False,,False,,True,2,Ghost Match,0
+112,False, OH  TYR  418,3.840550090807302,False,,False,,False, C11 LIG    1,9.165542646237595,False,,False,,True,7,Matched,106
+113,True, OE1 GLU  168,2.5594558015328155,True, O   GLU  167 | OE1 GLU  168,False,,True, C13 LIG    1,2.7632014041687167,False,,True, C12 LIG    1 | C13 LIG    1 | C14 LIG    1,True,7,Matched,126
+114,True, CB  GLN  515,2.5255256878519323,True, NH2 ARG  391 | OE1 GLN  515,False,,False, C11 LIG    1,10.358288372120175,False,,False,,True,3,Matched,251
+115,True, NH2 ARG  522,2.5448941038872266,True, NE  ARG  522 | NH2 ARG  522,False,,False, C10 LIG    1,10.702405103526969,False,,False,,True,3,Matched,107
+116,True, O   VAL  169,2.495361096114146,True, N   VAL  169 | O   VAL  169 | N   PHE  170 | N   SER  171 | OG  SER  171,False,,False, C14 LIG    1,5.884165701269806,False,,False,,True,5,Matched,101
+117,True, O   PHE  170,3.1712841247671286,True, O   PHE  170,False,,False, O02 LIG    1,9.941267977476517,False,,False,,True,5,Matched,109
+118,True, OG  SER  514,2.6479103081486737,True, N   ALA  510 | OG  SER  514,False,,False, N02 LIG    1,8.651676658313114,False,,False,,True,2,Matched,108
+119,True, OG  SER  592,2.6476852154287562,True, OG  SER  592 | OH  TYR  624,False,,True, C04 LIG    1,0.8127810283219,True, N01 LIG    1 | N02 LIG    1,False,,True,6,Absolute Displacement,0
+120,False, CD2 TRP  591,4.117929212601885,False,,False,,False, C06 LIG    1,8.909526193911764,False,,False,,True,7,Indirect Displacement,0
+121,True, OD1 ASN  672,2.371848435292615,True, OH  TYR  624 | OD1 ASN  672 | ND2 ASN  672,False,,True, O01 LIG    1,2.013587842633144,True, N01 LIG    1 | O01 LIG    1,False,,True,8,Contact SWB,-1
+122,True, CE  LYS   84,2.668012368786927,True, NZ  LYS   84,False,,False, O02 LIG    1,10.272217725496281,False,,False,,True,5,Indirect Displacement,0
+123,True, CE1 HIS   88,2.749918180601017,True, O   ARG   87 | ND1 HIS   88,False,,False, O02 LIG    1,5.92016376462679,False,,False,,True,7,Matched,115
+124,False, CD  ARG  318,4.491987867303298,False,,False,,False, C14 LIG    1,8.29837249103702,False,,False,,True,10,Matched,116
+125,False, CB  ARG  318,4.537155716966296,False,,False,,False, C14 LIG    1,8.860895778644503,False,,False,,True,7,Matched,122
+126,True, CH2 TRP  589,3.4506053092175004,False,,True, CH2 TRP  589,False, N02 LIG    1,9.547765235907303,False,,False,,True,6,Matched,140
+127,True, O   GLU  168,2.6477996525417122,True, O   GLU  168 | O   PHE  319 | NH2 ARG  631,False,,False, C13 LIG    1,5.035585368157309,False,,False,,True,6,Matched,114
+128,False, OE2 GLU  323,4.213255392211587,False,,False,,False, C14 LIG    1,9.462679430267093,False,,False,,True,5,Matched,123
+129,False, CG2 ILE  367,4.51874252419852,False,,False,,False, C14 LIG    1,10.046744049690922,False,,False,,True,8,Matched,125
+130,False, N   GLY  703,3.8885465150876093,False,,False,,False, O01 LIG    1,7.979867542760342,False,,False,,True,7,Indirect Displacement,0
+131,True, OD1 ASP  671,2.2842265649449,True, OD1 ASP  670 | N   ASP  671 | OD1 ASP  671 | OD2 ASP  671 | N   ASN  672 | N   HIS  702,False,,False, O01 LIG    1,8.263978279255097,False,,False,,True,2,Matched,119
+132,False, O   GLN  515,4.919298730510274,False,,False,,False, C11 LIG    1,6.960767917406818,False,,False,,True,10,Matched,213
+133,False, CB  TRP  591,5.311470417878653,False,,False,,False, N02 LIG    1,9.194440167840561,False,,False,,True,10,Matched,271
+134,False, OH  TYR  418,5.045617999809335,False,,False,,False, C15 LIG    1,8.7296227295342,False,,False,,True,9,Matched,127
+135,True, CD1 TYR  596,2.421172856282672,True, O   VAL  618 | N   SER  619 | O   SER  619 | N   ARG  620,False,,False, C03 LIG    1,8.039490406735991,False,,False,,True,3,Matched,263
+136,True, CE1 TYR  596,2.427908153122767,True, O   SER  619 | O   SER  648 | N   VAL  650,False,,False, C03 LIG    1,10.530139790145244,False,,False,,True,2,Matched,242
+137,True, O   GLN  515,3.011864870806793,True, N   GLN  515 | O   GLN  515,False,,False, C11 LIG    1,8.137019847585476,False,,False,,True,6,Matched,117
+138,True, OD1 ASN  672,2.371167223120292,True, OE2 GLU  167 | OE2 GLU  168 | OH  TYR  624 | OD1 ASN  672 | ND2 ASN  672,False,,True, O01 LIG    1,3.363624979096212,True, O01 LIG    1,False,,True,5,Matched,44
+139,True, CB  ARG   87,2.5736421662694293,True, NE  ARG   87,False,,False, O01 LIG    1,6.878068115394031,False,,False,,True,5,Matched,128
+140,False, NZ  LYS  516,5.018353913386339,False,,False,,False, C10 LIG    1,8.807828790343285,False,,False,,True,10,Matched,275
+141,False, CG2 ILE  367,3.6037920306255136,False,,False,,False, C14 LIG    1,10.205754112264316,False,,False,,True,6,Indirect Displacement,0
+142,False, CA  GLY  703,4.908433253085958,False,,False,,False, C15 LIG    1,8.239093396727577,False,,False,,True,8,Matched,153
+143,True, CZ2 TRP  315,2.4841767247923427,True, N   CYS  513,False,,False, C12 LIG    1,9.598955828630531,False,,False,,True,2,Matched,134
+144,True, NH2 ARG  320,2.336412634788646,True, NH2 ARG  320,False,,False, C14 LIG    1,10.235078602531587,False,,False,,True,4,Matched,113
+145,True, CB  ASP  625,2.849760867160608,False,,True, CZ3 TRP  163 | CE3 TRP  163 | CG  TYR  218 | CD1 TYR  218 | CE1 TYR  218 | CZ  TYR  218 | CE2 TYR  218 | CD2 TYR  218 | CD  PRO  219 | CB  ASP  625,False, N03 LIG    1,9.428407023458416,False,,False,,True,1,Matched,142
+146,False, ND1 HIS   88,4.828060583712674,False,,False,,False, O02 LIG    1,10.056889031902458,False,,False,,True,3,Matched,132
+147,True, CD2 PHE  319,2.6873486934151307,False,,True, CB  ARG  318 | CE2 PHE  319 | CD2 PHE  319,False, C12 LIG    1,7.356577668998,False,,False,,True,7,Indirect Displacement,0
+148,True, OE1 GLU  167,2.5254498609158733,True, N   GLU  167 | OE1 GLU  167,False,,False, C17 LIG    1,6.7074688221414815,False,,False,,True,4,Matched,147
+149,True, CD2 LEU  560,2.7372091626326247,False,,True, CG  PRO  512 | CB  PRO  512 | CG1 ILE  556 | CD1 ILE  556 | CD2 LEU  560 | CB  TYR  632 | CG  TYR  632 | CD1 TYR  632,False, C02 LIG    1,9.906120380855466,False,,False,,True,1,Matched,137
+150,True, OE1 GLU  167,2.295553310206497,True, OE1 GLU  167 | OE2 GLU  167 | ND2 ASN  672,False,,False, O01 LIG    1,4.924134644787849,False,,False,,True,6,Matched,157
+151,True, CG2 THR  629,2.5623452148373764,True, O   THR  629,False,,False, C03 LIG    1,7.72082657492059,False,,False,,True,3,Matched,160
+152,False, CD2 HIS  702,3.7878282696025205,False,,False,,False, O01 LIG    1,7.244791301341954,False,,False,,True,10,Matched,167
+153,False, O   SER  171,3.677318044444892,False,,False,,False, O02 LIG    1,8.739362104867839,False,,False,,True,9,Matched,216
+154,True, CD  ARG   87,2.7351120635176884,True, NE  ARG   87 | NH1 ARG   87,False,,True, O02 LIG    1,1.5226624708056613,True, O02 LIG    1,False,,True,7,Contact SWB,-1
+155,False, OG  SER  171,5.020027290762469,False,,False,,False, C14 LIG    1,7.103386938637085,False,,False,,True,10,Indirect Displacement,0
+156,True, OG  SER  171,3.0184322089455633,True, OG  SER  171,False,,False, C14 LIG    1,4.950104746366482,False,,False,,True,11,Indirect Displacement,0
+157,False, CB  SER  171,4.661574304888851,False,,False,,False, O02 LIG    1,7.59705535059473,False,,False,,True,11,Indirect Displacement,0
+158,True, CD1 TRP  621,2.4888529486492375,True, O   LEU  560 | NE1 TRP  621 | OG  SER  648,False,,False, C03 LIG    1,10.273966176701192,False,,False,,False,0,Matched,145
+159,False, O   GLU  167,4.05962818494502,False,,False,,True, C14 LIG    1,0.696211174860045,True, O02 LIG    1,False,,True,11,Absolute Displacement,0
+160,True, CG2 VAL  164,2.419496848520372,True, O   VAL  164,False,,False, N03 LIG    1,6.815559331412206,False,,False,,True,1,Matched,87
+161,True, CE3 TRP  591,2.810257817354132,False,,True, CB  TRP  591 | CG  TRP  591 | CE3 TRP  591 | CD2 TRP  591,False, N02 LIG    1,8.42320853356962,False,,False,,True,5,Matched,195
+162,False, NH1 ARG   87,4.2807424589666665,False,,False,,True, C15 LIG    1,0.5273860066402977,True, O02 LIG    1,False,,True,11,Absolute Displacement,0
+163,True, CE2 TYR  509,2.6083178487293286,True, N   GLY  511 | O   GLY  511,False,,False, C11 LIG    1,5.54869038602804,False,,False,,True,4,Matched,139
+164,True, N   TRP  591,2.3644536366780344,True, N   TRP  591,False,,False, N02 LIG    1,8.75977368429116,False,,False,,True,4,Matched,194
+165,False, OH  TYR  547,4.336268672487905,False,,False,,False, C11 LIG    1,7.358022968162036,False,,False,,True,11,Indirect Displacement,0
+166,True, N   TYR  165,2.667049868300177,True, O   VAL  164 | N   TYR  165,False,,False, N03 LIG    1,10.262916544530603,False,,False,,True,1,Matched,170
+167,False, OG  SER  171,4.593661829085813,False,,False,,True, O02 LIG    1,2.658368860786626,True, O02 LIG    1,False,,True,10,Matched,53
+168,False, CG  PHE  319,3.9000941014288295,False,,False,,True, C14 LIG    1,2.2230398107096523,False,,True, C12 LIG    1 | C14 LIG    1,True,9,Contact Displaced Bulk,0
+169,True, O   ILE  665,2.291233292355883,True, N   ALA  616 | O   ILE  665 | ND1 HIS  666 | OG  SER  678,False,,False, C04 LIG    1,10.673604498949732,False,,False,,True,1,Matched,173
+170,True, CB  SER  171,2.4947755410056436,True, OG  SER  171,False,,False, O02 LIG    1,4.618036162699467,False,,False,,True,11,Matched,96
+171,False, CE2 PHE  319,5.104122059669026,False,,False,,False, C14 LIG    1,4.790169725594282,False,,False,,True,12,Matched,191
+172,True, OH  TYR  509,2.5612914711137402,True, OH  TYR  509,False,,True, C10 LIG    1,2.067582646473894,False,,True, C09 LIG    1 | C10 LIG    1 | C11 LIG    1 | C15 LIG    1,True,11,Matched,240
+173,True, CD2 LEU  278,3.2635450050520243,False,,True, CD2 LEU  278,False, C13 LIG    1,10.221635730155906,False,,False,,True,5,Indirect Displacement,0
+174,True, CZ3 TRP  621,2.5362336248855293,False,,True, CH2 TRP  621 | CZ3 TRP  621 | CE2 TYR  624 | CD2 TYR  624 | CD1 TYR  628 | CE1 TYR  628,True, C03 LIG    1,2.077969441546244,False,,True, C02 LIG    1 | C03 LIG    1 | C04 LIG    1,True,4,Matched,161
+175,False, OH  TYR  509,4.547740757782919,False,,False,,False, C10 LIG    1,4.425050282200187,False,,False,,True,12,Matched,156
+176,True, CD  ARG   87,2.982705148015808,False,,True, CD  ARG   87 | CE1 HIS   88,False, O02 LIG    1,3.7302196986236638,False,,False,,True,8,Indirect Displacement,0
+177,True, CE1 PHE  319,3.035506712231085,False,,True, CD1 PHE  319 | CE1 PHE  319,True, C12 LIG    1,0.8615967734387175,False,,True, C08 LIG    1 | C09 LIG    1 | C10 LIG    1 | C11 LIG    1 | C12 LIG    1 | C13 LIG    1 | C14 LIG    1 | C16 LIG    1,True,10,Absolute Displacement,0
+178,False, O   ARG   87,4.927378004578097,False,,False,,False, O02 LIG    1,8.867727781117324,False,,False,,True,7,Indirect Displacement,0
+179,False, CE1 HIS   88,3.8764648844017686,False,,False,,False, O02 LIG    1,6.50285944796595,False,,False,,True,11,Indirect Displacement,0
+180,False, NH1 ARG   87,4.681241929232024,False,,False,,False, O02 LIG    1,4.782643724970529,False,,False,,True,10,Matched,224
+181,False, NH1 ARG   87,4.590431461202745,False,,False,,False, C15 LIG    1,6.83333220325194,False,,False,,True,9,Matched,166
+182,False, NE2 HIS  702,4.571063005472572,False,,False,,False, N02 LIG    1,5.331000093791036,False,,False,,True,11,Matched,149
+183,True, O   TRP  591,2.3802760344128115,True, O   TRP  591 | N   SER  592,False,,False, N02 LIG    1,4.667008570808501,False,,False,,True,5,Indirect Displacement,0
+184,True, CZ  TYR  628,2.95082920549462,True, OH  TYR  628,False,,True, C02 LIG    1,0.94033451494668,True, N01 LIG    1 | N02 LIG    1,False,,True,7,Absolute Displacement,0
+185,False, CA  SER  514,4.645734064709252,False,,False,,False, C11 LIG    1,5.012531994910356,False,,False,,True,10,Indirect Displacement,0
+186,False, CE1 HIS   88,3.9372491666136655,False,,False,,False, O02 LIG    1,4.097261280416468,False,,False,,True,10,Matched,148
+187,False, ND1 HIS   88,5.512900234903585,False,,False,,False, O02 LIG    1,9.181932312972041,False,,False,,True,8,Matched,193
+188,False, ND1 HIS   88,4.596296552660631,False,,False,,False, O02 LIG    1,7.517928704104614,False,,False,,True,10,Matched,168
+189,False, NH1 ARG   87,5.689244765344517,False,,False,,False, C15 LIG    1,7.6322703044376015,False,,False,,True,8,Matched,183
+190,True, OH  TYR  645,2.5255852787027426,True, N   GLU  630 | OH  TYR  645,False,,False, C03 LIG    1,10.515915033890296,False,,False,,False,0,Matched,169
+191,True, CB  VAL  618,2.4245913057668043,True, O   SER  592 | N   VAL  618,False,,False, C04 LIG    1,4.116893367577061,False,,False,,True,5,Matched,192
+192,True, O   VAL  627,2.2804519288947973,True, NE2 GLN  282 | O   SER  626 | O   VAL  627 | N   GLU  630 | N   ARG  631,False,,False, C07 LIG    1,10.752741138891048,False,,False,,False,0,Matched,272
+193,True, N   ALA  616,2.355198717730631,True, N   ALA  616 | O   ILE  665 | N   HIS  666 | N   GLY  667,False,,False, C06 LIG    1,10.06256840970534,False,,False,,True,2,Matched,177
+194,False, CD2 PHE  319,4.160265977074061,False,,False,,False, C14 LIG    1,6.029971890481745,False,,False,,True,9,Ghost Match,0
+195,True, CE2 TYR  596,2.5113185779585954,False,,True, CG2 VAL  565 | CG  TYR  596 | CZ  TYR  596 | CE2 TYR  596 | CD2 TYR  596 | CA  VAL  597 | CG2 VAL  597 | CB  MET  600 | CG  MET  600,False, C03 LIG    1,9.820413535080894,False,,False,,True,1,Matched,175
+196,True, OH  TYR  593,2.300687071289798,True, OE1 GLU  564 | OH  TYR  593,False,,False, C03 LIG    1,9.359508640949057,False,,False,,True,2,Matched,133
+197,True, CE2 PHE  319,2.5694334005768646,False,,True, CZ  PHE  319 | CE2 PHE  319 | CD2 PHE  319,False, C11 LIG    1,4.3528075996992985,False,,False,,True,8,Matched,229
+198,True, CE1 TYR  628,2.4703718343601673,False,,True, CD1 LEU  560 | CH2 TRP  621 | CZ3 TRP  621 | CD1 TYR  628 | CE1 TYR  628,False, C03 LIG    1,5.160436900108362,False,,False,,True,3,Matched,189
+199,False, NH1 ARG   87,4.7393971135577955,False,,False,,False, C15 LIG    1,4.799891352937066,False,,False,,True,9,Matched,184
+200,False, CD1 TYR  509,4.280144857361723,False,,False,,False, N02 LIG    1,6.883166858358148,False,,False,,True,8,Matched,212
+201,False, O   ARG   87,4.697753718533999,False,,False,,False, O02 LIG    1,9.624478375475736,False,,False,,True,5,Indirect Displacement,0
+202,True, NE2 GLN  677,2.4686154013940675,True, NE2 GLN  677,False,,False, C04 LIG    1,4.308940240940918,False,,False,,True,1,Ghost Match,0
+203,True, CG  TYR  509,2.9436761031064536,False,,True, CB  TYR  509 | CG  TYR  509 | CD1 TYR  509 | CD2 TYR  509,False, N02 LIG    1,7.229296853774924,False,,False,,True,7,Indirect Displacement,0
+204,True, CE2 TYR  509,2.7847351759188865,True, OH  TYR  509,False,,False, C11 LIG    1,4.0213556172017455,False,,False,,True,8,Matched,72
+205,False, OH  TYR  547,6.0321022869311545,False,,False,,False, C11 LIG    1,4.977163650112379,False,,False,,True,12,Indirect Displacement,0
+206,True, NH1 ARG   87,2.5966611253684975,True, NH1 ARG   87,False,,False, C15 LIG    1,6.6982496967491425,False,,False,,True,8,Matched,206
+207,True, NH1 ARG   87,2.3062924792835746,True, NH1 ARG   87,False,,True, C15 LIG    1,3.0351133421999306,False,,True, C15 LIG    1,True,10,Matched,176
+208,True, CE2 TYR  628,2.515279904901248,True, OH  TYR  628,False,,True, C13 LIG    1,3.203641365696236,False,,True, C11 LIG    1 | C13 LIG    1,True,7,Primary Matched,51
+209,False, NH2 ARG  433,5.623665886234708,False,,False,,False, C15 LIG    1,9.854125836419996,False,,False,,True,7,Indirect Displacement,0
+210,False, O   ILE  367,5.156630779879439,False,,False,,False, C14 LIG    1,9.172672129755863,False,,False,,True,7,Matched,217
+211,False, CA  GLY  703,4.705817144768801,False,,False,,False, O02 LIG    1,9.448753833178213,False,,False,,True,6,Indirect Displacement,0
+212,False, OH  TYR  418,5.115069305493332,False,,False,,False, C15 LIG    1,9.341870369470985,False,,False,,True,8,Matched,197
+213,False, NH2 ARG  522,5.252745758172575,False,,False,,False, C15 LIG    1,9.395895167571853,False,,False,,True,8,Matched,208
+214,False, NH2 ARG  320,4.399636348608824,False,,False,,False, O02 LIG    1,9.643447723713754,False,,False,,True,7,Matched,130
+215,False, OH  TYR  547,4.716964808009485,False,,False,,False, C14 LIG    1,7.935832470509948,False,,False,,True,12,Matched,210
+216,False, NE  ARG  522,5.455563948850753,False,,False,,False, C15 LIG    1,10.622511661561026,False,,False,,True,4,Matched,252
+217,False, NE  ARG  522,5.0996084163394375,False,,False,,False, C15 LIG    1,9.186677418958393,False,,False,,True,7,Matched,202
+218,True, OD1 ASP  701,2.351122497872031,True, OD1 ASP  701 | OD2 ASP  701 | N   HIS  702 | N   GLY  703,False,,False, O01 LIG    1,9.118213531169358,False,,False,,True,3,Matched,98
+219,True, CA  TRP   86,2.5094696650886252,True, N   ARG   87 | OD1 ASP  671 | OD2 ASP  671,False,,False, O01 LIG    1,9.254844407119979,False,,False,,True,4,Matched,198
+220,True, CD1 TRP  591,2.5318327353914962,True, NE1 TRP  591,False,,False, C06 LIG    1,6.527125324367534,False,,False,,True,7,Indirect Displacement,0
+221,False, NH2 ARG  522,4.156391463757953,False,,False,,False, C15 LIG    1,8.721159441266975,False,,False,,True,9,Indirect Displacement,0
+222,True, CD2 HIS  702,2.4777298077070484,False,,True, CB  HIS  702 | CG  HIS  702 | CD2 HIS  702 | C   HIS  702,False, O01 LIG    1,6.263657477863871,False,,False,,True,5,Matched,203
+223,False, CD  LYS  516,5.3606705737248985,False,,False,,False, C10 LIG    1,7.003157716344819,False,,False,,True,9,Matched,131
+224,False, CB  ALA  705,4.811631116367917,False,,False,,False, C15 LIG    1,10.755730426149592,False,,False,,True,4,Matched,215
+225,False, O   SER  171,3.821840132710944,False,,False,,False, O02 LIG    1,7.972045785116893,False,,False,,True,11,Matched,234
+226,True, CD2 PHE  319,3.0816081840493594,False,,True, CE2 PHE  319 | CD2 PHE  319,False, C14 LIG    1,5.7043601744630354,False,,False,,True,9,Matched,141
+227,False, NH2 ARG  522,7.285469717183652,False,,False,,False, C15 LIG    1,6.212593258857369,False,,False,,True,9,Matched,259
+228,True, CZ3 TRP  589,2.4896222605045986,True, O   GLY  590 | N   TRP  591,False,,False, N02 LIG    1,9.582346111469779,False,,False,,True,1,Ghost Match,0
+229,False, NH1 ARG   87,7.283613045734924,False,,False,,False, C15 LIG    1,9.087801219216892,False,,False,,True,6,Secondary Displaced,0
+230,False, OH  TYR  509,5.00760321910592,False,,False,,True, C15 LIG    1,3.1745533544106683,False,,True, C10 LIG    1 | C15 LIG    1,True,9,Indirect Displacement,0
+231,False, OH  TYR  547,7.000576833375948,False,,False,,False, O02 LIG    1,6.188156268227233,False,,False,,True,9,Matched,231
+232,False, CB  SER  171,5.591541916144419,False,,False,,False, O02 LIG    1,6.352570660764033,False,,False,,True,8,Matched,267
+233,False, NH1 ARG   87,7.25743604863315,False,,False,,False, O02 LIG    1,7.526068495569248,False,,False,,True,10,Matched,260
+234,False, OG  SER  171,5.550083783151385,False,,False,,False, C14 LIG    1,5.645502103444828,False,,False,,True,7,Indirect Displacement,0
+235,False, CE1 HIS   88,5.109436172416679,False,,False,,False, O02 LIG    1,6.094898932714142,False,,False,,True,11,Indirect Displacement,0
+236,False, NH1 ARG   87,6.010983031085678,False,,False,,True, C15 LIG    1,3.03426910474335,False,,True, C15 LIG    1,True,9,Matched,187
+237,False, ND1 HIS   88,6.914244861154398,False,,False,,False, O02 LIG    1,9.988521011641312,False,,False,,True,5,Indirect Displacement,0
+238,False, NH1 ARG   87,5.161296058162135,False,,False,,False, C15 LIG    1,8.51759385037817,False,,False,,True,10,Matched,162
+239,False, NH1 ARG   87,6.475436510382909,False,,False,,False, C15 LIG    1,7.169645318981968,False,,False,,True,8,Matched,235
+240,False, CB  SER  171,7.069038831411239,False,,False,,False, O02 LIG    1,8.916449349376691,False,,False,,True,7,Matched,220
+241,False, OE2 GLU  167,4.422167907259969,False,,False,,True, C08 LIG    1,1.0836470827718783,True, N03 LIG    1,False,,True,10,Contact Displaced Bulk,0
+242,False, CZ  PHE  319,3.7578372769453483,False,,False,,True, C11 LIG    1,2.3340666228709046,False,,True, C10 LIG    1 | C11 LIG    1 | C12 LIG    1 | C14 LIG    1,True,10,Contact Displaced Bulk,0
+243,False, CE1 HIS   88,6.657967407550144,False,,False,,False, O02 LIG    1,8.73741809689796,False,,False,,True,9,Indirect Displacement,0
+244,False, OH  TYR  547,4.485816536596212,False,,False,,False, C11 LIG    1,7.059437796312115,False,,False,,True,11,Matched,129
+245,False, O   ARG   87,6.715296047085344,False,,False,,False, O02 LIG    1,9.047102795923125,False,,False,,True,7,Indirect Displacement,0
+246,False, CE1 TYR  509,5.823339334093453,False,,False,,False, C10 LIG    1,6.71695213619987,False,,False,,True,10,Indirect Displacement,0
+247,True, CZ  TYR  509,2.502964242653098,True, OH  TYR  509,False,,False, C10 LIG    1,4.580138971690707,False,,False,,True,8,Matched,181
+248,False, CE1 HIS   88,6.201207382437715,False,,False,,False, O02 LIG    1,8.167284493636794,False,,False,,True,9,Matched,273
+249,False, ND1 HIS   88,4.222502101834884,False,,False,,False, O02 LIG    1,9.543687652055683,False,,False,,True,5,Matched,219
+250,True, O   VAL  618,2.4281225257387655,True, O   PRO  617 | N   VAL  618 | O   VAL  618 | N   SER  619,False,,False, C04 LIG    1,8.77277031501452,False,,False,,True,2,Indirect Displacement,0
+251,False, CG  ARG   87,4.289335263184731,False,,False,,False, O02 LIG    1,6.236833010430857,False,,False,,True,11,Indirect Displacement,0
+252,False, NH2 ARG  320,5.083204697825971,False,,False,,False, O02 LIG    1,9.131312391983966,False,,False,,True,6,Matched,138
+253,True, O   GLU  168,2.41553658635095,True, O   GLU  168 | N   VAL  169 | NH2 ARG  631,False,,False, C13 LIG    1,8.567698290672936,False,,False,,True,5,Matched,182
+254,True, CB  PHE  319,3.3323688271258307,False,,True, CB  PHE  319 | CG  PHE  319,True, C14 LIG    1,3.1225792223737083,False,,True, C12 LIG    1 | C14 LIG    1,True,9,Matched,243
+255,True, NH2 ARG   87,2.673973447886123,True, NH1 ARG   87 | NH2 ARG   87,False,,True, C09 LIG    1,2.4984261045706364,False,,True, C09 LIG    1 | C10 LIG    1 | C15 LIG    1,True,10,Contact SWH Prot HB,-1
+256,True, CH2 TRP  621,2.541874505163463,False,,True, CG  TYR  593 | CE2 TYR  593 | CD2 TYR  593 | CH2 TRP  621 | CZ3 TRP  621,True, C03 LIG    1,2.1238571044211083,False,,True, C02 LIG    1 | C03 LIG    1 | C04 LIG    1,True,5,Contact Displaced HF,0
+257,True, CG  TYR  596,2.489405953234626,False,,True, CB  TYR  596 | CG  TYR  596 | CD1 TYR  596 | CE1 TYR  596 | CD2 TYR  596 | CB  VAL  618 | CG1 VAL  618 | CE2 TRP  621 | CZ2 TRP  621 | CH2 TRP  621,False, C03 LIG    1,5.510810466709958,False,,False,,True,3,Matched,237
+258,True, NE2 HIS  702,2.417501602895021,True, OD1 ASN  672 | ND2 ASN  672 | ND1 HIS  702 | NE2 HIS  702,False,,False, O01 LIG    1,3.6681195454892164,False,,False,,True,2,Matched,54
+259,False, NH2 ARG  433,4.646441756871598,False,,False,,False, O02 LIG    1,10.151734728606733,False,,False,,True,6,Matched,246
+260,False, NE  ARG  522,5.598493547375048,False,,False,,False, C15 LIG    1,10.25779927664799,False,,False,,True,4,Matched,250
+261,False, NH2 ARG  433,5.9500230251655335,False,,False,,False, C15 LIG    1,10.71875701749042,False,,False,,True,6,Indirect Displacement,0
+262,False, CG2 ILE  367,5.062188163235335,False,,False,,False, C14 LIG    1,10.711676759499419,False,,False,,True,5,Matched,254
+263,False, NH2 ARG  433,7.25804636248626,False,,False,,False, C15 LIG    1,7.9166233332147415,False,,False,,True,9,Matched,214
+264,False, NH2 ARG  433,6.4322422995406505,False,,False,,False, O02 LIG    1,8.041165711512232,False,,False,,True,9,Indirect Displacement,0
+265,False, NH2 ARG  522,6.661389419633114,False,,False,,False, C15 LIG    1,6.728810073110996,False,,False,,True,10,Matched,236
+266,False, CB  ALA  705,6.707461218672829,False,,False,,False, C15 LIG    1,10.439137272782654,False,,False,,True,5,Matched,233
+267,False, CG2 ILE  367,6.713942135586214,False,,False,,False, C14 LIG    1,8.975116990880956,False,,False,,True,8,Indirect Displacement,0
+268,False, OG  SER  171,6.958150760079866,False,,False,,False, C14 LIG    1,8.409142286820932,False,,False,,True,8,Matched,255
+269,False, NH2 ARG  433,5.80233340993087,False,,False,,False, O02 LIG    1,9.12913785633671,False,,False,,True,5,Matched,256
+270,False, NH1 ARG   87,8.521234006879519,False,,False,,False, C15 LIG    1,9.532828384063153,False,,False,,True,6,Indirect Displacement,0
+271,False, O   SER  171,5.8045738861694245,False,,False,,False, O02 LIG    1,9.037446873979404,False,,False,,True,6,Matched,230
+272,False, NH1 ARG   87,5.858842633148631,False,,False,,False, O02 LIG    1,7.56243915678004,False,,False,,True,10,Matched,226
+273,False, CE1 HIS   88,6.50697272162716,False,,False,,False, O02 LIG    1,5.618797113261877,False,,False,,True,8,Matched,266
+274,True, CE1 TYR  509,2.5976144825589484,False,,True, CD1 TYR  509 | CE1 TYR  509,False, N02 LIG    1,4.303623938031761,False,,False,,True,8,Matched,158
+275,False, CE2 TYR  509,4.476257700356404,False,,False,,False, C11 LIG    1,5.725047248713328,False,,False,,True,9,Matched,205
+276,False, OH  TYR  509,4.665309636026314,False,,False,,True, C11 LIG    1,2.913767664039121,False,,True, C10 LIG    1 | C11 LIG    1,True,11,Matched,228
+277,True, CG  PHE  319,2.726729359507464,False,,True, CB  PHE  319 | CG  PHE  319 | CD2 PHE  319,False, C14 LIG    1,4.350773379526904,False,,False,,True,7,Matched,152
+278,False, NE  ARG  522,7.236770412276462,False,,False,,False, C15 LIG    1,8.372892809537218,False,,False,,True,8,Primary Matched,227
+279,False, NH2 ARG  433,6.555169257921571,False,,False,,False, O02 LIG    1,9.877251692652163,False,,False,,True,5,Matched,270
+280,False, NH2 ARG  433,5.5016423911410275,False,,False,,False, O02 LIG    1,9.983856970129331,False,,False,,True,4,Matched,264
+281,True, CG1 VAL  627,2.5349708085104297,False,,True, CG2 VAL  169 | CG  TYR  261 | CD1 TYR  261 | CE1 TYR  261 | CD2 TYR  261 | CB  VAL  627 | CG1 VAL  627 | CG2 VAL  627,False, C13 LIG    1,10.855074251243053,False,,False,,True,2,Ghost Match,0
+282,False, NH1 ARG   87,8.589830091451171,False,,False,,False, C15 LIG    1,10.567827070878861,False,,False,,True,3,Indirect Displacement,0
+283,False, O   SER  171,4.1328376450085695,False,,False,,False, O02 LIG    1,6.777429379934548,False,,False,,True,11,Matched,150
+284,True, CZ  PHE  319,2.8894535815617486,False,,True, CZ  PHE  319,True, C11 LIG    1,3.3974004768351995,False,,True, C11 LIG    1,True,9,Matched,154
+285,False, CE1 HIS   88,6.735555656365703,False,,False,,False, O02 LIG    1,8.3493742879332,False,,False,,True,8,Matched,221
+
+Lig Water Number,Prot in Range,Closest Prot Atom,Distance,ProtHB,ProtHB Atoms,ProtHF,ProtHF Atoms,Lig in Range,Closest Lig Atom,Distance,LigHB,LigHB Atoms,LigHF,LigHF Atoms,Networked,NetworkCount,Origin,MatchID ProtWat Number,Match Distance,HB Count All,Trapped,DOF,Change in Network,Lost Interactions,New Interactions
+1,True, OG  SER  171,2.787894904762371,True, NE2 HIS   88 | O   GLU  167 | OG  SER  171,False,,True, O02 LIG    1,2.7889356392717333,True, O02 LIG    1,False,,True,4,Matched,2,0.3002565569642105,8,False,1,0,,
+2,True, O   VAL  169,2.8426630120364265,True, O   VAL  169 | O   PHE  170 | OG  SER  171 | NE  ARG  320 | NH2 ARG  320,False,,False, C14 LIG    1,7.113216853154414,False,,False,,True,6,Matched,1,0.0,11,False,3,-1,,
+3,True, OG  SER  171,2.707649164866088,True, OG  SER  171,False,,True, O02 LIG    1,2.990553460481855,True, O02 LIG    1,False,,True,8,New,0,None,10,False,1,None,,
+4,True, O   GLU  167,2.422344731866217,True, O   GLU  167 | OG  SER  171,False,,False, C14 LIG    1,3.698931332155276,False,,False,,True,7,Matched,4,0.0,9,False,3,-3,,
+5,True, OG  SER  171,2.9878294797394314,True, OG  SER  171,False,,True, C14 LIG    1,2.5391252430709286,True, O02 LIG    1,False,,True,8,Matched,56,0.7852668336304519,10,False,1,-1,,
+6,True, O   SER  171,2.421860028985987,True, ND1 HIS   88 | NE2 HIS   88 | O   SER  171,False,,False, O02 LIG    1,5.618663542160182,False,,False,,True,6,Matched,7,0.0,9,False,3,-3,,
+7,True, NZ  LYS   84,2.5891098856556867,True, NZ  LYS   84 | OD2 ASP  701,False,,False, O01 LIG    1,9.432008375738432,False,,False,,True,7,Matched,9,0.0,9,False,3,-1,,
+8,True, CA  PHE  170,2.4710900428758182,True, O   VAL  169 | O   PHE  170 | NH1 ARG  320 | NH2 ARG  320,False,,False, O02 LIG    1,9.92378904451319,False,,False,,True,2,Matched,11,0.0,6,False,3,-1,,
+9,True, CD  ARG   87,2.6097888803502824,True, NE2 HIS   88,False,,True, O02 LIG    1,2.3712243672837032,True, O02 LIG    1,False,,True,7,Matched,42,1.1373838402228145,9,False,1,-1,, CD  ARG   87
+10,True, O   ARG   87,2.8206660560938475,True, O   ARG   87 | ND1 HIS   88,False,,False, O02 LIG    1,8.806166986833718,False,,False,,True,5,Matched,12,0.0,7,False,3,1,,
+11,True, ND1 HIS   88,2.7531590945675486,True, ND1 HIS   88 | O   SER  171,False,,False, O02 LIG    1,8.45197367482886,False,,False,,True,4,Matched,16,0.0,6,False,3,-1,,
+12,True, OD1 ASP  671,2.4213271154472267,True, OD1 ASP  671 | OD2 ASP  701 | N   HIS  702,False,,False, O01 LIG    1,8.68642129993705,False,,False,,True,5,Matched,15,0.0,8,False,3,0,,
+13,True, NE2 HIS  702,3.074000813272499,True, OG  SER  592 | NE2 HIS  702,False,,True, C06 LIG    1,2.630396548051262,True, O01 LIG    1 | N02 LIG    1,False,,True,5,Matched,8,1.2988009855247231,9,False,1,-3, NH2 ARG   87 | ND2 ASN  672 | CD2 HIS  702, CB  SER  592
+14,True, OH  TYR  509,2.6379239943561714,True, OH  TYR  509 | OH  TYR  628,False,,True, N02 LIG    1,2.6474334741405627,True, N01 LIG    1 | N02 LIG    1,False,,True,2,Matched,13,1.4418439582701092,6,False,1,-3, CE2 TYR  509 | CA  GLY  511 | CD2 TYR  593,
+15,True, OD1 ASP  507,2.5586893129100248,True, OD1 ASP  507 | O   VAL  508 | NZ  LYS  516,False,,False, N02 LIG    1,9.032200230287193,False,,False,,True,4,Matched,17,0.0,7,False,3,-2,,
+16,True, CE  LYS   84,2.4214435777031826,True, NZ  LYS   84 | O   TRP   86 | O   ARG   87,False,,False, O02 LIG    1,9.989706001679933,False,,False,,True,4,Matched,18,0.0,7,False,3,0,,
+17,True, CE2 TYR  547,2.6828831506422333,True, O   CYS  513 | OH  TYR  547,False,,False, C11 LIG    1,7.642095654988886,False,,False,,True,7,Matched,19,0.0,9,False,3,1,,
+18,True, OH  TYR  418,2.843004396760577,True, NH2 ARG  391 | OH  TYR  418,False,,False, C11 LIG    1,10.303423169024946,False,,False,,True,4,Matched,20,0.0,6,False,3,-1,,
+19,True, O   CYS  513,2.3707673863118655,True, SG  CYS  513 | O   CYS  513 | OH  TYR  547,False,,False, C11 LIG    1,6.515435211864208,False,,False,,True,6,Matched,22,0.0,9,False,3,1,,
+20,True, OH  TYR  547,2.9322259462735834,True, NH2 ARG  391 | OH  TYR  547,False,,False, C11 LIG    1,10.067544338119403,False,,False,,True,4,Matched,23,0.0,6,False,3,0,,
+21,True, O   GLU  168,2.622188780389387,True, O   GLU  168 | O   PHE  319 | NH2 ARG  631,False,,False, C13 LIG    1,7.676156394967467,False,,False,,True,5,Matched,24,0.0,8,False,3,-1,,
+22,True, CB  SER  171,2.6157987307895034,True, O   PHE  170 | O   SER  171,False,,False, O02 LIG    1,7.258306551806697,False,,False,,True,7,Matched,25,0.0,9,False,3,0,,
+23,True, NH2 ARG  631,2.525944179905799,True, OE1 GLU  168 | O   GLU  168 | NH1 ARG  631 | NH2 ARG  631,False,,False, C13 LIG    1,4.336786137221895,False,,False,,True,3,Matched,10,0.0,7,False,3,1,,
+24,True, CD2 HIS   88,2.708783490794347,True, NE2 HIS   88 | O   GLU  166 | N   GLU  167 | OE1 GLU  167,False,,False, O02 LIG    1,5.579913440188836,False,,False,,True,2,Matched,26,0.0,6,False,3,0,,
+25,True, OH  TYR  628,2.558738165580843,True, O   PRO  512 | OH  TYR  628 | OH  TYR  632,False,,False, C13 LIG    1,5.214722332013473,False,,False,,True,3,Matched,27,0.36986889569143017,6,False,3,-1, N   PRO  512,
+26,True, N   PHE  319,2.6101994176690804,True, N   ARG  318 | N   PHE  319 | N   ARG  320 | O   ARG  320,False,,False, C12 LIG    1,8.989999499443815,False,,False,,True,5,Matched,29,0.0,9,False,3,2,,
+27,True, N   ARG   87,3.000283986558602,True, N   ARG   87 | OD2 ASP  671,False,,False, O01 LIG    1,7.556715688710275,False,,False,,True,4,Matched,31,0.0,6,False,3,0,,
+28,True, O   VAL  508,2.5885521049420666,True, O   VAL  508 | N   TRP  591 | O   TRP  591 | N   GLY  594,False,,False, N02 LIG    1,6.2328372351602415,False,,False,,True,2,Matched,30,0.0,6,False,3,0,,
+29,True, CD  ARG  320,2.5815644481592943,True, O   VAL  169 | NE  ARG  320,False,,False, C14 LIG    1,7.025912182770287,False,,False,,True,5,Matched,32,0.0,7,False,3,-1,,
+30,True, O   PHE  319,2.710192613081218,True, OE1 GLN  282 | O   PHE  319 | NE  ARG  631 | NH2 ARG  631,False,,False, C13 LIG    1,9.651333793833883,False,,False,,True,2,Matched,33,0.0,6,False,3,-1,,
+31,True, NZ  LYS  516,3.2093789118768767,True, NZ  LYS  516,False,,False, N02 LIG    1,7.843552638951306,False,,False,,True,8,Matched,34,1.1385859651339434,9,False,3,3, CB  TYR  509 | CG  TYR  509 | CD1 TYR  509 | CD  LYS  516 | CE  LYS  516,
+32,True, OD1 ASP  541,2.6362568160177426,True, OG  SER  514 | O   SER  514 | N   GLN  515 | N   LYS  516 | OD1 ASP  541,False,,False, C11 LIG    1,10.409196174537206,False,,False,,True,2,Matched,35,0.0,7,False,3,0,,
+33,True, CZ2 TRP  591,2.4653379078738924,True, NE1 TRP  591 | O   HIS  702 | O   GLY  703,False,,False, C06 LIG    1,8.584978974930568,False,,False,,True,3,Matched,36,0.0,6,False,3,-1,,
+34,True, NE2 GLN  677,2.5889293153734427,True, O   TYR  623 | O   ASN  672 | N   HIS  674 | NE2 GLN  677,False,,False, C04 LIG    1,6.663173793321018,False,,False,,True,2,Matched,38,0.0,6,False,3,-1,,
+35,True, OG  SER  171,2.709942619318721,True, OG  SER  171,False,,False, C14 LIG    1,5.110992173736915,False,,False,,True,8,Matched,108,1.406234688805542,9,False,3,-2,,
+36,True, O   GLU  166,2.373478038659725,True, O   TYR  165 | O   GLU  166 | N   GLU  167 | O   GLU  167 | N   GLU  168 | N   VAL  169 | N   PHE  170 | N   SER  171,False,,False, C17 LIG    1,6.369504925816448,False,,False,,True,2,Matched,28,0.0,10,False,3,-1,,
+37,True, C   PHE  319,2.6222053695315304,True, O   VAL  316 | O   GLY  317 | N   PHE  319 | O   PHE  319 | N   ARG  320,False,,False, C12 LIG    1,9.78937735507218,False,,False,,True,1,Matched,39,0.0,6,False,3,0,,
+38,True, O   GLN  515,3.186672559269309,True, O   GLN  515,False,,False, C11 LIG    1,8.528641978650532,False,,False,,True,6,Matched,40,0.0,7,False,3,1,,
+39,True, OH  TYR  632,2.6670228720429083,True, O   ARG  318 | O   PRO  512 | OH  TYR  632,False,,False, C12 LIG    1,7.171270738160711,False,,False,,True,3,Matched,41,0.0,6,False,3,1,,
+40,True, CG1 VAL  627,2.467653743943831,True, OE1 GLN  282 | NE2 GLN  282 | NH2 ARG  631,False,,False, C13 LIG    1,9.375018346648712,False,,False,,True,3,Matched,44,0.0,6,False,3,-1,,
+41,True, CG1 VAL  169,2.615381234160712,True, O   VAL  169 | O   CYS  263,False,,False, C14 LIG    1,10.271440210603377,False,,False,,True,1,Matched,46,0.0,3,False,3,-2,,
+42,True, CD1 PHE  319,2.431207724568184,True, NH1 ARG  631 | OH  TYR  632,False,,False, C13 LIG    1,3.7791592980450037,False,,False,,True,3,Matched,47,0.0,5,False,3,-1,,
+43,True, O   TYR  623,2.3393967171046515,True, OH  TYR  218 | NZ  LYS  220 | O   TYR  623 | NE2 HIS  674,False,,False, C04 LIG    1,8.488707852199886,False,,False,,True,2,Matched,51,0.0,6,False,3,0,,
+44,True, OE2 GLU  167,2.371039012753695,True, OE2 GLU  167 | OE2 GLU  168 | OH  TYR  624 | OD1 ASN  672 | ND2 ASN  672,False,,True, O01 LIG    1,3.115903400299825,True, O01 LIG    1 | N03 LIG    1,False,,True,1,Matched,138,0.31868009037277045,8,False,1,-4,,
+45,True, CE1 TYR  509,2.462412231938432,True, O   TRP  591,False,,True, N02 LIG    1,3.1858854342239025,True, N02 LIG    1,False,,True,6,New,0,None,8,False,1,None,,
+46,True, NZ  LYS  220,2.488716536691151,True, NZ  LYS  220 | O   TYR  623 | N   HIS  674 | OE1 GLN  676,False,,False, C04 LIG    1,9.184354958297288,False,,False,,True,3,Matched,52,0.0,7,False,3,0,,
+47,True, NE2 HIS  702,2.3714655806062153,True, NE2 HIS  702,False,,False, C06 LIG    1,4.437540535026126,False,,False,,True,4,Matched,6,0.9509726599645216,5,False,3,-4, OG  SER  592,
+48,True, CD2 HIS  666,2.442386333076728,True, NE2 HIS  666 | N   GLY  667 | OD2 ASP  670,False,,False, C06 LIG    1,9.52572774122796,False,,False,,True,3,Matched,54,0.0,6,False,3,1,,
+49,True, CZ  PHE  319,2.5574888074046362,True, O   PRO  512 | O   CYS  513 | N   SER  514,False,,False, C11 LIG    1,4.903071384346755,False,,False,,True,5,Matched,53,0.0,8,False,3,0,,
+50,True, ND2 ASN  672,2.6094991856676306,True, NH2 ARG   87 | ND2 ASN  672,False,,False, O01 LIG    1,5.024731336101465,False,,False,,True,4,Matched,58,0.0,6,False,3,0,,
+51,True, OH  TYR  509,2.8873803005492715,True, OH  TYR  509,False,,True, C11 LIG    1,2.4640716304523336,False,,True, C09 LIG    1 | C10 LIG    1 | C11 LIG    1 | C12 LIG    1 | C13 LIG    1,True,5,Matched,208,1.382456870936663,6,False,2,-2, CZ  TYR  628 | OH  TYR  628 | CE2 TYR  628, OH  TYR  509
+52,True, NH2 ARG  320,3.0225740685713585,True, NE  ARG  320 | NH2 ARG  320,False,,False, C14 LIG    1,7.7275733577883265,False,,False,,True,8,Matched,57,0.0,10,False,3,0,,
+53,False,None,None,False,,False,,True, O02 LIG    1,2.8096031748273607,True, O02 LIG    1,False,,True,10,Matched,167,0.7082450141017557,11,False,2,0,,
+54,True, NE2 HIS  702,2.30259440631649,True, OG  SER  592 | OD1 ASN  672 | ND2 ASN  672 | ND1 HIS  702 | NE2 HIS  702,False,,True, O01 LIG    1,2.843074040541336,True, O01 LIG    1,False,,True,2,Matched,258,1.0061903398462888,8,False,1,0, CB  ASN  672 | CG2 VAL  673, OG  SER  592
+55,True, CG  ARG  320,2.617278930492503,True, NE  ARG  320,False,,False, C14 LIG    1,7.277472706922369,False,,False,,True,6,Matched,60,0.0,7,False,3,-2,,
+56,True, CD  GLU  166,2.5308943083424102,True, O   TRP  163 | OE1 GLU  166 | OE2 GLU  166,False,,False, C17 LIG    1,8.982010799370041,False,,False,,True,2,Matched,61,0.0,5,False,3,1,,
+57,True, O   HIS  702,2.6734191590545597,True, O   ASP  701 | O   HIS  702,False,,False, C06 LIG    1,9.218504325540014,False,,False,,True,3,Matched,64,0.0,5,False,3,2,,
+58,True, O   ARG   87,2.370946224611603,True, O   ARG   87,False,,False, O02 LIG    1,8.936114032396858,False,,False,,True,7,Matched,66,0.0,8,False,3,1,,
+59,True, NH1 ARG   87,2.421573455421083,True, NH1 ARG   87 | NH2 ARG   87,False,,False, O01 LIG    1,4.395239470154041,False,,False,,True,6,Matched,65,0.5442508612763031,8,False,3,-4,,
+60,True, O   ALA  510,2.589162219715091,True, O   ALA  510 | OH  TYR  593,False,,False, C03 LIG    1,8.453979299714428,False,,False,,True,2,Matched,68,0.0,4,False,3,0,,
+61,True, OH  TYR  547,2.3777115047877455,True, OH  TYR  547,False,,False, C11 LIG    1,9.479080335138002,False,,False,,True,7,Matched,69,0.0,8,False,3,0,,
+62,True, OH  TYR  632,2.4282819029099594,True, O   ARG  318 | O   PHE  319 | NE  ARG  631 | NH1 ARG  631 | OH  TYR  632,False,,False, C13 LIG    1,6.9032076602113035,False,,False,,True,3,Matched,70,0.0,8,False,3,0,,
+63,True, NE2 GLN  677,2.5253156238379395,True, O   ARG  620 | N   TYR  624 | OE1 GLN  677 | NE2 GLN  677,False,,False, C04 LIG    1,6.046035808693161,False,,False,,False,0,Matched,71,0.30054117854297613,4,False,3,0,, CA  TYR  624
+64,True, C   SER  592,2.7447743076617446,True, OG  SER  592 | O   SER  592 | N   TYR  593 | O   ALA  616 | N   VAL  618,False,,True, C04 LIG    1,3.1724440105382463,False,,True, C04 LIG    1,True,1,Matched,21,0.39642653796132366,6,False,2,-2, CB  VAL  618, CB  SER  592
+65,True, O   TYR  165,2.346833185379823,True, O   TYR  165 | N   GLU  166 | O   GLU  166 | N   PHE  170 | N   SER  171 | N   ALA  172 | O   ALA  172,False,,False, O02 LIG    1,8.64198426288778,False,,False,,True,1,Matched,75,0.0,8,False,3,0,,
+66,True, CA  SER  514,2.5415015246896857,True, N   GLN  515,False,,False, C11 LIG    1,6.310413932540402,False,,False,,True,4,Matched,74,0.0,5,False,3,-1,,
+67,True, OH  TYR  547,2.559072097460332,True, OH  TYR  547,False,,False, C11 LIG    1,6.373689826152506,False,,False,,True,7,Matched,72,0.6117474969299007,8,False,3,-3,,
+68,True, O   ARG  318,2.296025043417428,True, NE1 TRP  315 | O   GLY  317 | O   ARG  318,False,,False, C12 LIG    1,10.019499438594725,False,,False,,True,1,Matched,73,0.0,4,False,3,0,,
+69,True, CD  ARG  318,2.8452715160420117,True, OH  TYR  547,False,,False, C12 LIG    1,8.421198786396152,False,,False,,True,5,Matched,76,0.0,6,False,3,-1,,
+70,True, OH  TYR  218,2.489629289673466,True, OH  TYR  218 | OH  TYR  624 | OD2 ASP  625 | OD1 ASN  672 | O   ASN  672,False,,False, C01 LIG    1,5.5098582558900695,False,,False,,True,1,Matched,62,0.0,6,False,3,-1,,
+71,True, O   SER  648,2.4217846725091,True, O   SER  619 | N   ARG  620 | O   SER  648,False,,False, C03 LIG    1,10.052043473841529,False,,False,,True,3,Matched,77,0.7741123949401658,6,False,3,1, C   ARG  620 | N   TRP  621 | CD1 TRP  621, C   SER  648 | CA  THR  649
+72,True, OH  TYR  509,2.648017182723705,True, OH  TYR  509,False,,True, C11 LIG    1,3.108595020262372,False,,True, C10 LIG    1 | C11 LIG    1,True,6,Matched,204,1.1682559651035391,7,False,2,-2, CD2 TYR  509,
+73,True, CG  ARG   87,2.6688209006975354,True, O   ARG   87,False,,False, O02 LIG    1,7.3466434512639855,False,,False,,True,9,Matched,78,0.0,10,False,3,2,,
+74,True, ND1 HIS   88,2.5590212972931665,True, ND1 HIS   88,False,,False, O02 LIG    1,7.142035424163061,False,,False,,True,10,Matched,79,0.0,11,False,3,1,,
+75,True, N   SER  678,2.508521676206924,True, O   PRO  617 | O   GLN  677 | N   SER  678 | OG  SER  678,False,,False, C04 LIG    1,9.568169887705796,False,,False,,False,0,Matched,80,0.0,4,False,3,-1,,
+76,True, CB  TRP  591,2.607136551851477,True, N   TRP  591 | O   TRP  591,False,,False, N02 LIG    1,6.5178383686618035,False,,False,,True,8,Matched,84,0.0,10,False,3,0,,
+77,True, O   GLN  515,2.843357346518369,True, O   GLN  515,False,,False, C11 LIG    1,9.526409659467728,False,,False,,True,5,Matched,81,0.0,6,False,3,0,,
+78,True, O   TYR  596,2.446006745697977,True, O   GLY  595 | N   TYR  596 | O   TYR  596 | OG  SER  599 | O   VAL  618,False,,False, C04 LIG    1,9.910425924247654,False,,False,,True,2,Matched,83,0.0,7,False,3,1,,
+79,True, CB  ALA  172,2.8653587907974147,True, O   SER  171,False,,False, O02 LIG    1,9.534850759188632,False,,False,,True,3,Matched,82,0.0,4,False,3,-1,,
+80,True, O   PRO  219,2.5258188771168797,True, O   PRO  219 | N   SER  626 | OG  SER  626,False,,False, C07 LIG    1,9.991202780446406,False,,False,,True,1,Matched,86,0.0,4,False,3,0,,
+81,True, NH2 ARG  522,3.0000751657250233,True, NH2 ARG  522,False,,False, C15 LIG    1,10.725737690247698,False,,False,,True,4,Matched,88,0.0,5,False,3,0,,
+82,True, CD2 LEU  560,2.4155274786265664,True, OH  TYR  593,False,,False, C03 LIG    1,7.070645373655788,False,,False,,True,4,Matched,87,0.0,5,False,3,1,,
+83,True, NH1 ARG  631,2.309771633733521,True, O   TYR  628 | NE  ARG  631 | NH1 ARG  631 | OH  TYR  632,False,,False, C13 LIG    1,7.067296583560083,False,,False,,False,0,Matched,89,0.0,4,False,3,0,,
+84,True, CD  ARG   87,2.549870977128056,True, NH1 ARG   87,False,,False, O02 LIG    1,4.863771684608561,False,,False,,True,8,New,0,None,9,False,3,None,,
+85,True, CB  PRO  617,2.492615092628626,True, O   GLY  595 | OG  SER  599,False,,False, C04 LIG    1,10.216562533455171,False,,False,,True,2,Matched,90,0.0,4,False,3,0,,
+86,True, OE1 GLN  676,2.371453773532178,True, OE1 GLN  676 | N   GLN  677,False,,False, C04 LIG    1,10.46764051732767,False,,False,,True,1,Matched,91,0.0,3,False,3,0,,
+87,True, CG  GLU  168,2.4151382983175154,True, O   VAL  164 | OD2 ASP  625,False,,False, N03 LIG    1,6.286814296605236,False,,False,,False,0,Matched,160,0.6126573267333071,2,False,3,-1, C   VAL  164, CB  GLU  167 | CB  GLU  168 | CD  GLU  168 | CG  ASP  625 | OD2 ASP  625
+88,True, NH1 ARG   87,3.000125830694436,True, NH1 ARG   87,False,,False, C15 LIG    1,5.487508268786482,False,,False,,True,12,Matched,98,0.29969317643216065,13,False,3,1,,
+89,True, CE1 TYR  593,2.4469160181747136,True, O   TYR  509 | O   ALA  510 | N   GLY  511,False,,False, N02 LIG    1,8.182699004607215,False,,False,,True,1,Matched,92,0.0,4,False,3,0,,
+90,True, O   THR  629,2.4217328506670595,True, O   TYR  628 | O   THR  629,False,,False, C03 LIG    1,7.413033657012489,False,,False,,True,3,Matched,94,0.0,5,False,3,0,,
+91,True, O   GLY  594,2.4304300031064465,True, O   TYR  509 | O   TYR  593 | O   GLY  594 | N   VAL  597 | N   THR  598,False,,False, N02 LIG    1,8.436330778247136,False,,False,,False,0,Matched,93,0.0,5,False,3,0,,
+92,True, OE1 GLU  564,2.3715920812821096,True, OE1 GLU  564 | OH  TYR  593,False,,False, C03 LIG    1,9.305914785769325,False,,False,,True,2,Matched,95,0.0,4,False,3,0,,
+93,True, CD2 TYR  596,2.542132175949947,True, O   TYR  593,False,,False, C03 LIG    1,5.087681102427707,False,,False,,True,2,Matched,97,0.5740426813399865,3,False,3,-1, C   TYR  593, CZ  TYR  593
+94,True, O   VAL  164,2.370940319788755,True, O   VAL  164 | N   GLU  168 | O   GLU  168 | N   VAL  169,False,,False, N03 LIG    1,7.94828623037696,False,,False,,True,2,Matched,96,0.0,6,False,3,0,,
+95,True, OG1 THR  629,2.4211868990228695,True, N   THR  629 | OG1 THR  629,False,,False, C03 LIG    1,5.235511245332207,False,,False,,True,4,Matched,100,0.0,6,False,3,0,,
+96,True, CB  SER  171,2.4519806279822043,True, OG  SER  171,False,,False, O02 LIG    1,5.1484059668988795,False,,False,,True,8,Matched,170,0.8249618172982319,9,False,3,-3,,
+97,True, NH2 ARG  320,2.4780792965520697,True, O   PHE  170 | NH2 ARG  320,False,,False, O02 LIG    1,9.14610567400137,False,,False,,True,6,Matched,103,0.0,8,False,3,0,,
+98,True, OD1 ASP  701,2.7278900271088675,True, OD1 ASP  701 | OD2 ASP  701 | N   GLY  703,False,,False, O01 LIG    1,8.868562623108662,False,,False,,True,5,Matched,218,0.47228063690987576,8,False,3,2, N   HIS  702,
+99,True, CD  ARG  318,2.5178746990269403,True, NH1 ARG  318,False,,False, C12 LIG    1,10.060255662755296,False,,False,,True,5,Matched,102,0.0,6,False,3,1,,
+100,True, OD2 ASP  671,3.116229131498522,True, OD1 ASP  671 | OD2 ASP  671,False,,False, O01 LIG    1,7.149125401054316,False,,False,,True,8,Matched,104,0.0,10,False,3,0,,
+101,True, OG  SER  171,2.4217729042996528,True, O   VAL  169 | N   SER  171 | OG  SER  171,False,,False, C14 LIG    1,5.303191869053956,False,,False,,True,5,Matched,116,1.0388137465397707,8,False,3,0, N   VAL  169 | CA  VAL  169 | N   PHE  170 | CA  PHE  170 | C   PHE  170 | CA  SER  171 | CB  SER  171,
+102,True, CA  GLY  703,3.044487641623791,True, O   GLY  703,False,,False, O01 LIG    1,10.283770417507387,False,,False,,True,6,Matched,106,0.5745859378717899,7,False,3,1, C   GLY  703,
+103,True, CG  ARG  320,2.6342175308808438,True, NE  ARG  320 | O   PRO  321,False,,False, C14 LIG    1,10.441590779186852,False,,False,,True,3,Matched,105,0.0,5,False,3,2,,
+104,True, CD1 TRP  621,2.6028634232321926,True, N   TRP  621 | OG  SER  648 | O   SER  648,False,,False, C03 LIG    1,10.565817810278583,False,,False,,True,2,Ghost Matched,0,None,5,False,3,None,,
+105,True, OH  TYR  509,2.6472723698176535,True, OH  TYR  509,False,,False, N02 LIG    1,3.623905627910309,False,,False,,True,8,Matched,43,1.2223620576572232,9,False,3,-3,, CE1 TYR  509 | CZ  TYR  509
+106,False,None,None,False,,False,,False, C11 LIG    1,9.165542646237595,False,,False,,True,7,Matched,112,0.0,7,False,3,0,,
+107,True, NH2 ARG  522,2.5448941038872266,True, NE  ARG  522 | NH2 ARG  522,False,,False, C10 LIG    1,10.702405103526969,False,,False,,True,4,Matched,115,0.0,6,False,3,1,,
+108,True, N   ALA  510,2.5110390279722843,True, N   TYR  509 | N   ALA  510 | OG  SER  514,False,,False, N02 LIG    1,9.021560452604637,False,,False,,True,2,Matched,118,0.7155096086007506,5,False,3,0, CG  TYR  509 | CD2 TYR  509, N   TYR  509 | CA  TYR  509 | C   TYR  509 | CA  ALA  510
+109,True, O   PHE  170,3.169623479216423,True, O   PHE  170,False,,False, O02 LIG    1,9.568439527948122,False,,False,,True,5,Matched,117,0.6526545793909662,6,False,3,0,, CB  ALA  172
+110,True, OE1 GLU  167,2.391790542668819,True, NE  ARG   87 | NE2 HIS   88 | OE1 GLU  167 | OE2 GLU  167 | O   GLU  167,False,,True, O02 LIG    1,3.326200234501829,True, O02 LIG    1,False,,True,3,Matched,107,0.6079523007605108,9,False,1,-2, CA  GLU  167, NE2 HIS   88
+111,False,None,None,False,,False,,False, C14 LIG    1,10.43375196178249,False,,False,,True,5,New,0,None,5,False,3,None,,
+112,False,None,None,False,,False,,False, O02 LIG    1,9.116464117189295,False,,False,,True,8,New,0,None,8,False,3,None,,
+113,True, NH2 ARG  320,2.6057415451268398,True, NH2 ARG  320,False,,False, C14 LIG    1,9.917829651692957,False,,False,,True,6,Matched,144,0.5539214745791959,7,False,3,2,,
+114,True, O   GLU  168,2.6477996525417122,True, O   GLU  168 | O   PHE  319 | NH2 ARG  631,False,,False, C13 LIG    1,5.035585368157309,False,,False,,True,7,Matched,127,0.0,10,False,3,1,,
+115,True, ND1 HIS   88,3.0495491470051714,True, O   ARG   87 | ND1 HIS   88,False,,False, O02 LIG    1,6.351710163412684,False,,False,,True,8,Matched,123,0.5168955407043028,10,False,3,1, CD  ARG   87,
+116,False,None,None,False,,False,,False, C14 LIG    1,8.482938759651635,False,,False,,True,9,Matched,124,0.5738501546571216,9,False,3,-1,,
+117,True, O   GLN  515,2.9900944801126284,True, N   GLN  515 | O   GLN  515,False,,False, C11 LIG    1,8.044503527253875,False,,False,,True,6,Matched,137,0.1480844353738744,8,False,3,0, CD  LYS  516, CB  SER  514
+118,True, O   GLY  511,2.284576109478517,True, O   ALA  510 | O   GLY  511 | OG  SER  514 | O   GLY  544 | N   SER  545,False,,False, C11 LIG    1,10.577993193418122,False,,False,,False,0,Ghost Matched,0,None,5,False,3,None,,
+119,True, OD1 ASP  671,2.2842265649449,True, OD1 ASP  670 | N   ASP  671 | OD1 ASP  671 | OD2 ASP  671 | N   ASN  672 | N   HIS  702,False,,False, O01 LIG    1,8.263978279255097,False,,False,,True,2,Matched,131,0.0,8,False,3,0,,
+120,False,None,None,False,,False,,False, C06 LIG    1,7.770566388623163,False,,False,,True,9,New,0,None,9,False,3,None,,
+121,False,None,None,False,,False,,False, C11 LIG    1,8.39864465256151,False,,False,,True,8,New,0,None,8,False,3,None,,
+122,False,None,None,False,,False,,False, C14 LIG    1,8.019923378686354,False,,False,,True,10,Matched,125,1.062840063226826,10,False,3,3,,
+123,False,None,None,False,,False,,False, C14 LIG    1,9.26335025787107,False,,False,,True,8,Matched,128,0.43022087350568616,8,False,3,3,,
+124,True, OH  TYR  628,2.4219803880295965,True, OH  TYR  628,False,,False, C02 LIG    1,5.134390129314291,False,,False,,True,4,New,0,None,5,False,3,None,,
+125,False,None,None,False,,False,,False, C14 LIG    1,9.752831076154248,False,,False,,True,7,Matched,129,0.3331636234645046,7,False,3,-1,,
+126,True, OE1 GLU  168,2.5594558015328155,True, O   GLU  167 | OE1 GLU  168,False,,True, C13 LIG    1,2.7632014041687167,False,,True, C12 LIG    1 | C13 LIG    1 | C14 LIG    1,True,4,Matched,113,0.0,6,False,2,-3,,
+127,False,None,None,False,,False,,False, C15 LIG    1,8.7296227295342,False,,False,,True,9,Matched,134,0.0,9,False,3,0,,
+128,True, CB  ARG   87,2.5736421662694293,True, NE  ARG   87,False,,False, O01 LIG    1,6.878068115394031,False,,False,,True,6,Matched,139,0.0,7,False,3,1,,
+129,False,None,None,False,,False,,False, C11 LIG    1,6.228157512459043,False,,False,,True,10,Matched,244,1.2307314898059638,10,False,3,-1,,
+130,False,None,None,False,,False,,False, O02 LIG    1,9.503565330969217,False,,False,,True,7,Matched,214,0.32133160442134895,7,False,3,0,,
+131,False,None,None,False,,False,,False, C10 LIG    1,7.286529489407153,False,,False,,True,9,Matched,223,0.7128604351484263,9,False,3,0,,
+132,False,None,None,False,,False,,False, O02 LIG    1,8.900711151363131,False,,False,,True,5,Matched,146,1.3257171644057395,5,False,3,2,,
+133,True, OE1 GLU  564,2.413734451011538,True, OE1 GLU  564 | OE2 GLU  564 | OH  TYR  593,False,,False, C03 LIG    1,9.542428883675267,False,,False,,True,2,Matched,196,0.3897524855597494,5,False,3,0, CZ  TYR  593, CG  GLU  564 | OE2 GLU  564
+134,True, CZ2 TRP  315,2.4841767247923427,True, N   CYS  513,False,,False, C12 LIG    1,9.598955828630531,False,,False,,True,2,Matched,143,0.0,3,False,3,0,,
+135,False,None,None,False,,False,,False, C14 LIG    1,6.732994727459688,False,,False,,True,9,Matched,101,1.2998065240642556,9,False,3,0, OH  TYR  547,
+136,False,None,None,False,,False,,False, C10 LIG    1,9.419399609316933,False,,False,,True,7,New,0,None,7,False,3,None,,
+137,True, CD1 ILE  556,2.4524699794288987,False,,True, CG  PRO  512 | CB  PRO  512 | CG1 ILE  556 | CD1 ILE  556 | CD2 LEU  560,False, C03 LIG    1,10.029385723961362,False,,False,,True,1,Matched,149,0.7567938953242149,1,False,3,0, CB  TYR  632 | CG  TYR  632 | CD1 TYR  632,
+138,False,None,None,False,,False,,False, O02 LIG    1,7.901568641731841,False,,False,,True,9,Matched,252,1.3532719608415733,9,False,3,3,,
+139,True, C   GLY  511,2.4504179235387578,True, N   GLY  511 | O   GLY  511 | O   PRO  512 | N   SER  514 | OG  SER  514,False,,False, C11 LIG    1,6.18106633195277,False,,False,,True,2,Matched,163,0.8092527417315335,7,False,3,-2,, N   PRO  512 | O   PRO  512 | N   SER  514 | CA  SER  514 | OG  SER  514
+140,False,None,None,False,,False,,False, N02 LIG    1,8.958646772811171,False,,False,,True,8,Matched,126,1.3517207551857748,8,False,3,2, CH2 TRP  589,
+141,True, CD2 PHE  319,2.420664991278219,False,,True, CE2 PHE  319 | CD2 PHE  319,False, C12 LIG    1,5.984164018474093,False,,False,,True,8,Matched,226,0.8254441228817407,8,False,3,-1,,
+142,True, CB  ASP  625,2.762137034978533,False,,True, CZ3 TRP  163 | CE3 TRP  163 | CB  VAL  164 | CG2 VAL  164 | CG  TYR  218 | CD1 TYR  218 | CE1 TYR  218 | CZ  TYR  218 | CE2 TYR  218 | CD2 TYR  218 | CD  PRO  219 | CB  ASP  625,False, N03 LIG    1,9.22410380470645,False,,False,,True,1,Matched,145,0.21875099999771266,1,False,3,0,, CB  VAL  164 | CG2 VAL  164
+143,True, CD  LYS  516,2.59306845262519,True, NZ  LYS  516,False,,False, N02 LIG    1,8.626546585975177,False,,False,,True,6,Matched,110,1.2197495644598502,7,False,3,0,,
+144,True, O   ASP  701,2.3442280179197574,True, N   GLY  667 | O   GLY  667 | OD2 ASP  670 | O   ASP  701 | N   HIS  702,False,,False, C06 LIG    1,10.334212984064143,False,,False,,True,2,Ghost Matched,0,None,7,False,3,None,,
+145,True, OG  SER  648,2.3712583157471436,True, O   LEU  560 | OH  TYR  596 | NE1 TRP  621 | OG  SER  648,False,,False, C03 LIG    1,10.2754449538694,False,,False,,True,2,Matched,158,0.983458184164432,6,False,3,2, CB  LEU  560 | SD  MET  633 | CE  MET  633, OH  TYR  596
+146,True, CE2 TYR  547,2.4465071019721125,True, O   CYS  513 | O   SER  514 | N   GLN  515 | N   GLY  546,False,,False, C11 LIG    1,9.789243739942323,False,,False,,True,3,Ghost Matched,0,None,7,False,3,None,,
+147,True, OE2 GLU  166,2.5510678156411237,True, N   ARG   87 | OE2 GLU  166 | OE1 GLU  167,False,,False, C17 LIG    1,7.403811248269371,False,,False,,True,3,Matched,148,1.484921883467275,6,False,3,-1, N   GLU  167 | CA  GLU  167 | CB  GLU  167 | CD  GLU  167, CB  TRP   86 | N   ARG   87 | CA  ARG   87 | CB  ARG   87 | CG  GLU  166 | CD  GLU  166 | OE2 GLU  166
+148,False,None,None,False,,False,,False, O02 LIG    1,4.138301342338426,False,,False,,True,11,Matched,186,1.032663546369295,11,False,3,1,,
+149,False,None,None,False,,False,,False, N02 LIG    1,5.528195546469028,False,,False,,True,10,Matched,182,0.33236425800617736,10,False,3,-1,,
+150,False,None,None,False,,False,,False, O02 LIG    1,6.77202251915925,False,,False,,True,9,Matched,283,0.4078529146640958,9,False,3,-2,,
+151,True, NH1 ARG   87,2.9143937620026548,True, NH1 ARG   87,False,,True, O02 LIG    1,3.4341901519863436,True, O02 LIG    1,False,,True,9,New,0,None,11,False,1,None,,
+152,True, CB  PHE  319,3.4210213387232753,False,,True, CB  PHE  319,False, C14 LIG    1,3.775319059364385,False,,False,,True,10,Matched,277,1.361055840147639,10,False,3,3, CG  PHE  319 | CD2 PHE  319,
+153,False,None,None,False,,False,,False, C15 LIG    1,7.9280595986659925,False,,False,,True,11,Matched,142,0.5270037950527487,11,False,3,3,,
+154,True, CZ  PHE  319,2.7411121830381204,False,,True, CE1 PHE  319 | CZ  PHE  319,True, C11 LIG    1,2.4154631025954405,False,,True, C11 LIG    1 | C12 LIG    1,True,7,Matched,284,1.0604027536742897,7,False,3,-2,, CE1 PHE  319
+155,False,None,None,False,,False,,False, O02 LIG    1,5.065068212768706,False,,False,,True,10,Ghost Matched,0,None,10,False,3,None,,
+156,False,None,None,False,,False,,False, C10 LIG    1,5.145062390292272,False,,False,,True,12,Matched,175,0.8861156809356262,12,False,3,0,,
+157,True, ND2 ASN  672,2.694412551930385,True, OE1 GLU  167 | ND2 ASN  672,False,,False, O01 LIG    1,5.467268056351362,False,,False,,True,3,Matched,150,1.1173119528582862,5,False,3,-3, OE2 GLU  167, CZ2 TRP  163 | CB  ASN  672
+158,True, CE1 TYR  509,3.0982791998139834,False,,True, CD1 TYR  509 | CE1 TYR  509,False, N02 LIG    1,5.5407161991930245,False,,False,,True,9,Matched,274,1.3784988211819422,9,False,3,1,,
+159,False,None,None,False,,False,,False, C14 LIG    1,5.352276244739238,False,,False,,True,7,New,0,None,7,False,3,None,,
+160,True, CG2 THR  629,2.5623452148373764,True, O   THR  629,False,,False, C03 LIG    1,7.72082657492059,False,,False,,True,4,Matched,151,0.0,5,False,3,1,,
+161,True, CZ3 TRP  621,2.4217757947423593,False,,True, CH2 TRP  621 | CZ3 TRP  621 | CG  TYR  624 | CE2 TYR  624 | CD2 TYR  624 | CD1 TYR  628 | CE1 TYR  628,True, C03 LIG    1,2.489901604481589,False,,True, C02 LIG    1 | C03 LIG    1 | C04 LIG    1,True,1,Matched,174,0.6117589394524574,1,False,3,-3,, CG  TYR  624
+162,False,None,None,False,,False,,False, O02 LIG    1,8.359912738779036,False,,False,,True,9,Matched,238,1.3111754268594247,9,False,3,-1,,
+163,False,None,None,False,,False,,False, O02 LIG    1,8.050842688812146,False,,False,,True,10,New,0,None,10,False,3,None,,
+164,True, NH1 ARG   87,3.1318853746585322,True, NH1 ARG   87,False,,False, C15 LIG    1,6.01410957665389,False,,False,,True,10,Matched,99,0.7701662158261711,11,False,3,1,,
+165,False,None,None,False,,False,,False, C10 LIG    1,4.277856121937718,False,,False,,True,11,New,0,None,11,False,3,None,,
+166,False,None,None,False,,False,,False, C15 LIG    1,7.566879541792641,False,,False,,True,11,Matched,181,1.286961149374755,11,False,3,2,,
+167,True, NH1 ARG   87,3.37230055006964,True, NH1 ARG   87,False,,False, O01 LIG    1,6.950607095786673,False,,False,,True,8,Matched,152,1.3723155613779228,9,False,3,-2,, NH1 ARG   87
+168,False,None,None,False,,False,,False, O02 LIG    1,6.541667218683629,False,,False,,True,9,Matched,188,1.3454136910259276,9,False,3,-1,,
+169,True, CB  THR  629,2.59402178094171,True, O   ASP  625 | O   SER  626 | N   GLU  630 | OH  TYR  645,False,,False, C02 LIG    1,10.352951753002616,False,,False,,False,0,Matched,190,0.8793696606092335,4,False,3,0,, CA  ALA  221 | O   ASP  625 | CA  SER  626 | O   SER  626
+170,True, CG2 VAL  169,2.5385942960622927,True, O   VAL  164 | N   TYR  165,False,,False, N03 LIG    1,10.445359926780885,False,,False,,True,1,Matched,166,0.5804205371969493,3,False,3,0, CG1 VAL  164 | CG2 VAL  627, CD2 TYR  165
+171,True, OG1 THR  598,2.371161318847794,True, N   GLY  590 | O   GLY  590 | O   GLY  594 | N   GLY  595 | OG1 THR  598 | O   ILE  613,False,,False, N02 LIG    1,9.990658586900063,False,,False,,False,0,Ghost Matched,0,None,6,False,3,None,,
+172,True, N   VAL  673,2.3612642799991757,True, OD1 ASP  670 | OD1 ASN  672 | ND2 ASN  672 | N   VAL  673 | ND1 HIS  702 | NE2 HIS  702,False,,False, C05 LIG    1,4.59101579173934,False,,False,,True,1,New,0,None,7,False,3,None,,
+173,True, O   ILE  665,2.291233292355883,True, N   ALA  616 | O   ILE  665 | ND1 HIS  666 | OG  SER  678,False,,False, C04 LIG    1,10.673604498949732,False,,False,,True,1,Matched,169,0.0,5,False,3,0,,
+174,True, O   TRP  163,2.4146823807697766,True, NE1 TRP  163 | O   TRP  163 | N   GLU  167,False,,False, N03 LIG    1,7.580606440120739,False,,False,,True,1,Ghost Matched,0,None,4,False,3,None,,
+175,True, CG2 VAL  565,2.422128402872152,False,,True, CG2 VAL  565 | CE2 TYR  596 | CD2 TYR  596 | CA  VAL  597 | CG2 VAL  597 | CB  MET  600 | CG  MET  600,False, C03 LIG    1,10.295466963669014,False,,False,,True,1,Matched,195,0.6458993729676508,1,False,3,0, CG  TYR  596 | CZ  TYR  596,
+176,True, NH1 ARG   87,3.0676898474259082,True, NH1 ARG   87,False,,True, C15 LIG    1,3.0649615005738657,False,,True, C10 LIG    1 | C15 LIG    1,True,7,Matched,207,1.4762865575490465,8,False,2,-3, CZ  ARG   87,
+177,True, CA  HIS  666,2.4775687679658844,True, N   ALA  616 | O   ILE  665 | N   HIS  666 | N   GLY  667,False,,False, C06 LIG    1,10.076271681529827,False,,False,,True,3,Matched,193,0.26868568997994624,7,False,3,1, C   VAL  615,
+178,False,None,None,False,,False,,True, C14 LIG    1,3.4028322027393596,False,,True, C14 LIG    1,True,9,New,0,None,9,False,3,None,,
+179,True, N   TYR  628,2.367845856469551,True, OE1 GLU  168 | N   TYR  628 | NH2 ARG  631,False,,False, N03 LIG    1,5.58288214097342,False,,False,,True,1,Ghost Matched,0,None,4,False,3,None,,
+180,False,None,None,False,,False,,False, O02 LIG    1,9.503335414474225,False,,False,,True,8,Ghost Matched,0,None,8,False,3,None,,
+181,True, CE2 TYR  509,2.5190051607727977,True, OH  TYR  509,False,,False, C10 LIG    1,5.339017325313714,False,,False,,True,6,Matched,247,1.3322743711413234,7,False,3,-2,, CG  TYR  509 | CD2 TYR  509
+182,True, O   GLU  168,2.4494162569885924,True, O   GLU  168 | NH2 ARG  631,False,,False, C13 LIG    1,8.521200560953837,False,,False,,True,4,Matched,253,0.35177407522443,6,False,3,-1, N   VAL  169,
+183,False,None,None,False,,False,,False, C15 LIG    1,7.3090900938488925,False,,False,,True,9,Matched,189,0.8912474403890291,9,False,3,1,,
+184,False,None,None,False,,False,,False, C15 LIG    1,4.749023267999436,False,,False,,True,9,Matched,199,0.5313351108293131,9,False,3,0,,
+185,False,None,None,False,,False,,False, O02 LIG    1,8.862229403485337,False,,False,,True,8,New,0,None,8,False,3,None,,
+186,True, CE2 PHE  319,2.434706553159954,True, O   ARG  318 | N   PHE  319 | SG  CYS  513,False,,False, C12 LIG    1,7.14696369096696,False,,False,,True,2,Ghost Matched,0,None,5,False,3,None,,
+187,False,None,None,False,,False,,True, C15 LIG    1,3.0999098373985063,False,,True, C15 LIG    1,True,6,Matched,236,0.3838437181979138,6,False,3,-3,,
+188,True, O   VAL  618,2.317854611488822,True, O   VAL  618 | N   SER  619,False,,False, C04 LIG    1,9.82519953995846,False,,False,,True,3,New,0,None,5,False,3,None,,
+189,True, CD1 LEU  560,2.5360609219811683,True, OH  TYR  628,False,,False, C03 LIG    1,5.23659689111163,False,,False,,True,3,Matched,198,0.9086352403467535,4,False,3,0,, CE2 TYR  593 | CZ  TYR  628 | OH  TYR  628 | CD2 TYR  632
+190,False,None,None,False,,False,,False, O02 LIG    1,5.670504915790129,False,,False,,True,10,New,0,None,10,False,3,None,,
+191,False,None,None,False,,False,,False, C14 LIG    1,5.178016415578462,False,,False,,True,9,Matched,171,1.1107258887772447,9,False,3,-3,,
+192,True, CG2 VAL  618,2.5917293454371344,True, O   SER  592 | N   TYR  593 | N   VAL  618,False,,False, C04 LIG    1,3.6576901180936536,False,,False,,True,3,Matched,191,0.622406619502077,6,False,3,-2,, N   TYR  593
+193,False,None,None,False,,False,,False, O02 LIG    1,8.20115882055701,False,,False,,True,9,Matched,187,1.3033875095304575,9,False,3,1,,
+194,True, CB  TRP  591,2.6707214381136795,True, N   TRP  591,False,,False, N02 LIG    1,8.845725577927453,False,,False,,True,4,Matched,164,1.02885275914486,5,False,3,0, CA  GLY  590 | C   GLY  590,
+195,True, CB  TRP  591,2.5259362620620496,False,,True, CB  TRP  591 | CG  TRP  591 | CD1 TRP  591 | CD2 TRP  591,False, N02 LIG    1,7.061587215350382,False,,False,,True,5,Matched,161,1.4208983074097916,5,False,3,0, CE3 TRP  591, CD1 TRP  591
+196,True, NH2 ARG  320,2.8099731315441505,True, NE  ARG  320 | NH2 ARG  320,False,,False, C14 LIG    1,10.179560353964211,False,,False,,True,5,Ghost Matched,0,None,7,False,3,None,,
+197,False,None,None,False,,False,,False, C15 LIG    1,10.010451388424006,False,,False,,True,7,Matched,212,1.1946836401324032,7,False,3,-1,,
+198,True, CA  TRP   86,2.5094696650886252,True, N   ARG   87 | OD1 ASP  671 | OD2 ASP  671,False,,False, O01 LIG    1,9.254844407119979,False,,False,,True,4,Matched,219,0.0,7,False,3,0,,
+199,True, CA  GLY  703,2.4579312439529306,True, N   GLY  703,False,,False, O01 LIG    1,9.979390011418534,False,,False,,True,4,Ghost Matched,0,None,5,False,3,None,,
+200,False,None,None,False,,False,,False, C14 LIG    1,10.155359767137742,False,,False,,True,5,Ghost Matched,0,None,5,False,3,None,,
+201,False,None,None,False,,False,,False, N02 LIG    1,9.692170138828558,False,,False,,True,4,New,0,None,4,False,3,None,,
+202,False,None,None,False,,False,,False, C15 LIG    1,8.593314261680415,False,,False,,True,7,Matched,217,1.2936351881423132,7,False,3,0,,
+203,True, N   GLY  703,2.5550596861912984,True, O   HIS  702 | N   GLY  703,False,,False, O01 LIG    1,7.183412141872418,False,,False,,True,5,Matched,222,1.0383925076771392,7,False,3,0,, CA  HIS  702 | O   HIS  702 | N   GLY  703 | CA  GLY  703
+204,False,None,None,False,,False,,False, C15 LIG    1,10.40017586389769,False,,False,,True,8,Ghost Matched,0,None,8,False,3,None,,
+205,False,None,None,False,,False,,False, C11 LIG    1,6.332339062305494,False,,False,,True,10,Matched,275,1.0704783977269239,10,False,3,1,,
+206,True, NH1 ARG   87,2.6040407062870625,True, NH1 ARG   87,False,,False, C15 LIG    1,6.742958401176747,False,,False,,True,10,Matched,206,1.0547971368941045,11,False,3,2,, CZ  ARG   87
+207,False,None,None,False,,False,,False, C15 LIG    1,7.055007158040317,False,,False,,True,9,New,0,None,9,False,3,None,,
+208,False,None,None,False,,False,,False, C15 LIG    1,9.093605335619097,False,,False,,True,7,Matched,213,0.6120980313642558,7,False,3,-1,,
+209,False,None,None,False,,False,,False, C14 LIG    1,7.5827998127340805,False,,False,,True,11,New,0,None,11,False,3,None,,
+210,False,None,None,False,,False,,False, C14 LIG    1,8.759441534709849,False,,False,,True,8,Matched,215,0.8854383095394063,8,False,3,-4,,
+211,False,None,None,False,,False,,False, C14 LIG    1,8.878639873313926,False,,False,,True,10,New,0,None,10,False,3,None,,
+212,False,None,None,False,,False,,False, N02 LIG    1,8.001116047152424,False,,False,,True,11,Matched,200,1.2260000000000018,11,False,3,3,,
+213,False,None,None,False,,False,,False, C15 LIG    1,6.412732958731402,False,,False,,True,10,Matched,132,1.4253157544909132,10,False,3,0,,
+214,False,None,None,False,,False,,False, C15 LIG    1,7.589449123618922,False,,False,,True,11,Matched,263,1.2575074552462995,11,False,3,2,,
+215,False,None,None,False,,False,,False, C15 LIG    1,10.330696878720238,False,,False,,True,6,Matched,224,0.549531618744545,6,False,3,2,,
+216,False,None,None,False,,False,,False, O02 LIG    1,8.676447544934504,False,,False,,True,6,Matched,153,0.8997899754942837,6,False,3,-3,,
+217,False,None,None,False,,False,,False, C14 LIG    1,8.018086679501538,False,,False,,True,7,Matched,210,1.2701338512141123,7,False,3,0,,
+218,False,None,None,False,,False,,False, O02 LIG    1,9.609300963129419,False,,False,,True,6,New,0,None,6,False,3,None,,
+219,False,None,None,False,,False,,False, O02 LIG    1,10.102129824942862,False,,False,,True,5,Matched,249,0.8435360099011777,5,False,3,0,,
+220,False,None,None,False,,False,,False, O02 LIG    1,7.898010762210952,False,,False,,True,9,Matched,240,1.1910151132542333,9,False,3,2,,
+221,False,None,None,False,,False,,False, O02 LIG    1,8.636350733961656,False,,False,,True,8,Matched,285,0.6171976992828168,8,False,3,0,,
+222,False,None,None,False,,False,,False, O02 LIG    1,7.441165634495711,False,,False,,True,11,New,0,None,11,False,3,None,,
+223,False,None,None,False,,False,,False, O02 LIG    1,10.474399028106578,False,,False,,True,5,New,0,None,5,False,3,None,,
+224,False,None,None,False,,False,,False, C15 LIG    1,4.151524659688294,False,,False,,True,9,Matched,180,1.3601775619381467,9,False,3,-1,,
+225,True, NH2 ARG   87,2.3565841805460748,True, NE  ARG   87 | NH1 ARG   87 | NH2 ARG   87,False,,False, O01 LIG    1,5.172384556469099,False,,False,,True,6,New,0,None,9,False,3,None,,
+226,False,None,None,False,,False,,False, C15 LIG    1,7.872697187114467,False,,False,,True,7,Matched,272,0.9535627928982924,7,False,3,-3,,
+227,False,None,None,False,,False,,False, C15 LIG    1,9.208392150641721,False,,False,,True,8,Matched,278,1.319292992477408,8,False,3,0,,
+228,False,None,None,False,,False,,True, C11 LIG    1,3.4771289881164895,False,,True, C11 LIG    1,True,9,Matched,276,1.4522788988345183,9,False,3,-2,,
+229,True, CE2 PHE  319,2.4772462534031563,False,,True, CZ  PHE  319 | CE2 PHE  319 | CD2 PHE  319,False, C11 LIG    1,4.130371048707366,False,,False,,True,8,Matched,197,0.42565361504396493,8,False,3,0,,
+230,False,None,None,False,,False,,False, O02 LIG    1,9.561224241696248,False,,False,,True,5,Matched,271,0.6274862548295361,5,False,3,-1,,
+231,False,None,None,False,,False,,False, O02 LIG    1,5.565809015767605,False,,False,,True,10,Matched,231,1.2531719754287507,10,False,3,1,,
+232,True, CB  PHE  319,2.4259144667526904,True, N   PHE  319,False,,False, C14 LIG    1,6.607988196115359,False,,False,,True,6,Ghost Matched,0,None,7,False,3,None,,
+233,False,None,None,False,,False,,False, C15 LIG    1,9.650877369441604,False,,False,,True,8,Matched,266,0.9209196490465358,8,False,3,3,,
+234,False,None,None,False,,False,,False, O02 LIG    1,8.356505370069474,False,,False,,True,8,Matched,225,1.0337514207970873,8,False,3,-3,,
+235,False,None,None,False,,False,,False, C15 LIG    1,6.627449132207661,False,,False,,True,9,Matched,239,1.0059890655469348,9,False,3,1,,
+236,False,None,None,False,,False,,False, C15 LIG    1,6.533573065329567,False,,False,,True,10,Matched,265,0.9582995356359073,10,False,3,0,,
+237,True, CB  VAL  618,2.4899112433980473,False,,True, CB  TYR  596 | CG  TYR  596 | CD1 TYR  596 | CD2 TYR  596 | CB  VAL  618 | CG1 VAL  618 | CG2 VAL  618 | CE2 TRP  621 | CZ2 TRP  621 | CH2 TRP  621,False, C03 LIG    1,4.865118600815403,False,,False,,True,3,Matched,257,0.6513332480382072,3,False,3,0, CE1 TYR  596, CG2 VAL  618
+238,True, CG2 VAL  169,3.338762345540632,False,,True, CG2 VAL  169 | CD2 LEU  278,False, C13 LIG    1,10.882955572821196,False,,False,,True,2,New,0,None,2,False,3,None,,
+239,False,None,None,False,,False,,False, O02 LIG    1,9.966665340022207,False,,False,,True,7,New,0,None,7,False,3,None,,
+240,True, OH  TYR  509,3.2265338987836434,True, OH  TYR  509,False,,True, C10 LIG    1,2.6646247390580178,False,,True, C10 LIG    1 | C11 LIG    1 | C15 LIG    1,True,6,Matched,172,0.9938747405986363,7,False,2,-5, CZ  TYR  509,
+241,False,None,None,False,,False,,False, C11 LIG    1,4.710471526291188,False,,False,,True,10,New,0,None,10,False,3,None,,
+242,True, CG2 VAL  650,2.4553673859526595,True, O   VAL  618 | N   SER  619 | O   SER  619 | N   VAL  650,False,,False, C04 LIG    1,9.752117718731661,False,,False,,True,3,Matched,136,1.0845943942322391,7,False,3,1, O   SER  648 | CA  THR  649 | C   THR  649 | CA  VAL  650, C   VAL  618 | O   VAL  618 | N   SER  619
+243,True, CD1 PHE  319,2.424891131576837,False,,True, CB  PHE  319 | CG  PHE  319 | CD1 PHE  319 | CE1 PHE  319,True, C12 LIG    1,2.7504146960049485,False,,True, C12 LIG    1 | C13 LIG    1 | C14 LIG    1,True,5,Matched,254,1.2487449699598387,5,False,3,-4,, CD1 PHE  319 | CE1 PHE  319
+244,True, O   HIS  702,2.562826954751338,True, NE1 TRP  591 | NE2 HIS  702 | O   HIS  702,False,,False, C06 LIG    1,6.510505203131317,False,,False,,True,5,New,0,None,8,False,3,None,,
+245,True, CG  MET  633,2.4549268828215656,True, NE1 TRP  621,False,,False, C03 LIG    1,8.675952858332046,False,,False,,True,3,Ghost Matched,0,None,4,False,3,None,,
+246,False,None,None,False,,False,,False, C15 LIG    1,10.530182334603712,False,,False,,True,5,Matched,259,0.9574481709210123,5,False,3,-1,,
+247,False,None,None,False,,False,,False, C14 LIG    1,10.011292923493947,False,,False,,True,7,Ghost Matched,0,None,7,False,3,None,,
+248,False,None,None,False,,False,,False, O02 LIG    1,9.222632053811965,False,,False,,True,7,New,0,None,7,False,3,None,,
+249,True, CA  GLY  546,2.46877560746213,True, SG  CYS  513 | O   CYS  513 | N   TYR  547,False,,False, C11 LIG    1,10.114232002480467,False,,False,,True,1,Ghost Matched,0,None,4,False,3,None,,
+250,False,None,None,False,,False,,False, C15 LIG    1,10.140186339510734,False,,False,,True,5,Matched,260,0.5738161726546238,5,False,3,1,,
+251,True, CB  GLN  515,2.525027128567133,True, OE1 GLN  515,False,,False, C11 LIG    1,9.802456732880795,False,,False,,True,4,Matched,114,0.6003282435468106,5,False,3,1, NH2 ARG  391 | CD  GLN  515,
+252,False,None,None,False,,False,,False, C15 LIG    1,10.669620658673859,False,,False,,True,5,Matched,216,1.038094889689759,5,False,3,1,,
+253,False,None,None,False,,False,,False, C15 LIG    1,10.516847483918369,False,,False,,True,5,New,0,None,5,False,3,None,,
+254,False,None,None,False,,False,,False, C14 LIG    1,10.356813506093463,False,,False,,True,6,Matched,262,1.3111403433652746,6,False,3,1,,
+255,False,None,None,False,,False,,False, C14 LIG    1,8.214060506229547,False,,False,,True,11,Matched,268,0.6089811162917974,11,False,3,3,,
+256,False,None,None,False,,False,,False, O02 LIG    1,8.977948596422237,False,,False,,True,9,Matched,269,1.426622935466836,9,False,3,4,,
+257,True, CE1 TYR  645,2.4587218224109835,False,,True, CB  TRP  621 | CG  TRP  621 | CG2 THR  629 | CB  MET  633 | CG  MET  633 | SD  MET  633 | CE  MET  633 | CG  TYR  645 | CD1 TYR  645 | CE1 TYR  645 | CZ  TYR  645 | CE2 TYR  645,False, C03 LIG    1,10.433591232169295,False,,False,,True,2,Ghost Matched,0,None,2,False,3,None,,
+258,False,None,None,False,,False,,False, C10 LIG    1,6.611104370678171,False,,False,,True,11,New,0,None,11,False,3,None,,
+259,False,None,None,False,,False,,False, C15 LIG    1,5.999333796347729,False,,False,,True,9,Matched,227,0.8268427903779486,9,False,3,0,,
+260,False,None,None,False,,False,,False, O02 LIG    1,8.156401718895408,False,,False,,True,10,Matched,233,0.6431034131459729,10,False,3,0,,
+261,False,None,None,False,,False,,False, C15 LIG    1,9.599369666806256,False,,False,,True,7,New,0,None,7,False,3,None,,
+262,True, CZ  PHE  319,2.518082008195925,False,,True, CG  PHE  319 | CD1 PHE  319 | CE1 PHE  319 | CZ  PHE  319 | CE2 PHE  319 | CD2 PHE  319,True, C12 LIG    1,2.490425867196213,False,,True, C11 LIG    1 | C12 LIG    1 | C14 LIG    1,True,5,New,0,None,5,False,3,None,,
+263,True, CG1 VAL  618,2.4824010554300013,True, N   ARG  620 | NE1 TRP  621,False,,False, C03 LIG    1,7.632809836488791,False,,False,,True,3,Matched,135,1.3660783286473734,5,False,3,0, CG  TYR  596 | CB  VAL  618 | C   VAL  618 | O   VAL  618 | N   SER  619 | CA  SER  619 | C   SER  619 | O   SER  619, CZ  TYR  596 | CD1 TRP  621 | NE1 TRP  621 | CE2 TRP  621
+264,False,None,None,False,,False,,False, O02 LIG    1,9.958188037991647,False,,False,,True,7,Matched,280,1.2281730334118242,7,False,3,3,,
+265,False,None,None,False,,False,,False, O02 LIG    1,9.753708064115925,False,,False,,True,6,New,0,None,6,False,3,None,,
+266,False,None,None,False,,False,,False, O02 LIG    1,6.547498606338147,False,,False,,True,11,Matched,273,1.0080421618166546,11,False,3,3,,
+267,False,None,None,False,,False,,False, O02 LIG    1,6.03595468836538,False,,False,,True,9,Matched,232,1.3132322719153708,9,False,3,1,,
+268,False,None,None,False,,False,,False, O02 LIG    1,9.994494534492478,False,,False,,True,6,New,0,None,6,False,3,None,,
+269,False,None,None,False,,False,,False, C15 LIG    1,8.551379420888777,False,,False,,True,10,New,0,None,10,False,3,None,,
+270,False,None,None,False,,False,,False, O02 LIG    1,10.115209636977376,False,,False,,True,6,Matched,279,1.079593905132852,6,False,3,1,,
+271,False,None,None,False,,False,,False, C15 LIG    1,9.771020059338738,False,,False,,True,8,Matched,133,1.4007901341742819,8,False,3,-2,,
+272,True, O   VAL  627,2.2804519288947973,True, NE2 GLN  282 | O   SER  626 | O   VAL  627 | N   GLU  630 | N   ARG  631,False,,False, C07 LIG    1,10.752741138891048,False,,False,,False,0,Matched,192,0.0,5,False,3,0,,
+273,False,None,None,False,,False,,False, O02 LIG    1,8.0709584932646,False,,False,,True,10,Matched,248,0.5768145282497654,10,False,3,1,,
+274,False,None,None,False,,False,,False, O02 LIG    1,7.310262717577253,False,,False,,True,12,New,0,None,12,False,3,None,,
+275,False,None,None,False,,False,,False, C15 LIG    1,8.920746045034578,False,,False,,True,9,Matched,140,1.3057553369601809,9,False,3,-1,,
+276,False,None,None,False,,False,,False, C15 LIG    1,10.774620828595317,False,,False,,True,5,New,0,None,5,False,3,None,,
+277,False,None,None,False,,False,,False, C15 LIG    1,10.533292030509743,False,,False,,True,6,Ghost Matched,0,None,6,False,3,None,,
+
+Ligand Atom,HBA,HBD,HF,Broken HB,Charge Clash,Lig Water HB,Lig Water Interactions,ProtAtom HB,ProtAtom HF,ProtAtom Interactions
+ C01,False,False,True,False,False,False,,False,False, OH  TYR  624 HF_HB 2.86
+ C02,False,False,True,False,False,False,,False,True, CE1 TYR  628 HF 3.47 | CZ  TYR  628 HF 3.29
+ C03,False,False,True,False,False,False,,False,False,
+ C04,False,False,True,False,False,False,,False,False, OG  SER  592 HF_HB 3.0
+ C07,False,False,True,False,False,False,,False,False, OE1 GLU  168 HF_HB 3.44 | OE2 GLU  168 HF_HB 3.34 | OH  TYR  624 HF_HB 3.27
+ N01,True,False,False,False,False,True, O     14 3.4,True,False, OH  TYR  624 HB 3.04
+ O01,True,False,False,False,False,True, O     13 3.0 | O     44 3.12 | O     54 2.84,True,False, NH2 ARG   87 HB 3.39 | OE2 GLU  167 Double Acceptor 3.05 | OH  TYR  624 HB 3.19 | ND2 ASN  672 HB 3.17
+ C05,False,False,True,False,False,False,,False,False, OG  SER  592 HF_HB 2.34
+ C06,False,False,True,False,False,False,,False,True, CB  SER  592 HF 2.48 | OG  SER  592 HF_HB 1.57 | N   TYR  593 HF_HB 3.28
+ N02,True,False,False,False,False,True, O     13 3.0 | O     14 2.65 | O     45 3.19,True,False, CE1 TYR  509 HF_HB 3.42 | CZ  TYR  509 HF_HB 3.43 | OH  TYR  509 HB 2.78 | CB  SER  592 HF_HB 2.9 | OG  SER  592 HB 2.54 | N   TYR  593 HB 2.91
+ N03,False,True,False,False,False,True, O     44 3.47,True,False, OE2 GLU  167 HB 2.84 | CD  GLU  168 HF_HB 3.41 | OE1 GLU  168 HB 2.79 | OE2 GLU  168 HB 3.33
+ C08,False,False,True,False,False,False,,False,False,
+ C09,False,False,True,False,False,False,,False,False,
+ C10,False,False,True,False,False,False,,False,False,
+ C11,False,False,True,False,False,False,,False,False,
+ C12,False,False,True,False,False,False,,False,False,
+ C13,False,False,True,False,False,False,,False,False,
+ C14,False,False,True,False,False,False,,False,False,
+ C15,False,False,True,False,False,False,,False,False,
+ C16,False,False,True,False,False,False,,False,False,
+ C17,False,False,True,False,False,False,,False,False, OE2 GLU  167 HF_HB 3.18
+ O02,True,True,False,False,False,True, O      1 2.79 | O      3 2.99 | O      5 3.11 | O      9 2.37 | O     53 2.81 | O    110 3.33 | O    151 3.43,False,False,
+
+Protein Atom,Residue,Residue Number,HBA,HBD,HF,Broken HB,Distance from Lig,Prot Water HB,Prot Water Interactions,Lig Water HB,Lig Water Interactions,LigAtom HB,LigAtom HF,LigAtom Interactions
+ OH ,TYR,  82,True,True,False,False,14.641248785537384,False,,False,,False,False,
+ CG ,LYS,  84,False,False,True,False,13.742671647099778,False,,False,,False,False,
+ CD ,LYS,  84,False,False,True,False,13.416732165471592,False,,False,,False,False,
+ CE ,LYS,  84,False,False,True,False,12.09926778776303,False,,False,,False,False,
+ NZ ,LYS,  84,False,True,False,False,11.986625296554488,True, O      9 2.59 | O     18 3.24 | O    122 3.44,True, O      7 2.59 | O     16 3.24,False,False,
+ N  ,GLN,  85,False,True,False,False,14.71932094221741,False,,False,,False,False,
+ CA ,GLN,  85,False,False,True,False,14.532955170921015,False,,False,,False,False,
+ CB ,GLN,  85,False,False,True,False,14.78207492201282,False,,False,,False,False,
+ NE2,GLN,  85,False,True,False,False,14.943217625397816,False,,False,,False,False,
+ C  ,GLN,  85,False,False,True,False,13.244040018060952,False,,False,,False,False,
+ O  ,GLN,  85,True,False,False,False,13.07314992647143,False,,False,,False,False,
+ N  ,TRP,  86,False,True,False,False,12.205813082298121,False,,False,,False,False,
+ CA ,TRP,  86,False,False,True,False,10.984746287466088,False,,False,,False,False,
+ CB ,TRP,  86,False,False,True,False,10.380012957602702,False,,False,,False,False,
+ CG ,TRP,  86,False,False,True,False,11.433597421634188,False,,False,,False,False,
+ CD1,TRP,  86,False,False,True,False,12.013165819216852,False,,False,,False,False,
+ NE1,TRP,  86,False,True,False,False,13.005374004618242,False,,False,,False,False,
+ CE2,TRP,  86,False,False,True,False,12.91378252101219,False,,False,,False,False,
+ CZ2,TRP,  86,False,False,True,False,13.75689768806907,False,,False,,False,False,
+ CH2,TRP,  86,False,False,True,False,13.681515011138204,False,,False,,False,False,
+ CZ3,TRP,  86,False,False,True,False,12.790205041358798,False,,False,,False,False,
+ CE3,TRP,  86,False,False,True,False,11.89820309962811,False,,False,,False,False,
+ CD2,TRP,  86,False,False,True,False,11.962408327757416,False,,False,,False,False,
+ C  ,TRP,  86,False,False,True,False,9.959767918982855,False,,False,,False,False,
+ O  ,TRP,  86,True,False,False,False,10.455088426216207,True, O     18 2.42,True, O     16 2.42,False,False,
+ N  ,ARG,  87,False,True,False,False,8.66351758813936,True, O     31 3.0 | O    219 2.97,True, O     27 3.0 | O    147 2.64 | O    198 2.97,False,False,
+ CA ,ARG,  87,False,False,True,False,7.7114850061450575,False,,False,,False,False,
+ CB ,ARG,  87,False,False,True,False,6.259242286411353,False,,False,,False,False,
+ CG ,ARG,  87,False,False,True,False,5.407284253671157,False,,False,,False,False,
+ CD ,ARG,  87,False,False,True,False,3.916392345003245,False,,False,,False,False,
+ NE ,ARG,  87,False,True,False,False,3.9848820559710463,True, O     55 3.19 | O    107 2.55 | O    139 3.21 | O    154 2.87,True, O    110 2.5 | O    128 3.21 | O    225 3.43,False,False,
+ CZ ,ARG,  87,False,False,True,False,4.10742181909772,False,,False,,False,False,
+ NH1,ARG,  87,False,True,False,False,4.269267384458368,True, O     65 2.96 | O     98 2.71 | O     99 2.71 | O    154 3.17 | O    206 2.6 | O    207 2.31 | O    255 3.11,True, O     59 2.42 | O     84 3.19 | O     88 3.0 | O    151 2.91 | O    164 3.13 | O    167 3.37 | O    176 3.07 | O    206 2.6 | O    225 2.48,False,False,
+ NH2,ARG,  87,False,True,False,False,3.389689808817318,True, O      8 3.38 | O     55 2.61 | O     58 3.16 | O     65 2.82 | O    109 2.84 | O    255 2.67,True, O     50 3.16 | O     59 2.42 | O    225 2.36,True,False, O01 HB 3.39
+ C  ,ARG,  87,False,False,True,False,7.980941109919312,False,,False,,False,False,
+ O  ,ARG,  87,True,False,False,False,8.17933505854847,True, O     12 2.82 | O     18 2.78 | O     66 2.37 | O     78 3.12 | O    123 3.14,True, O     10 2.82 | O     16 2.78 | O     58 2.37 | O     73 3.12 | O    115 3.16,False,False,
+ N  ,HIS,  88,False,True,False,False,8.345142958631685,False,,False,,False,False,
+ CA ,HIS,  88,False,False,True,False,8.898187849219639,False,,False,,False,False,
+ CB ,HIS,  88,False,False,True,False,8.29871688877263,False,,False,,False,False,
+ CG ,HIS,  88,False,False,True,False,6.836531723030331,False,,False,,False,False,
+ ND1,HIS,  88,True,True,False,False,6.3877762953941986,True, O      7 3.17 | O     12 3.19 | O     16 2.75 | O     79 2.56 | O    123 2.86,True, O      6 3.17 | O     10 3.19 | O     11 2.75 | O     74 2.56 | O    115 3.05,False,False,
+ CE1,HIS,  88,False,False,True,False,5.098191934401843,False,,False,,False,False,
+ NE2,HIS,  88,True,True,False,False,4.69195108670157,True, O      2 3.15 | O      7 3.17 | O     26 3.14 | O     42 2.84,True, O      1 3.01 | O      6 3.17 | O      9 2.9 | O     24 3.14 | O    110 3.26,False,False,
+ CD2,HIS,  88,False,False,True,False,5.90058319151591,False,,False,,False,False,
+ C  ,HIS,  88,False,False,True,False,10.37504048184873,False,,False,,False,False,
+ O  ,HIS,  88,True,False,False,False,11.196094408319361,False,,False,,False,False,
+ N  ,SER,  89,False,True,False,False,10.836124445575548,False,,False,,False,False,
+ CA ,SER,  89,False,False,True,False,12.256602180049741,False,,False,,False,False,
+ CB ,SER,  89,False,False,True,False,12.649626318591398,False,,False,,False,False,
+ OG ,SER,  89,True,True,False,False,12.248166719962619,False,,False,,False,False,
+ C  ,SER,  89,False,False,True,False,13.210421984175978,False,,False,,False,False,
+ O  ,SER,  89,True,False,False,False,12.966353303839902,False,,False,,False,False,
+ N  ,TYR,  90,False,True,False,False,14.409871685757654,False,,False,,False,False,
+ CE2,TYR,  90,False,False,True,False,14.670668219273457,False,,False,,False,False,
+ CD2,TYR,  90,False,False,True,False,14.416581598978317,False,,False,,False,False,
+ CH2,TRP, 116,False,False,True,False,14.972771820875389,False,,False,,False,False,
+ CZ3,TRP, 116,False,False,True,False,14.854985997973888,False,,False,,False,False,
+ N  ,THR, 161,False,True,False,False,14.625305774581262,False,,False,,False,False,
+ CA ,THR, 161,False,False,True,False,14.047695220213177,False,,False,,False,False,
+ CB ,THR, 161,False,False,True,False,12.5842429649145,False,,False,,False,False,
+ CG2,THR, 161,False,False,True,False,12.56503040187329,False,,False,,False,False,
+ OG1,THR, 161,True,True,False,False,11.904392718656425,False,,False,,False,False,
+ C  ,THR, 161,False,False,True,False,14.066116912637973,False,,False,,False,False,
+ O  ,THR, 161,True,False,False,False,14.310552539996497,False,,False,,False,False,
+ N  ,ASP, 162,False,True,False,False,13.988227979268856,False,,False,,False,False,
+ CA ,ASP, 162,False,False,True,False,13.903677894715484,False,,False,,False,False,
+ CB ,ASP, 162,False,False,True,False,14.485809642543284,False,,False,,False,False,
+ CG ,ASP, 162,False,False,True,False,13.69552284507605,False,,False,,False,False,
+ OD1,ASP, 162,True,False,False,False,12.83232547124643,False,,False,,False,False,
+ OD2,ASP, 162,True,False,False,False,14.043582377726842,False,,False,,False,False,
+ C  ,ASP, 162,False,False,True,False,12.440571932190254,False,,False,,False,False,
+ O  ,ASP, 162,True,False,False,False,11.604353321060165,False,,False,,False,False,
+ N  ,TRP, 163,False,True,False,False,12.197312203924271,False,,False,,False,False,
+ CA ,TRP, 163,False,False,True,False,10.949880090667662,False,,False,,False,False,
+ CB ,TRP, 163,False,False,True,False,11.153839383817573,False,,False,,False,False,
+ CG ,TRP, 163,False,False,True,False,10.145769709588327,False,,False,,False,False,
+ CD1,TRP, 163,False,False,True,False,10.237934801511482,False,,False,,False,False,
+ NE1,TRP, 163,False,True,False,False,9.028722057965895,False,,True, O    174 3.01,False,False,
+ CE2,TRP, 163,False,False,True,False,8.14189805880668,False,,False,,False,False,
+ CZ2,TRP, 163,False,False,True,False,6.820864461342124,False,,False,,False,False,
+ CH2,TRP, 163,False,False,True,False,6.379847176853062,False,,False,,False,False,
+ CZ3,TRP, 163,False,False,True,False,7.113399890347795,False,,False,,False,False,
+ CE3,TRP, 163,False,False,True,False,8.280141846611084,False,,False,,False,False,
+ CD2,TRP, 163,False,False,True,False,8.879255486807438,False,,False,,False,False,
+ C  ,TRP, 163,False,False,True,False,9.752803135509298,False,,False,,False,False,
+ O  ,TRP, 163,True,False,False,False,8.751606538230563,True, O     61 3.21,True, O     56 3.21 | O    174 2.41,False,False,
+ N  ,VAL, 164,False,True,False,False,10.006833115426675,False,,False,,False,False,
+ CA ,VAL, 164,False,False,True,False,9.064953226575414,False,,False,,False,False,
+ CB ,VAL, 164,False,False,True,False,9.67469870331888,False,,False,,False,False,
+ CG1,VAL, 164,False,False,True,False,10.911912893713913,False,,False,,False,False,
+ CG2,VAL, 164,False,False,True,False,8.751715603240314,False,,False,,False,False,
+ C  ,VAL, 164,False,False,True,False,8.921799201954725,False,,False,,False,False,
+ O  ,VAL, 164,True,False,False,False,7.909166327749084,True, O     96 2.37 | O    160 2.71 | O    166 2.9,True, O     87 3.12 | O     94 2.37 | O    170 3.17,False,False,
+ N  ,TYR, 165,False,True,False,False,10.063518420512775,True, O    166 2.67,True, O    170 2.88,False,False,
+ CA ,TYR, 165,False,False,True,False,10.267105434347108,False,,False,,False,False,
+ CB ,TYR, 165,False,False,True,False,11.707833616856707,False,,False,,False,False,
+ CG ,TYR, 165,False,False,True,False,12.522471720870442,False,,False,,False,False,
+ CD1,TYR, 165,False,False,True,False,13.167421957239767,False,,False,,False,False,
+ CE1,TYR, 165,False,False,True,False,14.032509718507232,False,,False,,False,False,
+ CZ ,TYR, 165,False,False,True,False,14.283103934369446,False,,False,,False,False,
+ CE2,TYR, 165,False,False,True,False,13.706874260749599,False,,False,,False,False,
+ CD2,TYR, 165,False,False,True,False,12.764542451650982,False,,False,,False,False,
+ C  ,TYR, 165,False,False,True,False,9.359502550883784,False,,False,,False,False,
+ O  ,TYR, 165,True,False,False,False,8.82998306906644,True, O     28 2.65 | O     75 2.35,True, O     36 2.65 | O     65 2.35,False,False,
+ N  ,GLU, 166,False,True,False,False,9.39781267104213,True, O     75 3.45,True, O     65 3.45,False,False,
+ CA ,GLU, 166,False,False,True,False,8.764845748785314,False,,False,,False,False,
+ CB ,GLU, 166,False,False,True,False,9.349505815817219,False,,False,,False,False,
+ CG ,GLU, 166,False,False,True,False,8.710344424877817,False,,False,,False,False,
+ CD ,GLU, 166,False,False,True,False,9.587819095081013,False,,False,,False,False,
+ OE1,GLU, 166,True,False,False,False,10.788270667720575,True, O     61 2.71,True, O     56 2.71,False,False,
+ OE2,GLU, 166,True,False,False,False,9.182606438261416,True, O     61 3.04,True, O     56 3.04 | O    147 2.55,False,False,
+ C  ,GLU, 166,False,False,True,False,7.231088783855445,False,,False,,False,False,
+ O  ,GLU, 166,True,False,False,False,6.544835979610186,True, O     26 2.98 | O     28 2.37 | O     75 2.84,True, O     24 2.98 | O     36 2.37 | O     65 2.84,False,False,
+ N  ,GLU, 167,False,True,False,False,6.734533465652988,True, O     26 3.18 | O     28 3.21 | O    148 3.49,True, O     24 3.18 | O     36 3.21 | O    174 3.45,False,False,
+ CA ,GLU, 167,False,False,True,False,5.339214642623016,False,,False,,False,False,
+ CB ,GLU, 167,False,False,True,False,5.307489142711459,False,,False,,False,False,
+ CG ,GLU, 167,False,False,True,False,3.877877125438609,False,,False,,False,False,
+ CD ,GLU, 167,False,False,True,False,3.7022271675303813,False,,False,,False,False,
+ OE1,GLU, 167,True,False,False,False,4.382917407389744,True, O     26 2.84 | O    107 2.34 | O    148 2.53 | O    150 2.3,True, O     24 2.84 | O    110 2.39 | O    147 3.42 | O    157 3.08,False,False,
+ OE2,GLU, 167,True,False,False,False,2.8369606976481028,True, O      5 3.17 | O     14 2.67 | O     55 2.65 | O    107 2.96 | O    109 2.65 | O    138 2.46 | O    150 2.95,True, O     44 2.37 | O    110 3.39,True,False, O01 Double Acceptor 3.05 | N03 HB 2.84 | C17 HF_HB 3.18
+ C  ,GLU, 167,False,False,True,False,4.677887236776883,False,,False,,False,False,
+ O  ,GLU, 167,True,False,False,False,3.6114038821488825,True, O      2 2.56 | O      4 2.42 | O      5 2.88 | O     28 2.94 | O    107 2.89 | O    113 3.33,True, O      1 2.84 | O      4 2.42 | O     36 2.94 | O    110 3.19 | O    126 3.33,False,False,
+ N  ,GLU, 168,False,True,False,False,5.595280421927035,True, O     28 2.48 | O     96 3.2,True, O     36 2.48 | O     94 3.2,False,False,
+ CA ,GLU, 168,False,False,True,False,5.390981079543867,False,,False,,False,False,
+ CB ,GLU, 168,False,False,True,False,5.554246123462657,False,,False,,False,False,
+ CG ,GLU, 168,False,False,True,False,4.844802266346892,False,,False,,False,False,
+ CD ,GLU, 168,False,False,True,False,3.40581121026988,False,,False,,False,False, N03 HF_HB 3.41
+ OE1,GLU, 168,True,False,False,False,2.787389639070936,True, O      5 2.37 | O     10 2.81 | O     14 3.06 | O     37 3.19 | O    113 2.56,True, O     23 2.81 | O    126 2.56 | O    179 3.03,True,False, C07 HF_HB 3.44 | N03 HB 2.79
+ OE2,GLU, 168,True,False,False,False,3.3320858332281897,True, O     14 2.36 | O     50 3.48 | O     85 2.37 | O    138 3.27,True, O     44 3.09,True,False, C07 HF_HB 3.34 | N03 HB 3.33
+ C  ,GLU, 168,False,False,True,False,6.498965302261582,False,,False,,False,False,
+ O  ,GLU, 168,True,False,False,False,6.379385158461588,True, O     10 2.78 | O     24 2.62 | O     96 3.2 | O    127 2.65 | O    253 2.42,True, O     21 2.62 | O     23 2.78 | O     94 3.2 | O    114 2.65 | O    182 2.45,False,False,
+ N  ,VAL, 169,False,True,False,False,7.410443239105203,True, O     28 2.37 | O     96 2.55 | O    116 3.31 | O    253 3.34,True, O     36 2.37 | O     94 2.55,False,False,
+ CA ,VAL, 169,False,False,True,False,8.416130761816854,False,,False,,False,False,
+ CB ,VAL, 169,False,False,True,False,9.922378495098846,False,,False,,False,False,
+ CG1,VAL, 169,False,False,True,False,10.84052447993177,False,,False,,False,False,
+ CG2,VAL, 169,False,False,True,False,9.986386583744887,False,,False,,False,False,
+ C  ,VAL, 169,False,False,True,False,8.33985965109725,False,,False,,False,False,
+ O  ,VAL, 169,True,False,False,False,8.18185779636874,True, O      1 2.84 | O     11 3.12 | O     32 2.71 | O     46 3.2 | O    111 2.64 | O    116 2.5,True, O      2 2.84 | O      8 3.12 | O     29 2.71 | O     41 3.2 | O    101 2.96,False,False,
+ N  ,PHE, 170,False,True,False,False,8.69504077046221,True, O     28 2.93 | O     75 2.68 | O    111 3.04 | O    116 3.06,True, O     36 2.93 | O     65 2.68,False,False,
+ CA ,PHE, 170,False,False,True,False,8.88973278563535,False,,False,,False,False,
+ CB ,PHE, 170,False,False,True,False,10.12179040486415,False,,False,,False,False,
+ CG ,PHE, 170,False,False,True,False,11.388355719769208,False,,False,,False,False,
+ CD1,PHE, 170,False,False,True,False,11.992967814515305,False,,False,,False,False,
+ CE1,PHE, 170,False,False,True,False,13.20683652507291,False,,False,,False,False,
+ CZ ,PHE, 170,False,False,True,False,13.795364909997849,False,,False,,False,False,
+ CE2,PHE, 170,False,False,True,False,13.334676486514402,False,,False,,False,False,
+ CD2,PHE, 170,False,False,True,False,12.092195044738574,False,,False,,False,False,
+ C  ,PHE, 170,False,False,True,False,7.7813767419396935,False,,False,,False,False,
+ O  ,PHE, 170,True,False,False,False,8.129707866830152,True, O      1 3.46 | O     11 2.79 | O     25 2.71 | O    103 2.65 | O    117 3.17,True, O      2 3.46 | O      8 2.79 | O     22 2.71 | O     97 2.65 | O    109 3.17,False,False,
+ N  ,SER, 171,False,True,False,False,6.6253058797311395,True, O     28 2.76 | O     75 2.65 | O    116 2.68,True, O     36 2.76 | O     65 2.65 | O    101 3.5,False,False,
+ CA ,SER, 171,False,False,True,False,5.69508937594486,False,,False,,False,False,
+ CB ,SER, 171,False,False,True,False,5.070847759497425,False,,False,,False,False,
+ OG ,SER, 171,True,True,False,False,4.48908387090284,True, O      1 3.2 | O      2 2.96 | O      4 3.06 | O     56 2.65 | O     59 2.56 | O    108 3.19 | O    116 2.53 | O    156 3.02 | O    170 2.73,True, O      1 2.79 | O      2 3.2 | O      3 2.71 | O      4 3.06 | O      5 2.99 | O     35 2.71 | O     96 2.56 | O    101 2.42,False,False,
+ C  ,SER, 171,False,False,True,False,6.69430489296686,False,,False,,False,False,
+ O  ,SER, 171,True,False,False,False,6.817110678285927,True, O      7 2.42 | O     16 3.0 | O     25 3.03 | O     82 3.0,True, O      6 2.42 | O     11 3.0 | O     22 3.03 | O     79 3.0,False,False,
+ N  ,ALA, 172,False,True,False,False,7.686958371163463,True, O     75 2.94,True, O     65 2.94,False,False,
+ CA ,ALA, 172,False,False,True,False,8.87988744298035,False,,False,,False,False,
+ CB ,ALA, 172,False,False,True,False,9.76700598955484,False,,False,,False,False,
+ C  ,ALA, 172,False,False,True,False,9.801134475151336,False,,False,,False,False,
+ O  ,ALA, 172,True,False,False,False,9.876773309132897,True, O     75 2.77,True, O     65 2.77,False,False,
+ N  ,TYR, 173,False,True,False,False,10.711380163172254,False,,False,,False,False,
+ CA ,TYR, 173,False,False,True,False,11.856955342751364,False,,False,,False,False,
+ CB ,TYR, 173,False,False,True,False,12.508957230720716,False,,False,,False,False,
+ CG ,TYR, 173,False,False,True,False,13.568665778181732,False,,False,,False,False,
+ CD1,TYR, 173,False,False,True,False,13.672910187666712,False,,False,,False,False,
+ CE1,TYR, 173,False,False,True,False,14.767280893922218,False,,False,,False,False,
+ CD2,TYR, 173,False,False,True,False,14.575969161602952,False,,False,,False,False,
+ C  ,TYR, 173,False,False,True,False,12.969558126628687,False,,False,,False,False,
+ O  ,TYR, 173,True,False,False,False,13.780785282414062,False,,False,,False,False,
+ N  ,SER, 174,False,True,False,False,13.149053235879759,False,,False,,False,False,
+ CA ,SER, 174,False,False,True,False,14.339762724675744,False,,False,,False,False,
+ CB ,SER, 174,False,False,True,False,14.685760313991237,False,,False,,False,False,
+ OG ,SER, 174,True,True,False,False,13.77189939696046,False,,False,,False,False,
+ C  ,SER, 174,False,False,True,False,14.370541151953883,False,,False,,False,False,
+ O  ,SER, 174,True,False,False,False,13.43426235414509,False,,False,,False,False,
+ CB ,ILE, 198,False,False,True,False,13.933221379135551,False,,False,,False,False,
+ CG2,ILE, 198,False,False,True,False,13.576836671331066,False,,False,,False,False,
+ CG1,ILE, 198,False,False,True,False,13.569017871607358,False,,False,,False,False,
+ CD1,ILE, 198,False,False,True,False,13.770850845172927,False,,False,,False,False,
+ CD1,TYR, 200,False,False,True,False,14.815730457861335,False,,False,,False,False,
+ CE1,TYR, 200,False,False,True,False,14.140000176803394,False,,False,,False,False,
+ CZ ,TYR, 200,False,False,True,False,14.383149689828025,False,,False,,False,False,
+ OH ,TYR, 200,True,True,False,False,13.918501284261897,False,,False,,False,False,
+ CB ,VAL, 216,False,False,True,False,14.485404585305862,False,,False,,False,False,
+ CG1,VAL, 216,False,False,True,False,13.731967448257365,False,,False,,False,False,
+ CG2,VAL, 216,False,False,True,False,14.647907222535238,False,,False,,False,False,
+ C  ,PRO, 217,False,False,True,False,14.68882221282564,False,,False,,False,False,
+ O  ,PRO, 217,True,False,False,False,13.858551295139042,False,,False,,False,False,
+ N  ,TYR, 218,False,True,False,False,14.484200978997771,False,,False,,False,False,
+ CA ,TYR, 218,False,False,True,False,13.190236768155453,False,,False,,False,False,
+ CB ,TYR, 218,False,False,True,False,12.58436764402566,False,,False,,False,False,
+ CG ,TYR, 218,False,False,True,False,11.230519622884776,False,,False,,False,False,
+ CD1,TYR, 218,False,False,True,False,10.949831185913322,False,,False,,False,False,
+ CE1,TYR, 218,False,False,True,False,9.59147397431698,False,,False,,False,False,
+ CZ ,TYR, 218,False,False,True,False,8.671488049925456,False,,False,,False,False,
+ OH ,TYR, 218,True,True,False,False,7.332045076238959,True, O     51 2.47 | O     62 2.49,True, O     43 2.47 | O     70 2.49,False,False,
+ CE2,TYR, 218,False,False,True,False,8.896397135919685,False,,False,,False,False,
+ CD2,TYR, 218,False,False,True,False,10.137900423657749,False,,False,,False,False,
+ C  ,TYR, 218,False,False,True,False,13.457364860922807,False,,False,,False,False,
+ O  ,TYR, 218,True,False,False,False,14.042230805680411,False,,False,,False,False,
+ N  ,PRO, 219,False,False,False,False,13.075563888414143,False,,False,,False,False,
+ CD ,PRO, 219,False,False,True,False,12.393072782808952,False,,False,,False,False,
+ CG ,PRO, 219,False,False,True,False,12.555800133802702,False,,False,,False,False,
+ CB ,PRO, 219,False,False,True,False,13.585905785040609,False,,False,,False,False,
+ CA ,PRO, 219,False,False,True,False,13.459525771735048,False,,False,,False,False,
+ C  ,PRO, 219,False,False,True,False,12.513775049919987,False,,False,,False,False,
+ O  ,PRO, 219,True,False,False,False,11.346596934764182,True, O     86 2.53,True, O     80 2.53,False,False,
+ N  ,LYS, 220,False,True,False,False,12.729823329488905,False,,False,,False,False,
+ CA ,LYS, 220,False,False,True,False,11.823788817464557,False,,False,,False,False,
+ CB ,LYS, 220,False,False,True,False,12.041209407696552,False,,False,,False,False,
+ CG ,LYS, 220,False,False,True,False,11.609926571688554,False,,False,,False,False,
+ CD ,LYS, 220,False,False,True,False,12.354572999501032,False,,False,,False,False,
+ CE ,LYS, 220,False,False,True,False,12.105371906719759,False,,False,,False,False,
+ NZ ,LYS, 220,False,True,False,False,10.951802682663706,True, O     51 3.12 | O     52 2.49,True, O     43 3.12 | O     46 2.49,False,False,
+ C  ,LYS, 220,False,False,True,False,12.310213239420344,False,,False,,False,False,
+ O  ,LYS, 220,True,False,False,False,13.311434858797151,False,,False,,False,False,
+ N  ,ALA, 221,False,True,False,False,11.611982173599818,False,,False,,False,False,
+ CA ,ALA, 221,False,False,True,False,12.026491799356947,False,,False,,False,False,
+ CB ,ALA, 221,False,False,True,False,11.363174424429115,False,,False,,False,False,
+ C  ,ALA, 221,False,False,True,False,13.5430782689904,False,,False,,False,False,
+ O  ,ALA, 221,True,False,False,False,14.142442822935507,False,,False,,False,False,
+ N  ,GLY, 222,False,True,False,False,14.261582626062227,False,,False,,False,False,
+ CG ,ASN, 225,False,False,True,False,14.79740713773869,False,,False,,False,False,
+ OD1,ASN, 225,True,False,False,False,14.605060561325994,False,,False,,False,False,
+ ND2,ASN, 225,False,True,False,False,14.060202310066522,False,,False,,False,False,
+ CD ,PRO, 226,False,False,True,False,14.911879660190394,False,,False,,False,False,
+ CG ,PRO, 226,False,False,True,False,14.776537280432109,False,,False,,False,False,
+ CB ,TYR, 261,False,False,True,False,14.56600542358817,False,,False,,False,False,
+ CG ,TYR, 261,False,False,True,False,14.052786591989504,False,,False,,False,False,
+ CD1,TYR, 261,False,False,True,False,13.785227201609697,False,,False,,False,False,
+ CE1,TYR, 261,False,False,True,False,13.337088775291255,False,,False,,False,False,
+ CZ ,TYR, 261,False,False,True,False,13.217282436265025,False,,False,,False,False,
+ OH ,TYR, 261,True,True,False,False,12.971444252665158,False,,False,,False,False,
+ CE2,TYR, 261,False,False,True,False,13.51263708533608,False,,False,,False,False,
+ CD2,TYR, 261,False,False,True,False,13.813867018326185,False,,False,,False,False,
+ O  ,LEU, 262,True,False,False,False,14.34465384733978,False,,False,,False,False,
+ N  ,CYS, 263,False,True,False,False,14.999002833521965,False,,False,,False,False,
+ CA ,CYS, 263,False,False,True,False,13.672562707846684,False,,False,,False,False,
+ CB ,CYS, 263,False,False,True,False,13.345964708480235,False,,False,,False,False,
+ SG ,CYS, 263,True,True,True,False,14.629983219402536,False,,False,,False,False,
+ C  ,CYS, 263,False,False,True,False,13.57570985252705,False,,False,,False,False,
+ O  ,CYS, 263,True,False,False,False,12.522584317943318,True, O     46 3.19 | O    111 3.13,True, O     41 3.19,False,False,
+ N  ,ASP, 264,False,True,False,False,14.761350785073835,False,,False,,False,False,
+ CA ,ASP, 264,False,False,True,False,14.967394863502465,False,,False,,False,False,
+ OD2,ASP, 264,True,False,False,False,14.470775722123536,False,,False,,False,False,
+ CG ,LEU, 278,False,False,True,False,14.248021546867477,False,,False,,False,False,
+ CD1,LEU, 278,False,False,True,False,14.791207050136238,False,,False,,False,False,
+ CD2,LEU, 278,False,False,True,False,12.750424659594676,False,,False,,False,False,
+ CA ,GLN, 282,False,False,True,False,14.834364361171664,False,,False,,False,False,
+ CB ,GLN, 282,False,False,True,False,13.316968649058236,False,,False,,False,False,
+ CG ,GLN, 282,False,False,True,False,12.915008246222687,False,,False,,False,False,
+ CD ,GLN, 282,False,False,True,False,11.428719307078984,False,,False,,False,False,
+ OE1,GLN, 282,True,False,False,False,10.64926589019168,True, O     33 2.72 | O     44 2.77,True, O     30 2.72 | O     40 2.77,False,False,
+ NE2,GLN, 282,False,True,False,False,11.15053613060825,True, O     44 3.34 | O    192 2.47,True, O     40 3.34 | O    272 2.47,False,False,
+ O  ,GLN, 282,True,False,False,False,14.573851790106827,False,,False,,False,False,
+ N  ,TRP, 315,False,True,False,False,14.725722970367192,False,,False,,False,False,
+ CA ,TRP, 315,False,False,True,False,14.162993186470151,False,,False,,False,False,
+ CB ,TRP, 315,False,False,True,False,12.717252651418073,False,,False,,False,False,
+ CG ,TRP, 315,False,False,True,False,11.81242100502687,False,,False,,False,False,
+ CD1,TRP, 315,False,False,True,False,11.018772935313624,False,,False,,False,False,
+ NE1,TRP, 315,False,True,False,False,10.433523374201068,True, O     73 2.45,True, O     68 2.45,False,False,
+ CE2,TRP, 315,False,False,True,False,11.057794807284141,False,,False,,False,False,
+ CZ2,TRP, 315,False,False,True,False,11.065388967406436,False,,False,,False,False,
+ CH2,TRP, 315,False,False,True,False,11.962662621674157,False,,False,,False,False,
+ CZ3,TRP, 315,False,False,True,False,12.694418694843813,False,,False,,False,False,
+ CE3,TRP, 315,False,False,True,False,12.658169614916682,False,,False,,False,False,
+ CD2,TRP, 315,False,False,True,False,11.85795365988584,False,,False,,False,False,
+ C  ,TRP, 315,False,False,True,False,14.343012549670311,False,,False,,False,False,
+ O  ,TRP, 315,True,False,False,False,14.731068291200067,False,,False,,False,False,
+ N  ,VAL, 316,False,True,False,False,14.159637354113276,False,,False,,False,False,
+ CA ,VAL, 316,False,False,True,False,14.428865305352325,False,,False,,False,False,
+ C  ,VAL, 316,False,False,True,False,13.178721447849185,False,,False,,False,False,
+ O  ,VAL, 316,True,False,False,False,12.266232877293666,True, O     39 2.65,True, O     37 2.65,False,False,
+ N  ,GLY, 317,False,True,False,False,13.261687788513195,False,,False,,False,False,
+ CA ,GLY, 317,False,False,True,False,12.329821450450938,False,,False,,False,False,
+ C  ,GLY, 317,False,False,True,False,11.22966090316177,False,,False,,False,False,
+ O  ,GLY, 317,True,False,False,False,11.198357870688008,True, O     39 3.12 | O     73 3.19,True, O     37 3.12 | O     68 3.19,False,False,
+ N  ,ARG, 318,False,True,False,False,10.50815706962929,True, O     29 3.06,True, O     26 3.06,False,False,
+ CA ,ARG, 318,False,False,True,False,9.504352371413846,False,,False,,False,False,
+ CB ,ARG, 318,False,False,True,False,9.225271811713736,False,,False,,False,False,
+ CG ,ARG, 318,False,False,True,False,10.565908668921955,False,,False,,False,False,
+ CD ,ARG, 318,False,False,True,False,10.60001363206671,False,,False,,False,False,
+ NE ,ARG, 318,False,True,False,False,11.927310258394385,False,,False,,False,False,
+ CZ ,ARG, 318,False,False,True,False,12.906993181992465,False,,False,,False,False,
+ NH1,ARG, 318,False,True,False,False,12.830322365396745,True, O    102 3.19,True, O     99 3.19,False,False,
+ NH2,ARG, 318,False,True,False,False,14.083863425921173,False,,False,,False,False,
+ C  ,ARG, 318,False,False,True,False,8.34299766271093,False,,False,,False,False,
+ O  ,ARG, 318,True,False,False,False,8.203052236820145,True, O     41 3.02 | O     70 2.89 | O     73 2.3,True, O     39 3.02 | O     62 2.89 | O     68 2.3 | O    186 2.56,False,False,
+ N  ,PHE, 319,False,True,False,False,7.780960223519978,True, O     29 2.61 | O     39 3.27,True, O     26 2.61 | O     37 3.27 | O    186 3.43 | O    232 2.95,False,False,
+ CA ,PHE, 319,False,False,True,False,6.965270274727319,False,,False,,False,False,
+ CB ,PHE, 319,False,False,True,False,5.5583480459575405,False,,False,,False,False,
+ CG ,PHE, 319,False,False,True,False,4.763646292494857,False,,False,,False,False,
+ CD1,PHE, 319,False,False,True,False,4.039245226524382,False,,False,,False,False,
+ CE1,PHE, 319,False,False,True,False,3.827610743009274,False,,False,,False,False,
+ CZ ,PHE, 319,False,False,True,False,4.383390696709572,False,,False,,False,False,
+ CE2,PHE, 319,False,False,True,False,5.062076451417934,False,,False,,False,False,
+ CD2,PHE, 319,False,False,True,False,5.209785408248596,False,,False,,False,False,
+ C  ,PHE, 319,False,False,True,False,7.828583779969401,False,,False,,False,False,
+ O  ,PHE, 319,True,False,False,False,7.721868426747506,True, O     24 2.65 | O     33 2.71 | O     39 3.07 | O     70 3.44 | O    127 3.29,True, O     21 2.65 | O     30 2.71 | O     37 3.07 | O     62 3.44 | O    114 3.29,False,False,
+ N  ,ARG, 320,False,True,False,False,8.867979589511924,True, O     29 2.89 | O     39 2.74,True, O     26 2.89 | O     37 2.74,False,False,
+ CA ,ARG, 320,False,False,True,False,9.962900280540804,False,,False,,False,False,
+ CB ,ARG, 320,False,False,True,False,9.650391339215211,False,,False,,False,False,
+ CG ,ARG, 320,False,False,True,False,9.221238528527497,False,,False,,False,False,
+ CD ,ARG, 320,False,False,True,False,9.496882067289238,False,,False,,False,False,
+ NE ,ARG, 320,False,True,False,False,9.163520611642664,True, O      1 2.93 | O     32 2.85 | O     57 3.12 | O     60 3.0 | O    105 2.79,True, O      2 2.93 | O     29 2.85 | O     52 3.12 | O     55 3.0 | O    103 2.79 | O    196 3.14,False,False,
+ CZ ,ARG, 320,False,False,True,False,9.918959925314748,False,,False,,False,False,
+ NH1,ARG, 320,False,True,False,False,10.958875991633445,True, O     11 2.63 | O    111 2.92,True, O      8 2.63,False,False,
+ NH2,ARG, 320,False,True,False,False,9.836617813049358,True, O      1 2.87 | O     11 2.59 | O     57 3.02 | O    103 2.48 | O    144 2.34,True, O      2 2.87 | O      8 2.59 | O     52 3.02 | O     97 2.48 | O    113 2.61 | O    196 2.81,False,False,
+ C  ,ARG, 320,False,False,True,False,11.096132209017702,False,,False,,False,False,
+ O  ,ARG, 320,True,False,False,False,10.967865517045691,True, O     29 2.69,True, O     26 2.69,False,False,
+ N  ,PRO, 321,False,False,False,False,12.338178876965598,False,,False,,False,False,
+ CD ,PRO, 321,False,False,True,False,12.920401309556912,False,,False,,False,False,
+ CG ,PRO, 321,False,False,True,False,14.402532346778466,False,,False,,False,False,
+ CB ,PRO, 321,False,False,True,False,14.629491242008383,False,,False,,False,False,
+ CA ,PRO, 321,False,False,True,False,13.463560041831432,False,,False,,False,False,
+ C  ,PRO, 321,False,False,True,False,13.214824629937393,False,,False,,False,False,
+ O  ,PRO, 321,True,False,False,False,12.59745446508936,True, O    105 2.65,True, O    103 2.65,False,False,
+ N  ,SER, 322,False,True,False,False,13.826643735917978,False,,False,,False,False,
+ CA ,SER, 322,False,False,True,False,13.789709279023977,False,,False,,False,False,
+ CB ,SER, 322,False,False,True,False,14.496647715937637,False,,False,,False,False,
+ C  ,SER, 322,False,False,True,False,14.636662392772466,False,,False,,False,False,
+ N  ,GLU, 323,False,True,False,False,14.587191299218638,False,,False,,False,False,
+ CD ,GLU, 323,False,False,True,False,14.35504932070942,False,,False,,False,False,
+ OE1,GLU, 323,True,False,False,False,14.798721600192358,False,,False,,False,False,
+ OE2,GLU, 323,True,False,False,False,13.341605638003244,False,,False,,False,False,
+ CD ,ARG, 344,False,False,True,False,14.237638673600342,False,,False,,False,False,
+ NE ,ARG, 344,False,True,False,False,14.111460484301405,False,,False,,False,False,
+ CZ ,ARG, 344,False,False,True,False,14.19007998568014,False,,False,,False,False,
+ NH1,ARG, 344,False,True,False,False,14.262864403758456,False,,False,,False,False,
+ NH2,ARG, 344,False,True,False,False,14.356501871974249,False,,False,,False,False,
+ CA ,ILE, 367,False,False,True,False,14.86599054890053,False,,False,,False,False,
+ CB ,ILE, 367,False,False,True,False,14.785221202268158,False,,False,,False,False,
+ CG2,ILE, 367,False,False,True,False,13.382480562287391,False,,False,,False,False,
+ CD1,ILE, 367,False,False,True,False,14.49485763986663,False,,False,,False,False,
+ C  ,ILE, 367,False,False,True,False,14.487824543388147,False,,False,,False,False,
+ O  ,ILE, 367,True,False,False,False,13.447720884967831,False,,False,,False,False,
+ NE ,ARG, 391,False,True,False,False,13.95323693628113,False,,False,,False,False,
+ CZ ,ARG, 391,False,False,True,False,13.73519231754692,False,,False,,False,False,
+ NH1,ARG, 391,False,True,False,False,14.793790724489785,False,,False,,False,False,
+ NH2,ARG, 391,False,True,False,False,12.52052802400921,True, O     20 3.16 | O     23 3.21 | O    114 2.98,True, O     18 3.16 | O     20 3.21,False,False,
+ CE1,TYR, 418,False,False,True,False,14.700365097506936,False,,False,,False,False,
+ CZ ,TYR, 418,False,False,True,False,14.091281772784193,False,,False,,False,False,
+ OH ,TYR, 418,True,True,False,False,12.740382451088347,True, O     20 2.84,True, O     18 2.84,False,False,
+ CE2,TYR, 418,False,False,True,False,14.919858343831553,False,,False,,False,False,
+ NH2,ARG, 433,False,True,False,False,14.359869393556474,False,,False,,False,False,
+ O  ,LEU, 506,True,False,False,False,14.48552977974917,False,,False,,False,False,
+ N  ,ASP, 507,False,True,False,False,14.616227214982661,False,,False,,False,False,
+ CA ,ASP, 507,False,False,True,False,13.385670734034964,False,,False,,False,False,
+ CB ,ASP, 507,False,False,True,False,13.804386440548525,False,,False,,False,False,
+ CG ,ASP, 507,False,False,True,False,12.752854817647691,False,,False,,False,False,
+ OD1,ASP, 507,True,False,False,False,11.534021068127105,True, O     17 2.56,True, O     15 2.56,False,False,
+ OD2,ASP, 507,True,False,False,False,13.281206759929612,False,,False,,False,False,
+ C  ,ASP, 507,False,False,True,False,12.393833708744037,False,,False,,False,False,
+ O  ,ASP, 507,True,False,False,False,12.685752086494514,False,,False,,False,False,
+ N  ,VAL, 508,False,True,False,False,11.364271600063066,False,,False,,False,False,
+ CA ,VAL, 508,False,False,True,False,10.614795852959208,False,,False,,False,False,
+ CB ,VAL, 508,False,False,True,False,10.954309197754096,False,,False,,False,False,
+ CG1,VAL, 508,False,False,True,False,10.60922065940755,False,,False,,False,False,
+ CG2,VAL, 508,False,False,True,False,10.504364093080548,False,,False,,False,False,
+ C  ,VAL, 508,False,False,True,False,9.12624583276168,False,,False,,False,False,
+ O  ,VAL, 508,True,False,False,False,8.57812275500881,True, O     17 2.91 | O     30 2.59,True, O     15 2.91 | O     28 2.59,False,False,
+ N  ,TYR, 509,False,True,False,False,8.656839434805288,False,,True, O    108 3.48,False,False,
+ CA ,TYR, 509,False,False,True,False,7.255007718810504,False,,False,,False,False,
+ CB ,TYR, 509,False,False,True,False,7.001315662073807,False,,False,,False,False,
+ CG ,TYR, 509,False,False,True,False,5.635666597661714,False,,False,,False,False,
+ CD1,TYR, 509,False,False,True,False,4.652242255085175,False,,False,,False,False,
+ CE1,TYR, 509,False,False,True,False,3.423712312680492,False,,False,,False,False, N02 HF_HB 3.42
+ CZ ,TYR, 509,False,False,True,False,3.4273844254766628,False,,False,,False,False, N02 HF_HB 3.43
+ OH ,TYR, 509,True,True,False,False,2.7842548374744727,True, O      3 2.74 | O     13 2.83 | O     43 2.96 | O     45 2.65 | O     63 3.12 | O    172 2.56 | O    204 3.48 | O    247 2.85,True, O     14 2.64 | O     51 2.89 | O     72 2.65 | O    105 2.65 | O    181 3.32 | O    240 3.23,True,False, N02 HB 2.78
+ CE2,TYR, 509,False,False,True,False,4.647846167850222,False,,False,,False,False,
+ CD2,TYR, 509,False,False,True,False,5.6131493833675865,False,,False,,False,False,
+ C  ,TYR, 509,False,False,True,False,7.296187017888175,False,,False,,False,False,
+ O  ,TYR, 509,True,False,False,False,6.976069452062526,True, O     92 2.59 | O     93 3.09,True, O     89 2.59 | O     91 3.09,False,False,
+ N  ,ALA, 510,False,True,False,False,8.060335352824968,True, O    118 2.66,True, O    108 2.51,False,False,
+ CA ,ALA, 510,False,False,True,False,8.80414527367648,False,,False,,False,False,
+ CB ,ALA, 510,False,False,True,False,9.65519393901541,False,,False,,False,False,
+ C  ,ALA, 510,False,False,True,False,8.171142759736851,False,,False,,False,False,
+ O  ,ALA, 510,True,False,False,False,8.92353971246836,True, O     68 2.59 | O     92 2.55,True, O     60 2.59 | O     89 2.55 | O    118 3.05,False,False,
+ N  ,GLY, 511,False,True,False,False,7.00512997738086,True, O     92 3.19 | O    163 3.22,True, O     89 3.19 | O    139 2.89,False,False,
+ CA ,GLY, 511,False,False,True,False,6.709954619816739,False,,False,,False,False,
+ C  ,GLY, 511,False,False,True,False,7.928628759123481,False,,False,,False,False,
+ O  ,GLY, 511,True,False,False,False,8.444160822722415,True, O    163 3.16,True, O    118 2.28 | O    139 2.51,False,False,
+ N  ,PRO, 512,False,False,False,False,7.875491349750821,False,,False,,False,False,
+ CD ,PRO, 512,False,False,True,False,6.9613149619881485,False,,False,,False,False,
+ CG ,PRO, 512,False,False,True,False,7.817161825112747,False,,False,,False,False,
+ CB ,PRO, 512,False,False,True,False,8.820713406522174,False,,False,,False,False,
+ CA ,PRO, 512,False,False,True,False,8.65298873222426,False,,False,,False,False,
+ C  ,PRO, 512,False,False,True,False,7.858302106689458,False,,False,,False,False,
+ O  ,PRO, 512,True,False,False,False,6.6490833954764055,True, O     27 2.89 | O     41 2.78 | O     53 2.84,True, O     25 3.11 | O     39 2.78 | O     49 2.84 | O    139 3.45,False,False,
+ N  ,CYS, 513,False,True,False,False,8.71405244418462,True, O    143 2.94,True, O    134 2.94,False,False,
+ CA ,CYS, 513,False,False,True,False,8.536420561335996,False,,False,,False,False,
+ CB ,CYS, 513,False,False,True,False,8.108311661498961,False,,False,,False,False,
+ SG ,CYS, 513,True,True,True,False,9.019530863631436,True, O     22 3.11,True, O     19 3.11 | O    186 2.69 | O    249 2.57,False,False,
+ C  ,CYS, 513,False,False,True,False,7.883476580798601,False,,False,,False,False,
+ O  ,CYS, 513,True,False,False,False,7.678590625889625,True, O     19 3.0 | O     22 2.37 | O     53 3.03,True, O     17 3.0 | O     19 2.37 | O     49 3.03 | O    146 2.49 | O    249 2.9,False,False,
+ N  ,SER, 514,False,True,False,False,7.8994720076724105,True, O     53 3.08,True, O     49 3.08 | O    139 3.38,False,False,
+ CA ,SER, 514,False,False,True,False,7.717009394836837,False,,False,,False,False,
+ CB ,SER, 514,False,False,True,False,7.656434026359791,False,,False,,False,False,
+ OG ,SER, 514,True,True,False,False,8.894049752503081,True, O     35 2.71 | O    118 2.65,True, O     32 2.71 | O    108 3.11 | O    118 2.71 | O    139 3.15,False,False,
+ C  ,SER, 514,False,False,True,False,9.04076020033714,False,,False,,False,False,
+ O  ,SER, 514,True,False,False,False,10.053941814034932,True, O     35 3.27,True, O     32 3.27 | O    146 2.53,False,False,
+ N  ,GLN, 515,False,True,False,False,9.176686874902076,True, O     35 2.75 | O     74 3.0 | O    137 3.27,True, O     32 2.75 | O     66 3.0 | O    117 3.19 | O    146 3.18,False,False,
+ CA ,GLN, 515,False,False,True,False,10.54990777210872,False,,False,,False,False,
+ CB ,GLN, 515,False,False,True,False,11.011497173409255,False,,False,,False,False,
+ CG ,GLN, 515,False,False,True,False,12.468039180240012,False,,False,,False,False,
+ CD ,GLN, 515,False,False,True,False,13.114650929399536,False,,False,,False,False,
+ OE1,GLN, 515,True,False,False,False,13.06271216095647,True, O    114 2.77,True, O    251 3.28,False,False,
+ NE2,GLN, 515,False,True,False,False,13.889517126235887,False,,False,,False,False,
+ C  ,GLN, 515,False,False,True,False,10.807884621886004,False,,False,,False,False,
+ O  ,GLN, 515,True,False,False,False,10.303312768231393,True, O     40 3.19 | O     81 2.84 | O    137 3.01,True, O     38 3.19 | O     77 2.84 | O    117 2.99,False,False,
+ N  ,LYS, 516,False,True,False,False,11.738244545075727,True, O     35 2.76,True, O     32 2.76,False,False,
+ CA ,LYS, 516,False,False,True,False,12.303451304410483,False,,False,,False,False,
+ CB ,LYS, 516,False,False,True,False,12.048433964627932,False,,False,,False,False,
+ CG ,LYS, 516,False,False,True,False,10.547331700482351,False,,False,,False,False,
+ CD ,LYS, 516,False,False,True,False,10.27016776883416,False,,False,,False,False,
+ CE ,LYS, 516,False,False,True,False,10.7009977104941,False,,False,,False,False,
+ NZ ,LYS, 516,False,True,False,False,10.676201243888205,True, O     17 3.05 | O     34 3.12 | O     48 3.0 | O    110 2.92,True, O     15 3.05 | O     31 3.21 | O    143 3.3,False,False,
+ C  ,LYS, 516,False,False,True,False,13.753236346402254,False,,False,,False,False,
+ O  ,LYS, 516,True,False,False,False,14.455970980878456,False,,False,,False,False,
+ N  ,ALA, 517,False,True,False,False,14.308883184930961,False,,False,,False,False,
+ CG ,ASP, 518,False,False,True,False,14.54493554471796,False,,False,,False,False,
+ OD2,ASP, 518,True,False,False,False,13.372946459176458,False,,False,,False,False,
+ CD ,ARG, 522,False,False,True,False,14.515240990076604,False,,False,,False,False,
+ NE ,ARG, 522,False,True,False,False,13.510344777243848,True, O    115 3.02,True, O    107 3.02,False,False,
+ CZ ,ARG, 522,False,False,True,False,13.639322050600612,False,,False,,False,False,
+ NH1,ARG, 522,False,True,False,False,14.602334539381024,False,,False,,False,False,
+ NH2,ARG, 522,False,True,False,False,12.853227221207913,True, O     88 3.0 | O    115 2.54,True, O     81 3.0 | O    107 2.54,False,False,
+ CB ,SER, 539,False,False,True,False,14.717046612686932,False,,False,,False,False,
+ OG ,SER, 539,True,True,False,False,14.349935574768269,False,,False,,False,False,
+ O  ,PHE, 540,True,False,False,False,13.885796664217716,False,,False,,False,False,
+ CB ,ASP, 541,False,False,True,False,14.74246617767869,False,,False,,False,False,
+ CG ,ASP, 541,False,False,True,False,13.798069828784023,False,,False,,False,False,
+ OD1,ASP, 541,True,False,False,False,12.954680505516142,True, O     35 2.64,True, O     32 2.64,False,False,
+ OD2,ASP, 541,True,False,False,False,14.012296135894362,False,,False,,False,False,
+ C  ,ARG, 543,False,False,True,False,14.762674317345077,False,,False,,False,False,
+ O  ,ARG, 543,True,False,False,False,13.845923948946135,False,,False,,False,False,
+ N  ,GLY, 544,False,True,False,False,14.634853535310834,False,,False,,False,False,
+ CA ,GLY, 544,False,False,True,False,13.296429934384646,False,,False,,False,False,
+ C  ,GLY, 544,False,False,True,False,12.302157371778335,False,,False,,False,False,
+ O  ,GLY, 544,True,False,False,False,11.248722460795273,False,,True, O    118 3.21,False,False,
+ N  ,SER, 545,False,True,False,False,12.75242996452049,False,,True, O    118 3.17,False,False,
+ CA ,SER, 545,False,False,True,False,12.01289016015713,False,,False,,False,False,
+ CB ,SER, 545,False,False,True,False,12.737613159458096,False,,False,,False,False,
+ OG ,SER, 545,True,True,False,False,14.094203099146831,False,,False,,False,False,
+ C  ,SER, 545,False,False,True,False,12.075031014452923,False,,False,,False,False,
+ O  ,SER, 545,True,False,False,False,12.880623781478906,False,,False,,False,False,
+ N  ,GLY, 546,False,True,False,False,11.375340258647213,False,,True, O    146 3.01,False,False,
+ CA ,GLY, 546,False,False,True,False,11.45352618192319,False,,False,,False,False,
+ C  ,GLY, 546,False,False,True,False,12.572704919785556,False,,False,,False,False,
+ O  ,GLY, 546,True,False,False,False,13.22756383465981,False,,False,,False,False,
+ N  ,TYR, 547,False,True,False,False,12.91124316245341,False,,True, O    249 2.84,False,False,
+ CA ,TYR, 547,False,False,True,False,13.927932545787261,False,,False,,False,False,
+ CB ,TYR, 547,False,False,True,False,13.611143559598508,False,,False,,False,False,
+ CG ,TYR, 547,False,False,True,False,12.217936691602228,False,,False,,False,False,
+ CD1,TYR, 547,False,False,True,False,11.963430026543387,False,,False,,False,False,
+ CE1,TYR, 547,False,False,True,False,10.762766326553782,False,,False,,False,False,
+ CZ ,TYR, 547,False,False,True,False,9.716907584205996,False,,False,,False,False,
+ OH ,TYR, 547,True,True,False,False,8.570376187776125,True, O     19 2.69 | O     22 2.93 | O     23 2.93 | O     69 2.38 | O     72 3.0 | O     76 2.96 | O    101 2.84,True, O     17 2.69 | O     19 2.93 | O     20 2.93 | O     61 2.38 | O     67 2.56 | O     69 2.96,False,False,
+ CE2,TYR, 547,False,False,True,False,9.982822947443275,False,,False,,False,False,
+ CD2,TYR, 547,False,False,True,False,11.276171424734551,False,,False,,False,False,
+ CA ,MET, 553,False,False,True,False,14.271125428640872,False,,False,,False,False,
+ CB ,MET, 553,False,False,True,False,13.60479136186954,False,,False,,False,False,
+ CG ,MET, 553,False,False,True,False,12.16494134798849,False,,False,,False,False,
+ SD ,MET, 553,False,False,True,False,11.47653057330481,False,,False,,False,False,
+ CE ,MET, 553,False,False,True,False,12.337086406441356,False,,False,,False,False,
+ C  ,MET, 553,False,False,True,False,14.508328263449238,False,,False,,False,False,
+ O  ,MET, 553,True,False,False,False,13.83671380783747,False,,False,,False,False,
+ NE2,HIS, 554,True,True,False,False,14.678681344044502,False,,False,,False,False,
+ CD2,HIS, 554,False,False,True,False,14.685294889786862,False,,False,,False,False,
+ N  ,ILE, 556,False,True,False,False,14.996068651483299,False,,False,,False,False,
+ CA ,ILE, 556,False,False,True,False,14.059456355065793,False,,False,,False,False,
+ CB ,ILE, 556,False,False,True,False,12.794425583042017,False,,False,,False,False,
+ CG2,ILE, 556,False,False,True,False,13.326028778297006,False,,False,,False,False,
+ CG1,ILE, 556,False,False,True,False,12.050154936763262,False,,False,,False,False,
+ CD1,ILE, 556,False,False,True,False,10.849158630972267,False,,False,,False,False,
+ C  ,ILE, 556,False,False,True,False,13.79791469751861,False,,False,,False,False,
+ O  ,ILE, 556,True,False,False,False,12.997991729494213,False,,False,,False,False,
+ N  ,ASN, 557,False,True,False,False,14.626513733627712,False,,False,,False,False,
+ CA ,ASN, 557,False,False,True,False,14.70926813271143,False,,False,,False,False,
+ C  ,ASN, 557,False,False,True,False,14.965496383347931,False,,False,,False,False,
+ N  ,ARG, 558,False,True,False,False,14.259800734933147,False,,False,,False,False,
+ CA ,ARG, 558,False,False,True,False,14.575643313418452,False,,False,,False,False,
+ C  ,ARG, 558,False,False,True,False,14.412952126472907,False,,False,,False,False,
+ O  ,ARG, 558,True,False,False,False,14.958083232820973,False,,False,,False,False,
+ N  ,ARG, 559,False,True,False,False,13.806010031866558,False,,False,,False,False,
+ CA ,ARG, 559,False,False,True,False,13.96719116358046,False,,False,,False,False,
+ C  ,ARG, 559,False,False,True,False,12.81039363173513,False,,False,,False,False,
+ O  ,ARG, 559,True,False,False,False,13.118579229474513,False,,False,,False,False,
+ N  ,LEU, 560,False,True,False,False,11.58106894893559,False,,False,,False,False,
+ CA ,LEU, 560,False,False,True,False,10.495736563004998,False,,False,,False,False,
+ CB ,LEU, 560,False,False,True,False,9.162574419888772,False,,False,,False,False,
+ CG ,LEU, 560,False,False,True,False,8.76645082117045,False,,False,,False,False,
+ CD1,LEU, 560,False,False,True,False,7.4383569422285705,False,,False,,False,False,
+ CD2,LEU, 560,False,False,True,False,8.980949782734566,False,,False,,False,False,
+ C  ,LEU, 560,False,False,True,False,10.983348396550118,False,,False,,False,False,
+ O  ,LEU, 560,True,False,False,False,11.761980445486213,True, O    158 2.88,True, O    145 2.91,False,False,
+ N  ,GLY, 561,False,True,False,False,10.724971701594372,False,,False,,False,False,
+ CA ,GLY, 561,False,False,True,False,11.447116929602847,False,,False,,False,False,
+ C  ,GLY, 561,False,False,True,False,12.92340957332855,False,,False,,False,False,
+ O  ,GLY, 561,True,False,False,False,13.763153345073217,False,,False,,False,False,
+ N  ,THR, 562,False,True,False,False,13.360139258256254,False,,False,,False,False,
+ CA ,THR, 562,False,False,True,False,14.79830321354445,False,,False,,False,False,
+ N  ,GLU, 564,False,True,False,False,13.991292291993618,False,,False,,False,False,
+ CA ,GLU, 564,False,False,True,False,13.376096627940457,False,,False,,False,False,
+ CB ,GLU, 564,False,False,True,False,11.962264166954348,False,,False,,False,False,
+ CG ,GLU, 564,False,False,True,False,10.785322294674371,False,,False,,False,False,
+ CD ,GLU, 564,False,False,True,False,10.798711126796572,False,,False,,False,False,
+ OE1,GLU, 564,True,False,False,False,9.779019020331232,True, O     95 2.37 | O    196 2.52,True, O     92 2.37 | O    133 2.41,False,False,
+ OE2,GLU, 564,True,False,False,False,11.93399874308691,False,,True, O    133 3.35,False,False,
+ C  ,GLU, 564,False,False,True,False,13.556819280347439,False,,False,,False,False,
+ O  ,GLU, 564,True,False,False,False,13.707443744185122,False,,False,,False,False,
+ N  ,VAL, 565,False,True,False,False,13.560315224949607,False,,False,,False,False,
+ CA ,VAL, 565,False,False,True,False,14.050927015681209,False,,False,,False,False,
+ CB ,VAL, 565,False,False,True,False,13.864413222347357,False,,False,,False,False,
+ CG1,VAL, 565,False,False,True,False,14.609026524720946,False,,False,,False,False,
+ CG2,VAL, 565,False,False,True,False,12.389863679637484,False,,False,,False,False,
+ CB ,GLN, 568,False,False,True,False,14.888989253807656,False,,False,,False,False,
+ CG ,GLN, 568,False,False,True,False,13.586204400052278,False,,False,,False,False,
+ CD ,GLN, 568,False,False,True,False,13.586844740409743,False,,False,,False,False,
+ OE1,GLN, 568,True,False,False,False,13.858475312962819,False,,False,,False,False,
+ NE2,GLN, 568,False,True,False,False,13.466382550633258,False,,False,,False,False,
+ CG1,ILE, 588,False,False,True,False,14.240058637519716,False,,False,,False,False,
+ CD1,ILE, 588,False,False,True,False,14.284319969813051,False,,False,,False,False,
+ C  ,ILE, 588,False,False,True,False,14.88071483498021,False,,False,,False,False,
+ N  ,TRP, 589,False,True,False,False,13.839544681816669,False,,False,,False,False,
+ CA ,TRP, 589,False,False,True,False,12.909518891112869,False,,False,,False,False,
+ CB ,TRP, 589,False,False,True,False,13.557623316791181,False,,False,,False,False,
+ CG ,TRP, 589,False,False,True,False,13.265011797959323,False,,False,,False,False,
+ CD1,TRP, 589,False,False,True,False,13.855129591598919,False,,False,,False,False,
+ NE1,TRP, 589,False,True,False,False,13.568732402107429,False,,False,,False,False,
+ CE2,TRP, 589,False,False,True,False,12.751600056463504,False,,False,,False,False,
+ CZ2,TRP, 589,False,False,True,False,12.391282823017157,False,,False,,False,False,
+ CH2,TRP, 589,False,False,True,False,11.745947301090707,False,,False,,False,False,
+ CZ3,TRP, 589,False,False,True,False,11.486010882808706,False,,False,,False,False,
+ CE3,TRP, 589,False,False,True,False,11.882626056558372,False,,False,,False,False,
+ CD2,TRP, 589,False,False,True,False,12.52893443194592,False,,False,,False,False,
+ C  ,TRP, 589,False,False,True,False,11.53253298282732,False,,False,,False,False,
+ O  ,TRP, 589,True,False,False,False,11.444577056405363,False,,False,,False,False,
+ N  ,GLY, 590,False,True,False,False,10.575112576232934,False,,True, O    171 2.58,False,False,
+ CA ,GLY, 590,False,False,True,False,9.23710549901862,False,,False,,False,False,
+ C  ,GLY, 590,False,False,True,False,8.443636242757025,False,,False,,False,False,
+ O  ,GLY, 590,True,False,False,False,9.021868431760682,True, O    228 2.74,True, O    171 2.57,False,False,
+ N  ,TRP, 591,False,True,False,False,7.319798767725795,True, O     30 3.03 | O     84 3.09 | O    164 2.36 | O    228 3.03,True, O     28 3.03 | O     76 3.09 | O    194 3.11,False,False,
+ CA ,TRP, 591,False,False,True,False,6.685224977515714,False,,False,,False,False,
+ CB ,TRP, 591,False,False,True,False,6.990677649555873,False,,False,,False,False,
+ CG ,TRP, 591,False,False,True,False,7.189368887461539,False,,False,,False,False,
+ CD1,TRP, 591,False,False,True,False,6.35322673922472,False,,False,,False,False,
+ NE1,TRP, 591,False,True,False,False,7.239167977053711,True, O     36 2.65 | O    220 2.97,True, O     33 2.65 | O    244 2.93,False,False,
+ CE2,TRP, 591,False,False,True,False,8.464868398268214,False,,False,,False,False,
+ CZ2,TRP, 591,False,False,True,False,9.712319753797233,False,,False,,False,False,
+ CH2,TRP, 591,False,False,True,False,10.812813509905732,False,,False,,False,False,
+ CZ3,TRP, 591,False,False,True,False,10.836613585433405,False,,False,,False,False,
+ CE3,TRP, 591,False,False,True,False,9.746483724913304,False,,False,,False,False,
+ CD2,TRP, 591,False,False,True,False,8.46227498962306,False,,False,,False,False,
+ C  ,TRP, 591,False,False,True,False,5.218979785360356,False,,False,,False,False,
+ O  ,TRP, 591,True,False,False,False,4.521708194919265,True, O     30 2.76 | O     84 3.0 | O    183 2.38,True, O     28 2.76 | O     45 2.61 | O     76 3.0,False,False,
+ N  ,SER, 592,False,True,False,True,4.87553289395118,True, O    183 3.27,False,,False,False,
+ CA ,SER, 592,False,False,True,False,3.6075634436555615,False,,False,,False,False,
+ CB ,SER, 592,False,False,True,False,2.484663558713728,False,,False,,False,True, C06 HF 2.48 | N02 HF_HB 2.9
+ OG ,SER, 592,True,True,False,False,1.5690420644456868,True, O      3 2.67 | O      6 3.1 | O      8 3.01 | O     21 3.08 | O     49 2.84 | O     67 2.89 | O    119 2.65,True, O     13 3.12 | O     54 3.14 | O     64 2.84,True,False, C04 HF_HB 3.0 | C05 HF_HB 2.34 | C06 HF_HB 1.57 | N02 HB 2.54
+ C  ,SER, 592,False,False,True,False,3.8109033049921353,False,,False,,False,False,
+ O  ,SER, 592,True,False,False,False,4.922474682514882,True, O     21 2.66 | O    191 3.02,True, O     64 2.94 | O    192 2.73,False,False,
+ N  ,TYR, 593,False,True,False,False,2.9083454058966263,True, O      3 2.61 | O     21 3.26 | O     67 2.67,True, O     64 3.42 | O    192 3.17,True,False, C06 HF_HB 3.28 | N02 HB 2.91
+ CA ,TYR, 593,False,False,True,False,3.7819662875282196,False,,False,,False,False,
+ CB ,TYR, 593,False,False,True,False,3.567045416027105,False,,False,,False,False,
+ CG ,TYR, 593,False,False,True,False,4.688529087037858,False,,False,,False,False,
+ CD1,TYR, 593,False,False,True,False,6.046287621342538,False,,False,,False,False,
+ CE1,TYR, 593,False,False,True,False,6.74868824291062,False,,False,,False,False,
+ CZ ,TYR, 593,False,False,True,False,6.317174526637681,False,,False,,False,False,
+ OH ,TYR, 593,True,True,False,False,7.375966987453238,True, O     68 2.92 | O     87 2.84 | O     95 3.48 | O    196 2.3,True, O     60 2.92 | O     82 2.84 | O     92 3.48 | O    133 2.44,False,False,
+ CE2,TYR, 593,False,False,True,False,5.044568366074549,False,,False,,False,False,
+ CD2,TYR, 593,False,False,True,False,4.062334919722899,False,,False,,False,False,
+ C  ,TYR, 593,False,False,True,False,5.0092020322602275,False,,False,,False,False,
+ O  ,TYR, 593,True,False,False,False,6.124706931764165,True, O     93 3.12 | O     97 3.0,True, O     91 3.12 | O     93 3.12,False,False,
+ N  ,GLY, 594,False,True,False,False,5.091934406490322,True, O     30 3.02,True, O     28 3.02,False,False,
+ CA ,GLY, 594,False,False,True,False,6.499220722517428,False,,False,,False,False,
+ C  ,GLY, 594,False,False,True,False,7.35064208079811,False,,False,,False,False,
+ O  ,GLY, 594,True,False,False,False,8.542026164792516,True, O     93 2.43,True, O     91 2.43 | O    171 2.62,False,False,
+ N  ,GLY, 595,False,True,False,False,6.940713868183875,False,,True, O    171 3.18,False,False,
+ CA ,GLY, 595,False,False,True,False,8.017049083047953,False,,False,,False,False,
+ C  ,GLY, 595,False,False,True,False,8.499504338489393,False,,False,,False,False,
+ O  ,GLY, 595,True,False,False,False,9.716992641759074,True, O     83 3.12 | O     90 3.46,True, O     78 3.12 | O     85 3.46,False,False,
+ N  ,TYR, 596,False,True,False,False,7.641441617914775,True, O     83 3.49,True, O     78 3.49,False,False,
+ CA ,TYR, 596,False,False,True,False,8.019575113433381,False,,False,,False,False,
+ CB ,TYR, 596,False,False,True,False,6.846567242056423,False,,False,,False,False,
+ CG ,TYR, 596,False,False,True,False,7.389318371812113,False,,False,,False,False,
+ CD1,TYR, 596,False,False,True,False,8.175961105582639,False,,False,,False,False,
+ CE1,TYR, 596,False,False,True,False,8.93448722647249,False,,False,,False,False,
+ CZ ,TYR, 596,False,False,True,False,8.947636615330332,False,,False,,False,False,
+ OH ,TYR, 596,True,True,False,False,9.90297117031046,False,,True, O    145 2.69,False,False,
+ CE2,TYR, 596,False,False,True,False,8.22751511697183,False,,False,,False,False,
+ CD2,TYR, 596,False,False,True,False,7.402218248606296,False,,False,,False,False,
+ C  ,TYR, 596,False,False,True,False,9.133040019621072,False,,False,,False,False,
+ O  ,TYR, 596,True,False,False,False,10.203519490842368,True, O     83 2.45,True, O     78 2.45,False,False,
+ N  ,VAL, 597,False,True,False,False,8.939362617099725,True, O     93 3.42,True, O     91 3.42,False,False,
+ CA ,VAL, 597,False,False,True,False,10.018556482847213,False,,False,,False,False,
+ CB ,VAL, 597,False,False,True,False,9.650051657892817,False,,False,,False,False,
+ CG1,VAL, 597,False,False,True,False,11.022216201835269,False,,False,,False,False,
+ CG2,VAL, 597,False,False,True,False,9.004882120272313,False,,False,,False,False,
+ C  ,VAL, 597,False,False,True,False,11.082796082216793,False,,False,,False,False,
+ O  ,VAL, 597,True,False,False,False,12.263770464257716,False,,False,,False,False,
+ N  ,THR, 598,False,True,False,False,10.800976668801761,True, O     93 3.47,True, O     91 3.47,False,False,
+ CA ,THR, 598,False,False,True,False,11.96351110669439,False,,False,,False,False,
+ CB ,THR, 598,False,False,True,False,11.691293298861334,False,,False,,False,False,
+ CG2,THR, 598,False,False,True,False,13.050758023961674,False,,False,,False,False,
+ OG1,THR, 598,True,True,False,False,11.288024495012401,False,,True, O    171 2.37,False,False,
+ C  ,THR, 598,False,False,True,False,12.829412535264426,False,,False,,False,False,
+ O  ,THR, 598,True,False,False,False,14.052253804995125,False,,False,,False,False,
+ N  ,SER, 599,False,True,False,False,12.299650930006104,False,,False,,False,False,
+ CA ,SER, 599,False,False,True,False,13.051121675932686,False,,False,,False,False,
+ CB ,SER, 599,False,False,True,False,12.18876950311228,False,,False,,False,False,
+ OG ,SER, 599,True,True,False,False,11.831530501165098,True, O     83 3.19 | O     90 2.53,True, O     78 3.19 | O     85 2.53,False,False,
+ C  ,SER, 599,False,False,True,False,13.686890223860201,False,,False,,False,False,
+ O  ,SER, 599,True,False,False,False,14.858143726589805,False,,False,,False,False,
+ N  ,MET, 600,False,True,False,False,12.96290800707928,False,,False,,False,False,
+ CA ,MET, 600,False,False,True,False,13.60046028632855,False,,False,,False,False,
+ CB ,MET, 600,False,False,True,False,12.688545267287344,False,,False,,False,False,
+ CG ,MET, 600,False,False,True,False,11.658042159813972,False,,False,,False,False,
+ SD ,MET, 600,False,False,True,False,12.609743415311833,False,,False,,False,False,
+ CE ,MET, 600,False,False,True,False,13.008024177406812,False,,False,,False,False,
+ C  ,MET, 600,False,False,True,False,14.80470209088991,False,,False,,False,False,
+ N  ,VAL, 601,False,True,False,False,14.737540398587551,False,,False,,False,False,
+ CG2,VAL, 601,False,False,True,False,14.818082197099596,False,,False,,False,False,
+ CA ,ILE, 613,False,False,True,False,14.715401863353918,False,,False,,False,False,
+ CB ,ILE, 613,False,False,True,False,14.940041231536142,False,,False,,False,False,
+ CG2,ILE, 613,False,False,True,False,14.530149345412793,False,,False,,False,False,
+ C  ,ILE, 613,False,False,True,False,13.237964533870004,False,,False,,False,False,
+ O  ,ILE, 613,True,False,False,False,12.474307796427023,False,,True, O    171 3.0,False,False,
+ N  ,ALA, 614,False,True,False,False,12.881696860274266,False,,False,,False,False,
+ CA ,ALA, 614,False,False,True,False,11.504467784300147,False,,False,,False,False,
+ CB ,ALA, 614,False,False,True,False,11.522885532712714,False,,False,,False,False,
+ C  ,ALA, 614,False,False,True,False,11.093802143539422,False,,False,,False,False,
+ O  ,ALA, 614,True,False,False,False,11.867632535598663,False,,False,,False,False,
+ N  ,VAL, 615,False,True,False,False,10.029553828560868,False,,False,,False,False,
+ CA ,VAL, 615,False,False,True,False,9.769123195046726,False,,False,,False,False,
+ CB ,VAL, 615,False,False,True,False,9.942704259908366,False,,False,,False,False,
+ CG1,VAL, 615,False,False,True,False,10.063775434696463,False,,False,,False,False,
+ CG2,VAL, 615,False,False,True,False,11.305625723505974,False,,False,,False,False,
+ C  ,VAL, 615,False,False,True,False,8.479361827401865,False,,False,,False,False,
+ O  ,VAL, 615,True,False,False,False,7.407564309541968,False,,False,,False,False,
+ N  ,ALA, 616,False,True,False,False,8.74860526026863,True, O    169 2.93 | O    193 2.36,True, O    173 2.93 | O    177 2.56,False,False,
+ CA ,ALA, 616,False,False,True,False,7.868987609597561,False,,False,,False,False,
+ CB ,ALA, 616,False,False,True,False,7.2679481285986025,False,,False,,False,False,
+ C  ,ALA, 616,False,False,True,False,6.984986041503587,False,,False,,False,False,
+ O  ,ALA, 616,True,False,False,False,5.768981019209541,True, O     21 3.12,True, O     64 2.97,False,False,
+ N  ,PRO, 617,False,False,False,False,7.635934716850319,False,,False,,False,False,
+ CD ,PRO, 617,False,False,True,False,9.08818606763748,False,,False,,False,False,
+ CG ,PRO, 617,False,False,True,False,9.347987216508162,False,,False,,False,False,
+ CB ,PRO, 617,False,False,True,False,8.343290837553246,False,,False,,False,False,
+ CA ,PRO, 617,False,False,True,False,7.014088821792891,False,,False,,False,False,
+ C  ,PRO, 617,False,False,True,False,6.403562211769322,False,,False,,False,False,
+ O  ,PRO, 617,True,False,False,False,7.022412334803476,True, O     80 2.56 | O    250 2.6,True, O     75 2.56,False,False,
+ N  ,VAL, 618,False,True,False,False,5.484105943542666,True, O     21 2.64 | O    191 3.0 | O    250 3.31,True, O     64 2.86 | O    192 2.9,False,False,
+ CA ,VAL, 618,False,False,True,False,5.688646499827527,False,,False,,False,False,
+ CB ,VAL, 618,False,False,True,False,4.820314512560354,False,,False,,False,False,
+ CG1,VAL, 618,False,False,True,False,5.811470209852236,False,,False,,False,False,
+ CG2,VAL, 618,False,False,True,False,3.5009261631745376,False,,False,,False,False,
+ C  ,VAL, 618,False,False,True,False,7.131502085816142,False,,False,,False,False,
+ O  ,VAL, 618,True,False,False,False,7.63422766231136,True, O     83 3.15 | O    135 2.83 | O    250 2.43,True, O     78 3.15 | O    188 2.32 | O    242 2.98,False,False,
+ N  ,SER, 619,False,True,False,False,7.995115133630032,True, O    135 2.81 | O    250 2.91,True, O    188 3.1 | O    242 3.39,False,False,
+ CA ,SER, 619,False,False,True,False,9.371968736610254,False,,False,,False,False,
+ CB ,SER, 619,False,False,True,False,10.393774530939178,False,,False,,False,False,
+ OG ,SER, 619,True,True,False,False,10.630596408480567,False,,False,,False,False,
+ C  ,SER, 619,False,False,True,False,9.957568026380738,False,,False,,False,False,
+ O  ,SER, 619,True,False,False,False,10.997998408801482,True, O     77 2.97 | O    135 3.31 | O    136 2.6,True, O     71 2.61 | O    242 2.57,False,False,
+ N  ,ARG, 620,False,True,False,False,9.48277791577974,True, O     77 2.98 | O    135 2.98,True, O     71 3.2 | O    263 3.39,False,False,
+ CA ,ARG, 620,False,False,True,False,10.293206060309874,False,,False,,False,False,
+ CB ,ARG, 620,False,False,True,False,11.522442579592225,False,,False,,False,False,
+ CG ,ARG, 620,False,False,True,False,12.471034399760105,False,,False,,False,False,
+ CD ,ARG, 620,False,False,True,False,13.771291987319126,False,,False,,False,False,
+ NE ,ARG, 620,False,True,False,False,14.64415357745199,False,,False,,False,False,
+ C  ,ARG, 620,False,False,True,False,9.522233403986691,False,,False,,False,False,
+ O  ,ARG, 620,True,False,False,False,8.995217451512774,True, O     71 2.93,True, O     63 3.03,False,False,
+ N  ,TRP, 621,False,True,False,False,9.479282145816741,True, O     77 3.29,True, O    104 2.99,False,False,
+ CA ,TRP, 621,False,False,True,False,8.778581263507219,False,,False,,False,False,
+ CB ,TRP, 621,False,False,True,False,8.894318523641932,False,,False,,False,False,
+ CG ,TRP, 621,False,False,True,False,8.041462926607323,False,,False,,False,False,
+ CD1,TRP, 621,False,False,True,False,8.628537767200191,False,,False,,False,False,
+ NE1,TRP, 621,False,True,False,False,7.818957347370556,True, O    158 2.72,True, O    145 2.52 | O    245 2.95 | O    263 3.11,False,False,
+ CE2,TRP, 621,False,False,True,False,6.497859801503879,False,,False,,False,False,
+ CZ2,TRP, 621,False,False,True,False,5.401851812110367,False,,False,,False,False,
+ CH2,TRP, 621,False,False,True,False,4.154158037436709,False,,False,,False,False,
+ CZ3,TRP, 621,False,False,True,False,4.285958702554189,False,,False,,False,False,
+ CE3,TRP, 621,False,False,True,False,5.6265266372781015,False,,False,,False,False,
+ CD2,TRP, 621,False,False,True,False,6.618515921262108,False,,False,,False,False,
+ C  ,TRP, 621,False,False,True,False,9.455793462211409,False,,False,,False,False,
+ O  ,TRP, 621,True,False,False,False,8.971445424233492,False,,False,,False,False,
+ N  ,GLU, 622,False,True,False,False,10.721276696364104,False,,False,,False,False,
+ CA ,GLU, 622,False,False,True,False,11.575690087420277,False,,False,,False,False,
+ CB ,GLU, 622,False,False,True,False,13.031630941674184,False,,False,,False,False,
+ CG ,GLU, 622,False,False,True,False,13.77105896436436,False,,False,,False,False,
+ C  ,GLU, 622,False,False,True,False,11.111002385023593,False,,False,,False,False,
+ O  ,GLU, 622,True,False,False,False,11.667780337322089,False,,False,,False,False,
+ N  ,TYR, 623,False,True,False,False,10.218176843253396,False,,False,,False,False,
+ CA ,TYR, 623,False,False,True,False,9.86860380195699,False,,False,,False,False,
+ CB ,TYR, 623,False,False,True,False,9.675614967535653,False,,False,,False,False,
+ CG ,TYR, 623,False,False,True,False,10.913672205082943,False,,False,,False,False,
+ CD1,TYR, 623,False,False,True,False,12.154728380346473,False,,False,,False,False,
+ CE1,TYR, 623,False,False,True,False,13.336908224922293,False,,False,,False,False,
+ CZ ,TYR, 623,False,False,True,False,13.342976317149033,False,,False,,False,False,
+ OH ,TYR, 623,True,True,False,False,14.570524218434965,False,,False,,False,False,
+ CE2,TYR, 623,False,False,True,False,12.238414480642497,False,,False,,False,False,
+ CD2,TYR, 623,False,False,True,False,10.964983082522286,False,,False,,False,False,
+ C  ,TYR, 623,False,False,True,False,8.7624129667575,False,,False,,False,False,
+ O  ,TYR, 623,True,False,False,False,8.738268135048267,True, O     38 3.47 | O     51 2.34 | O     52 2.84,True, O     34 3.47 | O     43 2.34 | O     46 2.84,False,False,
+ N  ,TYR, 624,False,True,False,False,8.033057761525182,True, O     71 3.39,True, O     63 3.31,False,False,
+ CA ,TYR, 624,False,False,True,False,6.976913429303819,False,,False,,False,False,
+ CB ,TYR, 624,False,False,True,False,5.764553582021766,False,,False,,False,False,
+ CG ,TYR, 624,False,False,True,False,4.630896889372509,False,,False,,False,False,
+ CD1,TYR, 624,False,False,True,False,4.278354122790675,False,,False,,False,False,
+ CE1,TYR, 624,False,False,True,False,3.762632854797288,False,,False,,False,False,
+ CZ ,TYR, 624,False,False,True,False,3.598404785457021,False,,False,,False,False,
+ OH ,TYR, 624,True,True,False,False,2.8568192102406442,True, O     14 2.42 | O     50 2.37 | O     62 2.74 | O    119 3.43 | O    121 2.42 | O    138 2.58,True, O     44 2.4 | O     70 2.74,True,False, C01 HF_HB 2.86 | C07 HF_HB 3.27 | N01 HB 3.04 | O01 HB 3.19
+ CE2,TYR, 624,False,False,True,False,3.598667114363316,False,,False,,False,False,
+ CD2,TYR, 624,False,False,True,False,4.359750680944954,False,,False,,False,False,
+ C  ,TYR, 624,False,False,True,False,7.74523466397242,False,,False,,False,False,
+ O  ,TYR, 624,True,False,False,False,8.909014199113162,False,,False,,False,False,
+ N  ,ASP, 625,False,True,False,False,7.348989794522782,False,,False,,False,False,
+ CA ,ASP, 625,False,False,True,False,8.31327624946988,False,,False,,False,False,
+ CB ,ASP, 625,False,False,True,False,7.715397267801573,False,,False,,False,False,
+ CG ,ASP, 625,False,False,True,False,6.375129488880989,False,,False,,False,False,
+ OD1,ASP, 625,True,False,False,False,6.512893750092965,False,,False,,False,False,
+ OD2,ASP, 625,True,False,False,False,5.38925607111037,True, O     62 2.53 | O     85 2.31,True, O     70 2.53 | O     87 3.02,False,False,
+ C  ,ASP, 625,False,False,True,False,8.621047384163942,False,,False,,False,False,
+ O  ,ASP, 625,True,False,False,False,7.95982016128505,False,,True, O    169 3.47,False,False,
+ N  ,SER, 626,False,True,False,False,9.783037258438707,True, O     86 2.9,True, O     80 2.9,False,False,
+ CA ,SER, 626,False,False,True,False,10.565502070417663,False,,False,,False,False,
+ CB ,SER, 626,False,False,True,False,11.806523874536484,False,,False,,False,False,
+ OG ,SER, 626,True,True,False,False,11.540732299122096,True, O     86 2.9,True, O     80 2.9,False,False,
+ C  ,SER, 626,False,False,True,False,9.896994543799646,False,,False,,False,False,
+ O  ,SER, 626,True,False,False,False,10.047921625888607,True, O    192 2.42,True, O    169 3.12 | O    272 2.42,False,False,
+ N  ,VAL, 627,False,True,False,False,9.364418348194402,False,,False,,False,False,
+ CA ,VAL, 627,False,False,True,False,9.168138578795588,False,,False,,False,False,
+ CB ,VAL, 627,False,False,True,False,8.795065775763133,False,,False,,False,False,
+ CG1,VAL, 627,False,False,True,False,8.71078325984523,False,,False,,False,False,
+ CG2,VAL, 627,False,False,True,False,9.981699103860022,False,,False,,False,False,
+ C  ,VAL, 627,False,False,True,False,8.23793293247766,False,,False,,False,False,
+ O  ,VAL, 627,True,False,False,False,8.762343579202994,True, O    192 2.28,True, O    272 2.28,False,False,
+ N  ,TYR, 628,False,True,False,False,7.0388466384770725,False,,True, O    179 2.37,False,False,
+ CA ,TYR, 628,False,False,True,False,6.309001030274125,False,,False,,False,False,
+ CB ,TYR, 628,False,False,True,False,4.896128266293683,False,,False,,False,False,
+ CG ,TYR, 628,False,False,True,False,4.137850891465277,False,,False,,False,False,
+ CD1,TYR, 628,False,False,True,False,3.8765255061717308,False,,False,,False,False,
+ CE1,TYR, 628,False,False,True,False,3.4731803869076514,False,,False,,False,True, C02 HF 3.47
+ CZ ,TYR, 628,False,False,True,False,3.294565828754986,False,,False,,False,True, C02 HF 3.29
+ OH ,TYR, 628,True,True,False,False,3.6673228655246635,True, O     13 2.56 | O     27 2.74 | O    184 3.0 | O    208 3.05,True, O     14 2.85 | O     25 2.56 | O    124 2.42 | O    189 3.43,False,False,
+ CE2,TYR, 628,False,False,True,False,3.588709238709651,False,,False,,False,False,
+ CD2,TYR, 628,False,False,True,False,3.6593428371771877,False,,False,,False,False,
+ C  ,TYR, 628,False,False,True,False,6.894522826127998,False,,False,,False,False,
+ O  ,TYR, 628,True,False,False,False,7.291046769840391,True, O     89 2.59 | O     94 2.93,True, O     83 2.59 | O     90 2.93,False,False,
+ N  ,THR, 629,False,True,False,False,7.0804622730440405,True, O    100 2.98,True, O     95 2.98,False,False,
+ CA ,THR, 629,False,False,True,False,7.601319359163908,False,,False,,False,False,
+ CB ,THR, 629,False,False,True,False,7.907769027987602,False,,False,,False,False,
+ CG2,THR, 629,False,False,True,False,8.42911774742766,False,,False,,False,False,
+ OG1,THR, 629,True,True,False,False,6.830988508261449,True, O    100 2.42,True, O     95 2.42,False,False,
+ C  ,THR, 629,False,False,True,False,8.932342190041757,False,,False,,False,False,
+ O  ,THR, 629,True,False,False,False,9.293195682863889,True, O     94 2.42 | O    151 3.0,True, O     90 2.42 | O    160 3.0,False,False,
+ N  ,GLU, 630,False,True,False,False,9.805741226444843,True, O    190 2.71 | O    192 3.07,True, O    169 2.74 | O    272 3.07,False,False,
+ CA ,GLU, 630,False,False,True,False,11.161506439544798,False,,False,,False,False,
+ CB ,GLU, 630,False,False,True,False,12.12601109186364,False,,False,,False,False,
+ CG ,GLU, 630,False,False,True,False,12.444736758967624,False,,False,,False,False,
+ CD ,GLU, 630,False,False,True,False,13.229832425242579,False,,False,,False,False,
+ OE1,GLU, 630,True,False,False,False,13.733774499386538,False,,False,,False,False,
+ OE2,GLU, 630,True,False,False,False,13.466030001451802,False,,False,,False,False,
+ C  ,GLU, 630,False,False,True,False,11.350679142676883,False,,False,,False,False,
+ O  ,GLU, 630,True,False,False,False,12.370512236766915,False,,False,,False,False,
+ N  ,ARG, 631,False,True,False,False,10.514684493602267,True, O    192 2.69,True, O    272 2.69,False,False,
+ CA ,ARG, 631,False,False,True,False,10.891251994146497,False,,False,,False,False,
+ CB ,ARG, 631,False,False,True,False,9.575804822572358,False,,False,,False,False,
+ CG ,ARG, 631,False,False,True,False,9.680002376032764,False,,False,,False,False,
+ CD ,ARG, 631,False,False,True,False,8.37454446522317,False,,False,,False,False,
+ NE ,ARG, 631,False,True,False,False,7.878025958322302,True, O     33 3.19 | O     70 3.1 | O     89 2.68,True, O     30 3.19 | O     62 3.1 | O     83 2.68,False,False,
+ CZ ,ARG, 631,False,False,True,False,6.643686777686017,False,,False,,False,False,
+ NH1,ARG, 631,False,True,False,False,5.599530694620753,True, O     10 2.81 | O     47 2.64 | O     70 2.64 | O     89 2.31,True, O     23 2.81 | O     42 2.64 | O     62 2.64 | O     83 2.31,False,False,
+ NH2,ARG, 631,False,True,False,False,6.657417667534459,True, O     10 2.53 | O     24 3.09 | O     33 3.42 | O     44 2.89 | O    127 3.14 | O    253 3.35,True, O     21 3.09 | O     23 2.53 | O     30 3.42 | O     40 2.89 | O    114 3.14 | O    179 3.26 | O    182 3.15,False,False,
+ C  ,ARG, 631,False,False,True,False,11.17451658909682,False,,False,,False,False,
+ O  ,ARG, 631,True,False,False,False,12.231985734131642,False,,False,,False,False,
+ N  ,TYR, 632,False,True,False,False,10.369603560406732,False,,False,,False,False,
+ CA ,TYR, 632,False,False,True,False,10.72132146705806,False,,False,,False,False,
+ CB ,TYR, 632,False,False,True,False,9.569729567756863,False,,False,,False,False,
+ CG ,TYR, 632,False,False,True,False,8.66926046442256,False,,False,,False,False,
+ CD1,TYR, 632,False,False,True,False,9.327627243838595,False,,False,,False,False,
+ CE1,TYR, 632,False,False,True,False,8.60546622792746,False,,False,,False,False,
+ CZ ,TYR, 632,False,False,True,False,7.317921221221228,False,,False,,False,False,
+ OH ,TYR, 632,True,True,False,False,6.271152764843161,True, O     27 3.43 | O     41 2.67 | O     47 2.53 | O     70 2.43 | O     89 3.03,True, O     25 3.17 | O     39 2.67 | O     42 2.53 | O     62 2.43 | O     83 3.03,False,False,
+ CE2,TYR, 632,False,False,True,False,6.742402687469805,False,,False,,False,False,
+ CD2,TYR, 632,False,False,True,False,7.372380551762097,False,,False,,False,False,
+ C  ,TYR, 632,False,False,True,False,11.568052083216086,False,,False,,False,False,
+ O  ,TYR, 632,True,False,False,False,12.336585832393014,False,,False,,False,False,
+ N  ,MET, 633,False,True,False,False,11.48182611782638,False,,False,,False,False,
+ CA ,MET, 633,False,False,True,False,12.10686041052758,False,,False,,False,False,
+ CB ,MET, 633,False,False,True,False,11.217372731615901,False,,False,,False,False,
+ CG ,MET, 633,False,False,True,False,10.232438223610249,False,,False,,False,False,
+ SD ,MET, 633,False,False,True,False,11.273810624629101,False,,False,,False,False,
+ CE ,MET, 633,False,False,True,False,11.617352710493039,False,,False,,False,False,
+ C  ,MET, 633,False,False,True,False,13.36770245778982,False,,False,,False,False,
+ O  ,MET, 633,True,False,False,False,14.147171095310892,False,,False,,False,False,
+ N  ,GLY, 634,False,True,False,False,13.695194704713035,False,,False,,False,False,
+ CA ,GLY, 634,False,False,True,False,14.830867641510391,False,,False,,False,False,
+ C  ,GLY, 634,False,False,True,False,14.699206305103685,False,,False,,False,False,
+ O  ,GLY, 634,True,False,False,False,13.623794295276186,False,,False,,False,False,
+ CE1,HIS, 644,False,False,True,False,14.949910534849367,False,,False,,False,False,
+ NE2,HIS, 644,True,True,False,False,13.806309499645446,False,,False,,False,False,
+ CD2,HIS, 644,False,False,True,False,13.988418709775596,False,,False,,False,False,
+ O  ,HIS, 644,True,False,False,False,14.575534364132244,False,,False,,False,False,
+ N  ,TYR, 645,False,True,False,False,14.961096116261004,False,,False,,False,False,
+ CA ,TYR, 645,False,False,True,False,14.02942953223687,False,,False,,False,False,
+ CB ,TYR, 645,False,False,True,False,14.209089977897952,False,,False,,False,False,
+ CG ,TYR, 645,False,False,True,False,13.387855989664661,False,,False,,False,False,
+ CD1,TYR, 645,False,False,True,False,12.273012751561861,False,,False,,False,False,
+ CE1,TYR, 645,False,False,True,False,11.668667918832895,False,,False,,False,False,
+ CZ ,TYR, 645,False,False,True,False,12.268176840916501,False,,False,,False,False,
+ OH ,TYR, 645,True,True,False,False,11.93416658170984,True, O    190 2.53,True, O    169 3.37,False,False,
+ CE2,TYR, 645,False,False,True,False,13.386574020263737,False,,False,,False,False,
+ CD2,TYR, 645,False,False,True,False,13.898410340754799,False,,False,,False,False,
+ C  ,TYR, 645,False,False,True,False,14.530201753588972,False,,False,,False,False,
+ O  ,TYR, 645,True,False,False,False,13.826132647996692,False,,False,,False,False,
+ N  ,SER, 648,False,True,False,False,14.657388307607878,False,,False,,False,False,
+ CA ,SER, 648,False,False,True,False,13.506413957820191,False,,False,,False,False,
+ CB ,SER, 648,False,False,True,False,12.653920301629848,False,,False,,False,False,
+ OG ,SER, 648,True,True,False,False,12.188133614298787,True, O    158 2.71,True, O    104 2.67 | O    145 2.37,False,False,
+ C  ,SER, 648,False,False,True,False,12.75825775723316,False,,False,,False,False,
+ O  ,SER, 648,True,False,False,False,11.5749551619002,True, O     77 2.84 | O    136 3.31,True, O     71 2.42 | O    104 2.76,False,False,
+ N  ,THR, 649,False,True,False,False,13.546285616359935,False,,False,,False,False,
+ CA ,THR, 649,False,False,True,False,13.15315893616435,False,,False,,False,False,
+ CB ,THR, 649,False,False,True,False,13.98527693683611,False,,False,,False,False,
+ CG2,THR, 649,False,False,True,False,14.03219034933606,False,,False,,False,False,
+ C  ,THR, 649,False,False,True,False,13.553739373324248,False,,False,,False,False,
+ O  ,THR, 649,True,False,False,False,14.504718714956182,False,,False,,False,False,
+ N  ,VAL, 650,False,True,False,False,12.956354965807318,True, O    136 2.53,True, O    242 3.24,False,False,
+ CA ,VAL, 650,False,False,True,False,13.542340898087003,False,,False,,False,False,
+ CB ,VAL, 650,False,False,True,False,12.6610268145992,False,,False,,False,False,
+ CG1,VAL, 650,False,False,True,False,13.550263945768728,False,,False,,False,False,
+ CG2,VAL, 650,False,False,True,False,11.411052931259233,False,,False,,False,False,
+ C  ,VAL, 650,False,False,True,False,14.887028346852839,False,,False,,False,False,
+ N  ,MET, 651,False,True,False,False,14.995323737752377,False,,False,,False,False,
+ SD ,MET, 651,False,False,True,False,13.913947750369049,False,,False,,False,False,
+ CE ,MET, 651,False,False,True,False,13.70660840616671,False,,False,,False,False,
+ CZ ,TYR, 662,False,False,True,False,14.781127595687684,False,,False,,False,False,
+ OH ,TYR, 662,True,True,False,False,13.562305298141611,False,,False,,False,False,
+ CG ,LEU, 664,False,False,True,False,14.34662692063887,False,,False,,False,False,
+ CD1,LEU, 664,False,False,True,False,12.93221829385817,False,,False,,False,False,
+ CD2,LEU, 664,False,False,True,False,14.966062073905745,False,,False,,False,False,
+ C  ,LEU, 664,False,False,True,False,14.941527398495776,False,,False,,False,False,
+ N  ,ILE, 665,False,True,False,False,13.793851311363333,False,,False,,False,False,
+ CA ,ILE, 665,False,False,True,False,13.789355532438778,False,,False,,False,False,
+ CB ,ILE, 665,False,False,True,False,13.815882780336546,False,,False,,False,False,
+ CG2,ILE, 665,False,False,True,False,14.104644447840572,False,,False,,False,False,
+ C  ,ILE, 665,False,False,True,False,12.66243254671076,False,,False,,False,False,
+ O  ,ILE, 665,True,False,False,False,11.51383906436076,True, O    169 2.29 | O    193 2.46,True, O    173 2.29 | O    177 2.68,False,False,
+ N  ,HIS, 666,False,True,False,False,13.091912350760678,True, O    193 3.14,True, O    177 3.22,False,False,
+ CA ,HIS, 666,False,False,True,False,12.27151188729408,False,,False,,False,False,
+ CB ,HIS, 666,False,False,True,False,12.13953462864207,False,,False,,False,False,
+ CG ,HIS, 666,False,False,True,False,10.818033000504297,False,,False,,False,False,
+ ND1,HIS, 666,True,True,False,False,9.998025054979607,True, O    169 2.37,True, O    173 2.37,False,False,
+ CE1,HIS, 666,False,False,True,False,8.947879860615025,False,,False,,False,False,
+ NE2,HIS, 666,True,True,False,False,9.14509108757261,True, O     54 3.01,True, O     48 3.01,False,False,
+ CD2,HIS, 666,False,False,True,False,10.315443810132455,False,,False,,False,False,
+ C  ,HIS, 666,False,False,True,False,13.016160570613742,False,,False,,False,False,
+ O  ,HIS, 666,True,False,False,False,14.251910187760794,False,,False,,False,False,
+ N  ,GLY, 667,False,True,False,False,12.386929805242294,True, O     54 2.89 | O    193 3.43,True, O     48 2.89 | O    144 3.36 | O    177 3.25,False,False,
+ CA ,GLY, 667,False,False,True,False,13.240572872802744,False,,False,,False,False,
+ C  ,GLY, 667,False,False,True,False,13.537859025710087,False,,False,,False,False,
+ O  ,GLY, 667,True,False,False,False,12.667288620695434,False,,True, O    144 3.44,False,False,
+ N  ,THR, 668,False,True,False,False,14.804386816075839,False,,False,,False,False,
+ C  ,THR, 668,False,False,True,False,14.917342055473558,False,,False,,False,False,
+ N  ,ALA, 669,False,True,False,False,14.623809421624724,False,,False,,False,False,
+ CA ,ALA, 669,False,False,True,False,14.35832507641473,False,,False,,False,False,
+ C  ,ALA, 669,False,False,True,False,12.854563430937672,False,,False,,False,False,
+ O  ,ALA, 669,True,False,False,False,12.500412513193316,False,,False,,False,False,
+ N  ,ASP, 670,False,True,False,False,12.0522709063479,False,,False,,False,False,
+ CA ,ASP, 670,False,False,True,False,10.622436114187744,False,,False,,False,False,
+ CB ,ASP, 670,False,False,True,False,9.811525875214317,False,,False,,False,False,
+ CG ,ASP, 670,False,False,True,False,8.369042059877584,False,,False,,False,False,
+ OD1,ASP, 670,True,False,False,False,7.854655753118659,True, O    131 2.52,True, O    119 2.52 | O    172 3.27,False,False,
+ OD2,ASP, 670,True,False,False,False,7.914201223117851,True, O     54 2.65,True, O     48 2.65 | O    144 2.65,False,False,
+ C  ,ASP, 670,False,False,True,False,10.384091727252796,False,,False,,False,False,
+ O  ,ASP, 670,True,False,False,False,10.669177334733924,False,,False,,False,False,
+ N  ,ASP, 671,False,True,False,False,10.015078931291557,True, O    131 2.37,True, O    119 2.37,False,False,
+ CA ,ASP, 671,False,False,True,False,10.05540914135273,False,,False,,False,False,
+ CB ,ASP, 671,False,False,True,False,10.416050835129408,False,,False,,False,False,
+ CG ,ASP, 671,False,False,True,False,9.533759908871211,False,,False,,False,False,
+ OD1,ASP, 671,True,False,False,False,9.775723911813383,True, O     15 2.42 | O    104 3.49 | O    131 2.28 | O    219 3.29,True, O     12 2.42 | O    100 3.49 | O    119 2.28 | O    198 3.29,False,False,
+ OD2,ASP, 671,True,False,False,False,8.729820960363393,True, O     31 3.19 | O    104 3.12 | O    131 3.17 | O    219 3.0,True, O     27 3.19 | O    100 3.12 | O    119 3.17 | O    198 3.0,False,False,
+ C  ,ASP, 671,False,False,True,False,8.805870201178301,False,,False,,False,False,
+ O  ,ASP, 671,True,False,False,False,8.95214443583212,False,,False,,False,False,
+ N  ,ASN, 672,False,True,False,False,7.738630628218407,True, O    131 2.62,True, O    119 2.62,False,False,
+ CA ,ASN, 672,False,False,True,False,6.437027730249425,False,,False,,False,False,
+ CB ,ASN, 672,False,False,True,False,5.362962427614054,False,,False,,False,False,
+ CG ,ASN, 672,False,False,True,False,3.9314100523857864,False,,False,,False,False,
+ OD1,ASN, 672,True,False,False,False,3.8794140021400145,True, O     62 2.63 | O    121 2.37 | O    138 2.37 | O    258 3.07,True, O     44 2.47 | O     54 3.37 | O     70 2.63 | O    172 3.22,False,False,
+ ND2,ASN, 672,False,True,False,False,3.1653023552261157,True, O      8 3.46 | O     58 2.61 | O    121 2.56 | O    138 2.56 | O    150 2.49 | O    258 2.51,True, O     44 2.64 | O     50 2.61 | O     54 2.61 | O    157 2.69 | O    172 3.37,True,False, O01 HB 3.17
+ C  ,ASN, 672,False,False,True,False,6.373582430627221,False,,False,,False,False,
+ O  ,ASN, 672,True,False,False,False,6.462529380977697,True, O     38 2.97 | O     62 3.19,True, O     34 2.97 | O     70 3.19,False,False,
+ N  ,VAL, 673,False,True,False,False,6.02623506013498,False,,True, O    172 2.36,False,False,
+ CA ,VAL, 673,False,False,True,False,5.847547007079121,False,,False,,False,False,
+ CB ,VAL, 673,False,False,True,False,5.071101063871632,False,,False,,False,False,
+ CG1,VAL, 673,False,False,True,False,5.447121533433965,False,,False,,False,False,
+ CG2,VAL, 673,False,False,True,False,3.5948737112727627,False,,False,,False,False,
+ C  ,VAL, 673,False,False,True,False,7.310625554629367,False,,False,,False,False,
+ O  ,VAL, 673,True,False,False,False,7.958915189898686,False,,False,,False,False,
+ N  ,HIS, 674,False,True,False,False,8.037880815239795,True, O     38 2.65 | O     52 3.38,True, O     34 2.65 | O     46 3.38,False,False,
+ CA ,HIS, 674,False,False,True,False,9.476031922698443,False,,False,,False,False,
+ CB ,HIS, 674,False,False,True,False,10.297938046036204,False,,False,,False,False,
+ CG ,HIS, 674,False,False,True,False,10.121701191005394,False,,False,,False,False,
+ ND1,HIS, 674,True,True,False,False,9.994087702236758,False,,False,,False,False,
+ CE1,HIS, 674,False,False,True,False,10.0881329789015,False,,False,,False,False,
+ NE2,HIS, 674,True,True,False,False,10.267517226671695,True, O     51 2.87,True, O     43 2.87,False,False,
+ CD2,HIS, 674,False,False,True,False,10.28880255423341,False,,False,,False,False,
+ C  ,HIS, 674,False,False,True,False,9.975200248616565,False,,False,,False,False,
+ O  ,HIS, 674,True,False,False,False,9.50880244825814,False,,False,,False,False,
+ N  ,PHE, 675,False,True,False,False,11.08188598569756,False,,False,,False,False,
+ CA ,PHE, 675,False,False,True,False,11.863729346204758,False,,False,,False,False,
+ CB ,PHE, 675,False,False,True,False,13.19048103747547,False,,False,,False,False,
+ CG ,PHE, 675,False,False,True,False,14.129483253112971,False,,False,,False,False,
+ CD1,PHE, 675,False,False,True,False,14.191505663600319,False,,False,,False,False,
+ C  ,PHE, 675,False,False,True,False,12.230921388023061,False,,False,,False,False,
+ O  ,PHE, 675,True,False,False,False,12.448616670136484,False,,False,,False,False,
+ N  ,GLN, 676,False,True,False,False,12.499849759097104,False,,False,,False,False,
+ CA ,GLN, 676,False,False,True,False,12.854673158038674,False,,False,,False,False,
+ CB ,GLN, 676,False,False,True,False,12.714549303848719,False,,False,,False,False,
+ CG ,GLN, 676,False,False,True,False,12.987475582267711,False,,False,,False,False,
+ CD ,GLN, 676,False,False,True,False,12.761462141933421,False,,False,,False,False,
+ OE1,GLN, 676,True,False,False,False,11.812610253453718,True, O     52 2.91 | O     91 2.37,True, O     46 2.91 | O     86 2.37,False,False,
+ NE2,GLN, 676,False,True,False,False,13.75901420887412,False,,False,,False,False,
+ C  ,GLN, 676,False,False,True,False,12.180109933822434,False,,False,,False,False,
+ O  ,GLN, 676,True,False,False,False,12.943842706090026,False,,False,,False,False,
+ N  ,GLN, 677,False,True,False,False,10.859053089473315,True, O     91 2.61,True, O     86 2.61,False,False,
+ CA ,GLN, 677,False,False,True,False,10.29149478938798,False,,False,,False,False,
+ CB ,GLN, 677,False,False,True,False,8.765968628736928,False,,False,,False,False,
+ CG ,GLN, 677,False,False,True,False,8.185437923532252,False,,False,,False,False,
+ CD ,GLN, 677,False,False,True,False,7.308199573082276,False,,False,,False,False,
+ OE1,GLN, 677,True,False,False,False,7.634786244551972,True, O     71 3.05,True, O     63 2.89,False,False,
+ NE2,GLN, 677,False,True,False,False,6.497276198531194,True, O     38 2.59 | O     71 2.82 | O    202 2.47,True, O     34 2.59 | O     63 2.53,False,False,
+ C  ,GLN, 677,False,False,True,False,11.033831111631173,False,,False,,False,False,
+ O  ,GLN, 677,True,False,False,False,11.606976436609145,True, O     80 3.15,True, O     75 3.15,False,False,
+ N  ,SER, 678,False,True,False,False,11.235880294841165,True, O     80 2.51,True, O     75 2.51,False,False,
+ CA ,SER, 678,False,False,True,False,12.212125285960669,False,,False,,False,False,
+ CB ,SER, 678,False,False,True,False,12.248304821484481,False,,False,,False,False,
+ OG ,SER, 678,True,True,False,False,11.231737621579306,True, O     80 2.66 | O    169 2.34,True, O     75 2.66 | O    173 2.34,False,False,
+ C  ,SER, 678,False,False,True,False,13.62564670024876,False,,False,,False,False,
+ O  ,SER, 678,True,False,False,False,14.491066592904748,False,,False,,False,False,
+ N  ,ALA, 679,False,True,False,False,13.963779252050642,False,,False,,False,False,
+ N  ,GLN, 680,False,True,False,False,14.866258473469376,False,,False,,False,False,
+ CB ,GLN, 680,False,False,True,False,14.714164230427766,False,,False,,False,False,
+ N  ,ILE, 681,False,True,False,False,14.618161956962988,False,,False,,False,False,
+ CA ,ILE, 681,False,False,True,False,14.990514400780244,False,,False,,False,False,
+ CB ,ILE, 681,False,False,True,False,14.021498636023182,False,,False,,False,False,
+ CG2,ILE, 681,False,False,True,False,14.803421259965548,False,,False,,False,False,
+ CG1,ILE, 681,False,False,True,False,12.720154794655604,False,,False,,False,False,
+ CD1,ILE, 681,False,False,True,False,11.683717088324245,False,,False,,False,False,
+ C  ,GLU, 700,False,False,True,False,13.818087783770956,False,,False,,False,False,
+ O  ,GLU, 700,True,False,False,False,13.696816053375324,False,,False,,False,False,
+ N  ,ASP, 701,False,True,False,False,12.924403506545286,False,,False,,False,False,
+ CA ,ASP, 701,False,False,True,False,11.624509365990464,False,,False,,False,False,
+ CB ,ASP, 701,False,False,True,False,11.401051355028622,False,,False,,False,False,
+ CG ,ASP, 701,False,False,True,False,11.211376097518094,False,,False,,False,False,
+ OD1,ASP, 701,True,False,False,False,11.126851261700233,True, O    218 2.35,True, O     98 2.73,False,False,
+ OD2,ASP, 701,True,False,False,False,11.354877498238368,True, O      9 3.11 | O     15 3.05 | O    218 2.64,True, O      7 3.11 | O     12 3.05 | O     98 3.02,False,False,
+ C  ,ASP, 701,False,False,True,False,10.581843979193799,False,,False,,False,False,
+ O  ,ASP, 701,True,False,False,False,11.018465728040358,True, O     64 3.12,True, O     57 3.12 | O    144 2.34,False,False,
+ N  ,HIS, 702,False,True,False,False,9.298440353091479,True, O     15 3.19 | O    131 3.49 | O    218 3.22,True, O     12 3.19 | O    119 3.49 | O    144 3.12,False,False,
+ CA ,HIS, 702,False,False,True,False,8.314201645377626,False,,False,,False,False,
+ CB ,HIS, 702,False,False,True,False,6.88893816201017,False,,False,,False,False,
+ CG ,HIS, 702,False,False,True,False,5.907783002108322,False,,False,,False,False,
+ ND1,HIS, 702,True,True,False,False,5.713779397211617,True, O    258 2.71,True, O     54 3.33 | O    172 2.38,False,False,
+ CE1,HIS, 702,False,False,True,False,4.5197473380710065,False,,False,,False,False,
+ NE2,HIS, 702,True,True,False,False,4.038837580294603,True, O      6 2.42 | O      8 2.65 | O    258 2.42,True, O     13 3.07 | O     47 2.37 | O     54 2.3 | O    172 3.14 | O    244 3.09,False,False,
+ CD2,HIS, 702,False,False,True,False,5.021041923744516,False,,False,,False,False,
+ C  ,HIS, 702,False,False,True,False,8.723257820332954,False,,False,,False,False,
+ O  ,HIS, 702,True,False,False,False,8.188538941716036,True, O     36 2.53 | O     64 2.67,True, O     33 2.53 | O     57 2.67 | O    203 2.99 | O    244 2.56,False,False,
+ N  ,GLY, 703,False,True,False,False,9.451088826161778,True, O    218 3.0,True, O     98 3.05 | O    199 3.0 | O    203 2.56,False,False,
+ CA ,GLY, 703,False,False,True,False,10.060335431783576,False,,False,,False,False,
+ C  ,GLY, 703,False,False,True,False,11.165341821905857,False,,False,,False,False,
+ O  ,GLY, 703,True,False,False,False,11.578962863745613,True, O     36 3.11 | O    106 3.0,True, O     33 3.11 | O    102 3.12,False,False,
+ N  ,ILE, 704,False,True,False,False,11.725333811879299,False,,False,,False,False,
+ CA ,ILE, 704,False,False,True,False,12.955511645627894,False,,False,,False,False,
+ CB ,ILE, 704,False,False,True,False,12.794082733826597,False,,False,,False,False,
+ CG2,ILE, 704,False,False,True,False,14.231979974690798,False,,False,,False,False,
+ CG1,ILE, 704,False,False,True,False,11.875662760452567,False,,False,,False,False,
+ CD1,ILE, 704,False,False,True,False,11.86114939624318,False,,False,,False,False,
+ C  ,ILE, 704,False,False,True,False,13.825456845978,False,,False,,False,False,
+ O  ,ILE, 704,True,False,False,False,14.271023263942915,False,,False,,False,False,
+ N  ,ALA, 705,False,True,False,False,14.197170774488844,False,,False,,False,False,
+ CA ,ALA, 705,False,False,True,False,14.70667181927985,False,,False,,False,False,
+ CB ,ALA, 705,False,False,True,False,13.746959627495817,False,,False,,False,False,
+ CD1,ILE, 713,False,False,True,False,13.517335610245084,False,,False,,False,False,
+ CZ ,TYR, 714,False,False,True,False,14.396292335181307,False,,False,,False,False,
+ OH ,TYR, 714,True,True,False,False,13.17823501080475,False,,False,,False,False,
+ CE2,TYR, 714,False,False,True,False,14.933698034981148,False,,False,,False,False,
+ SD ,MET, 717,False,False,True,False,14.67287936977606,False,,False,,False,False,
+ CE ,MET, 717,False,False,True,False,14.931819915870937,False,,False,,False,False,
